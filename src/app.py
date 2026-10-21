@@ -9,50 +9,35 @@ st.title("Dashboard: Analiza Ofert Pracy")
 st.markdown("Ten dashboard prezentuje aktualne dane z rynku pracy na podstawie pobranych i oczyszczonych ofert.")
 
 @st.cache_data
-def load_data():
+def load_serving_data(filename):
     base_dir = Path(__file__).resolve().parent.parent
-    file_path = base_dir / "data" / "clean" / "job_offers_clean.json"
-    
+    file_path = base_dir / "data" / "serving" / filename
     try:
-        with open(file_path, 'r', encoding='utf-8') as f:
-            data = json.load(f)
-            
-        if "data" in data:
-            df = pd.DataFrame(data["data"])
-        else:
-            df = pd.DataFrame(data)
-            
-        return df
-    except Exception as e:
-        st.error(f"Wystąpił błąd podczas ładowania danych: {e}")
+        return pd.read_json(file_path)
+    except Exception:
         return pd.DataFrame()
 
-df_raw = load_data()
+df_offers = load_serving_data("serving_job_offers.json")
+df_locations = load_serving_data("serving_location_stats.json")
+df_tags = load_serving_data("serving_tags_summary.json")
+df_job_types = load_serving_data("serving_job_types_summary.json")
 
-if df_raw.empty:
-    st.warning("Brak danych do wyświetlenia. Upewnij się, że plik JSON istnieje w data/clean/.")
+if df_offers.empty:
+    st.warning("Brak danych w warstwie serving. Uruchom najpierw build_serving_data.py")
     st.stop()
-
-df_exploded = df_raw.explode('job_types').explode('tags')
 
 st.sidebar.header("Filtry")
 
-locations = df_raw['location'].dropna().unique().tolist()
+locations = df_offers['location'].dropna().unique().tolist()
 selected_location = st.sidebar.multiselect("Wybierz lokalizację", options=locations, default=locations[:10])
 
-job_types_list = df_exploded['job_types'].dropna().unique().tolist()
-selected_job_types = st.sidebar.multiselect("Typ zatrudnienia / doświadczenie", options=job_types_list, default=job_types_list[:5])
-
-df_filtered = df_raw[
-    (df_raw['location'].isin(selected_location)) &
-    (df_raw['job_types'].apply(lambda x: any(item in selected_job_types for item in x) if isinstance(x, list) else False))
-]
+df_filtered = df_offers[df_offers['location'].isin(selected_location)]
 
 st.subheader("Kluczowe wskaźniki")
 col1, col2, col3 = st.columns(3)
 
 with col1:
-    st.metric(label="Liczba ofert (odfiltrowane)", value=len(df_filtered))
+    st.metric(label="Liczba ofert", value=len(df_filtered))
 
 with col2:
     st.metric(label="Liczba unikalnych firm", value=df_filtered['company_name'].nunique())
@@ -67,19 +52,18 @@ st.divider()
 col_chart1, col_chart2 = st.columns(2)
 
 with col_chart1:
-    st.subheader("Top 10 Lokalizacji")
-    location_counts = df_filtered['location'].value_counts().head(10)
-    st.bar_chart(location_counts)
+    st.subheader("Top 10 Lokalizacji (Ogółem)")
+    if not df_locations.empty:
+        st.bar_chart(df_locations.set_index('location').head(10))
 
 with col_chart2:
-    st.subheader("Najczęstsze typy umów/wymagania")
-    job_types_counts = df_filtered.explode('job_types')['job_types'].value_counts().head(10)
-    st.bar_chart(job_types_counts)
+    st.subheader("Najczęstsze typy umów (Ogółem)")
+    if not df_job_types.empty:
+        st.bar_chart(df_job_types.set_index('job_type').head(10))
 
-st.subheader("Popularne Tagi / Umiejętności")
-tags_counts = df_filtered.explode('tags')['tags'].value_counts().head(15)
-st.bar_chart(tags_counts)
+st.subheader("Popularne Tagi (Ogółem)")
+if not df_tags.empty:
+    st.bar_chart(df_tags.set_index('tag').head(15))
 
-st.subheader("Tabela ofert (odfiltrowane)")
-display_columns = ['title', 'company_name', 'location', 'remote', 'job_types', 'tags']
-st.dataframe(df_filtered[display_columns], use_container_width=True)
+st.subheader("Tabela ofert")
+st.dataframe(df_filtered, use_container_width=True)
