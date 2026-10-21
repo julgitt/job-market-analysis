@@ -57,6 +57,12 @@ Utwórz środowisko wirtualne:
 python -m venv .venv
 ```
 
+lub
+
+```bash
+python3 -m venv .venv
+```
+
 Aktywuj je w systemie Windows:
 
 ```bash
@@ -75,4 +81,19 @@ Zainstaluj wymagane biblioteki:
 
 ```bash
 pip install -r requirements.txt
+```
+
+### Uruchamianie potoku danych
+
+Będąc w głównym katalogu job-market-analysis uruchom te polecenia:
+
+```bash
+python3 -m src.application.fetch_job_offers
+python3 -m src.application.clean_job_offers
+```
+
+### Uruchamianie dashboarda
+
+```bash
+streamlit run src/app.py
 ```
