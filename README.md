@@ -91,6 +91,7 @@ Będąc w głównym katalogu job-market-analysis uruchom te polecenia:
 ```bash
 python3 -m src.application.fetch_job_offers
 python3 -m src.application.clean_job_offers
+python3 -m src.application.build_serving_data
 ```
 
 ### Uruchamianie dashboarda

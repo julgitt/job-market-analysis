@@ -5,12 +5,19 @@ import html
 from src.config import load_settings
 from src.domain.job_offer_quality import validate_job_offer
 
+def fix_slashes(text: str) -> str:
+    if isinstance(text, str):
+        return text.replace("\\/", "/").replace("\/", "/")
+    return text
+
 def clean_text(value: str) -> str:
     value = html.unescape(html.unescape(value))
 
     value = re.sub(r"<[^>]+>", " ", value)
 
     value = value.replace("\xa0", " ")
+
+    value = fix_slashes(value)
 
     value = re.sub(r"\s+", " ", value)
 
@@ -79,8 +86,8 @@ def clean_job_offers() -> None:
         cleaned_offer = offer.copy()
 
         cleaned_offer["slug"] = slug
-        cleaned_offer["company_name"] = company_name.strip()
-        cleaned_offer["title"] = title.strip()
+        cleaned_offer["company_name"] = fix_slashes(company_name.strip())
+        cleaned_offer["title"] = fix_slashes(title.strip())
 
         description = cleaned_offer.get("description")
 
@@ -91,6 +98,11 @@ def clean_job_offers() -> None:
 
         if isinstance(location, str):
             cleaned_offer["location"] = location.strip()
+
+        for field in ["job_types", "tags"]:
+            field_data = cleaned_offer.get(field)
+            if isinstance(field_data, list):
+                cleaned_offer[field] = [fix_slashes(item) for item in field_data]
 
         cleaned_offers.append(cleaned_offer)
         seen_slugs.add(slug)
