@@ -29,6 +29,7 @@ job-market-analysis/
 │   ├── infrastructure/
 │   │   ├── job_offers_client.py
 │   │   └── json_job_offer_repository.py
+│   ├── app.py
 │   └── config.py
 ├── tests/
 ├── .env
