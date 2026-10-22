@@ -16,25 +16,29 @@ job-market-analysis/
 ├── data/
 │   ├── raw/
 │   ├── clean/
-│   └── service/
+│   └── serving/
 ├── docs/
 │   ├── decision_log.md
 │   └── project_context.md
 ├── src/
 │   ├── application/
-│   │   ├── __init__.py
-│   │   └── fetch_job_offers.py
+│   │   ├── fetch_job_offers.py
+│   │   ├── clean_job_offers.py
+│   │   └── build_serving_data.py
 │   ├── domain/
-│   │   └── job_offer.py
+│   │   ├── job_offer.py
+│   │   └── job_offer_quality.py
 │   ├── infrastructure/
 │   │   ├── job_offers_client.py
 │   │   └── json_job_offer_repository.py
 │   ├── app.py
 │   └── config.py
 ├── tests/
+│   └── test_job_offer_quality.py
 ├── .env
 ├── .env.example
 ├── .gitignore
+├── requirements.txt
 ├── PROGRESS.md
 └── README.md
 ```
