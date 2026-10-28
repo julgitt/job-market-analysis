@@ -2,10 +2,15 @@ import json
 import pandas as pd
 from pathlib import Path
 
+
+def save_as_json(df: pd.DataFrame, path: Path) -> None:
+    df.to_json(path, orient="records", force_ascii=False, indent=4)
+
+
 def build_gold_layer():
-    base_dir = Path(__file__).resolve().parent.parent.parent
-    clean_path = base_dir / "data" / "clean" / "job_offers_clean.json"
-    serving_dir = base_dir / "data" / "serving"
+    settings = load_settings()
+    clean_path = settings["clean_data_dir"] / "job_offers_clean.json"
+    serving_dir = settings["serving_data_dir"]
     
     serving_dir.mkdir(parents=True, exist_ok=True)
     
@@ -20,22 +25,21 @@ def build_gold_layer():
         df = pd.DataFrame([data])
 
     display_columns = ['title', 'company_name', 'location', 'remote', 'job_types', 'tags']
-    df_serving = df[display_columns].copy()
-    df_serving.to_json(serving_dir / "serving_job_offers.json", orient="records", force_ascii=False, indent=4)
+    save_as_json(df[display_columns], serving_dir / "serving_job_offers.json")
 
     location_stats = df['location'].value_counts().reset_index()
     location_stats.columns = ['location', 'count']
-    location_stats.to_json(serving_dir / "serving_location_stats.json", orient="records", force_ascii=False, indent=4)
+    save_as_json(location_stats, serving_dir / "serving_location_stats.json")
 
     tags_exploded = df.explode('tags')
     tags_stats = tags_exploded['tags'].value_counts().reset_index()
     tags_stats.columns = ['tag', 'count']
-    tags_stats.to_json(serving_dir / "serving_tags_summary.json", orient="records", force_ascii=False, indent=4)
+    save_as_json(tags_stats, serving_dir / "serving_tags_summary.json")
 
     job_types_exploded = df.explode('job_types')
     job_types_stats = job_types_exploded['job_types'].value_counts().reset_index()
     job_types_stats.columns = ['job_type', 'count']
-    job_types_stats.to_json(serving_dir / "serving_job_types_summary.json", orient="records", force_ascii=False, indent=4)
+    save_as_json(job_types_stats, serving_dir / "serving_job_types_summary.json")
 
 if __name__ == "__main__":
     build_gold_layer()

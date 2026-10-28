@@ -24,3 +24,11 @@
 - Stworzenie skryptu `build_serving_data.py`, który generuje gotowe, zagregowane modele JSON dla lokalizacji, tagów i typów umów.
 - Rozbudowa czyszczenia danych o scentralizowaną funkcję usuwającą podwójne ukośniki z list i ciągów znaków zgodnie z zasadą DRY.
 - Zoptymalizowanie dashboardu poprzez podpięcie go wyłącznie pod gotowe dane z warstwy Gold, odciążając aplikację z ciężkich transformacji (grupowanie, explode).
+
+## Tydzień 4: 28.10.2026
+
+- Centralizacja zarządzania ścieżkami w pliku `src/config.py` przy użyciu funkcji `load_settings()`, eliminując redundancję kodu.
+- Refaktoryzacja kodu.
+- Usprawnienie logiki walidacji i wykrywania duplikatów.
+- Stworzenie skryptu tworzącego i uruchamiającego cały potok danych (`run_pipeline.py`).
+- Dopracowanie dokumentacji: dodanie słownika danych oraz pliku opisującego architekturę, aktualizacja README.

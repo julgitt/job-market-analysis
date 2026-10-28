@@ -8,10 +8,12 @@ st.set_page_config(page_title="Analiza Rynku Pracy", layout="wide")
 st.title("Dashboard: Analiza Ofert Pracy")
 st.markdown("Ten dashboard prezentuje aktualne dane z rynku pracy na podstawie pobranych i oczyszczonych ofert.")
 
+settings = load_settings()
+SERVING_DIR = settings["serving_data_dir"]
+
 @st.cache_data
 def load_serving_data(filename):
-    base_dir = Path(__file__).resolve().parent.parent
-    file_path = base_dir / "data" / "serving" / filename
+    file_path = SERVING_DIR / filename
     try:
         return pd.read_json(file_path)
     except Exception:
@@ -43,7 +45,7 @@ with col2:
     st.metric(label="Liczba unikalnych firm", value=df_filtered['company_name'].nunique())
 
 with col3:
-    remote_count = len(df_filtered[df_filtered['remote'] == True])
+    remote_count = df_filtered['remote'].sum()
     remote_pct = (remote_count / len(df_filtered) * 100) if len(df_filtered) > 0 else 0
     st.metric(label="Oferty w 100% zdalne", value=f"{remote_count} ({remote_pct:.1f}%)")
 

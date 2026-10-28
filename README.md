@@ -18,13 +18,16 @@ job-market-analysis/
 │   ├── clean/
 │   └── serving/
 ├── docs/
+│   ├── architecture.md
+│   ├── data_dictionary.md
 │   ├── decision_log.md
 │   └── project_context.md
 ├── src/
 │   ├── application/
 │   │   ├── fetch_job_offers.py
 │   │   ├── clean_job_offers.py
-│   │   └── build_serving_data.py
+│   │   ├── build_serving_data.py
+│   │   └── run_pipeline.py
 │   ├── domain/
 │   │   ├── job_offer.py
 │   │   └── job_offer_quality.py
@@ -80,6 +83,20 @@ W systemie Linux lub macOS użyj:
 source .venv/bin/activate
 ```
 
+### Konfiguracja zmiennych środowiskowych
+
+Utwórz plik `.env` na podstawie szablonu `.env.example`:
+
+W systemie Windows:
+```bash
+copy .env.example .env
+```
+
+W systemie Linux:
+```bash
+cp .env.example .env
+```
+
 ### Instalacja zależności
 
 Zainstaluj wymagane biblioteki:
@@ -90,12 +107,10 @@ pip install -r requirements.txt
 
 ### Uruchamianie potoku danych
 
-Będąc w głównym katalogu job-market-analysis uruchom te polecenia:
+Będąc w głównym katalogu job-market-analysis uruchom potok danych tym poleceniem:
 
 ```bash
-python3 -m src.application.fetch_job_offers
-python3 -m src.application.clean_job_offers
-python3 -m src.application.build_serving_data
+python -m src.application.run_pipeline
 ```
 
 ### Uruchamianie dashboarda

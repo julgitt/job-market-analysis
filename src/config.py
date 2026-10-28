@@ -19,9 +19,13 @@ def load_settings() -> dict:
         raise ValueError("REQUEST_TIMEOUT_SECONDS must be greater than zero.")
 
     raw_data_dir = PROJECT_ROOT / "data" / "raw"
+    clean_data_dir = PROJECT_ROOT / "data" / "clean"
+    serving_data_dir = PROJECT_ROOT / "data" / "serving"
 
     return {
         "api_url": api_url,
         "request_timeout_seconds": timeout,
         "raw_data_dir": raw_data_dir,
+        "clean_data_dir": clean_data_dir,
+        "serving_data_dir": serving_data_dir,
     }
