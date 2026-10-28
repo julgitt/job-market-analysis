@@ -1,90 +1,66 @@
 [
     {
-        "location":"London",
-        "count":23
+        "location":"Berlin",
+        "count":28
     },
     {
-        "location":"Berlin",
-        "count":21
+        "location":"London",
+        "count":19
+    },
+    {
+        "location":"De Lier, Zuid-Holland, Netherlands",
+        "count":14
     },
     {
         "location":"",
-        "count":15
+        "count":13
     },
     {
         "location":"Paris",
-        "count":14
+        "count":13
     },
     {
-        "location":"Amsterdam",
-        "count":14
+        "location":"Zürich",
+        "count":10
     },
     {
         "location":"Munich",
-        "count":10
+        "count":9
+    },
+    {
+        "location":"Paris, Île-de-France, France",
+        "count":9
+    },
+    {
+        "location":"Amsterdam",
+        "count":9
     },
     {
         "location":"Hamburg",
         "count":8
     },
     {
-        "location":"Remote",
-        "count":8
-    },
-    {
-        "location":"Utrecht",
+        "location":"9th arrondissement of Paris, 75009, Paris",
         "count":7
-    },
-    {
-        "location":"Zürich",
-        "count":6
     },
     {
         "location":"Bern",
         "count":6
     },
     {
-        "location":"Zurich",
+        "location":"Cologne",
         "count":5
     },
     {
-        "location":"Zürich, Zürich, Switzerland",
+        "location":"Geneva",
         "count":4
     },
     {
-        "location":"Utrecht, Utrecht, Nederland",
+        "location":"Zurich, Switzerland",
         "count":4
     },
     {
-        "location":"Berlin, Germany",
-        "count":4
-    },
-    {
-        "location":"Manchester",
-        "count":4
-    },
-    {
-        "location":"Cologne",
-        "count":4
-    },
-    {
-        "location":"Frankfurt am Main",
-        "count":4
-    },
-    {
-        "location":"Delfzijl",
-        "count":4
-    },
-    {
-        "location":"Germany",
-        "count":3
-    },
-    {
-        "location":"London, UK",
-        "count":3
-    },
-    {
-        "location":"Mägenwil",
+        "location":"Düsseldorf",
         "count":3
     },
     {
@@ -92,271 +68,171 @@
         "count":3
     },
     {
+        "location":"Altendorf, Schwyz, Schweiz",
+        "count":3
+    },
+    {
+        "location":"Zurich",
+        "count":3
+    },
+    {
+        "location":"Delft",
+        "count":3
+    },
+    {
+        "location":"Germany (Remote)",
+        "count":2
+    },
+    {
+        "location":"Kassel",
+        "count":2
+    },
+    {
+        "location":"Essen",
+        "count":2
+    },
+    {
+        "location":"Hanover",
+        "count":2
+    },
+    {
+        "location":"Remote",
+        "count":2
+    },
+    {
+        "location":"Wardenburg",
+        "count":2
+    },
+    {
+        "location":"Dresden",
+        "count":2
+    },
+    {
+        "location":"Bristol; London",
+        "count":2
+    },
+    {
+        "location":"Manchester",
+        "count":2
+    },
+    {
+        "location":"Paris, Paris",
+        "count":2
+    },
+    {
         "location":"Paris, France",
-        "count":3
-    },
-    {
-        "location":"Berlin, Berlin, Germany",
-        "count":3
-    },
-    {
-        "location":"Lucerne",
-        "count":3
-    },
-    {
-        "location":"Geneva",
         "count":2
     },
     {
-        "location":"Zug",
-        "count":2
-    },
-    {
-        "location":"France",
-        "count":2
-    },
-    {
-        "location":"Les Clayes-sous-Bois",
-        "count":2
-    },
-    {
-        "location":"Bielefeld",
-        "count":2
-    },
-    {
-        "location":"United Kingdom",
-        "count":2
-    },
-    {
-        "location":"London Office",
-        "count":2
-    },
-    {
-        "location":"Lausanne",
-        "count":2
-    },
-    {
-        "location":"Basel",
-        "count":2
-    },
-    {
-        "location":"Sion",
-        "count":2
-    },
-    {
-        "location":"London, United Kingdom",
-        "count":2
-    },
-    {
-        "location":"Nuremberg",
-        "count":2
-    },
-    {
-        "location":"Stuttgart & Remote",
-        "count":2
-    },
-    {
-        "location":"Brunssum, Netherlands",
-        "count":2
-    },
-    {
-        "location":"Leipzig",
+        "location":"Clichy",
         "count":2
     },
     {
         "location":"Winterthur",
-        "count":1
-    },
-    {
-        "location":"Regensdorf",
-        "count":1
-    },
-    {
-        "location":"Rotterdam , Zuid-Holland, Netherlands",
-        "count":1
-    },
-    {
-        "location":"Niederglatt",
-        "count":1
-    },
-    {
-        "location":"Urdorf",
-        "count":1
-    },
-    {
-        "location":"Wallisellen",
-        "count":1
-    },
-    {
-        "location":"Amsterdam HQ",
-        "count":1
-    },
-    {
-        "location":"Kaiseraugst",
-        "count":1
-    },
-    {
-        "location":"Risch-Rotkreuz",
-        "count":1
-    },
-    {
-        "location":"Delft",
-        "count":1
+        "count":2
     },
     {
         "location":"Amsterdam, Noord-Holland, Netherlands",
+        "count":2
+    },
+    {
+        "location":"Munich HQ",
         "count":1
     },
     {
-        "location":"Montpellier",
+        "location":"Homeoffice",
         "count":1
     },
     {
-        "location":"Nîmes",
+        "location":"Hamburg, Hamburg, Deutschland",
         "count":1
     },
     {
-        "location":"Perpignan",
+        "location":"Ludwigsburg",
         "count":1
     },
     {
-        "location":"Schlieren",
+        "location":"Wiesbaden",
         "count":1
     },
     {
-        "location":"Montauban",
+        "location":"Berlin; Munich; Hamburg; Frankfurt",
         "count":1
     },
     {
-        "location":"Enschede, Overijssel, Netherlands",
+        "location":"Nordhausen",
         "count":1
     },
     {
-        "location":"Lausanne, Switzerland",
+        "location":"Cuxhaven",
         "count":1
     },
     {
-        "location":"Zurich HQ",
+        "location":"Leverkusen, Nordrhein-Westfalen, Deutschland",
         "count":1
     },
     {
-        "location":"Rijssen, Overijssel, Nederland",
+        "location":"Munich, Bayern, Germany",
         "count":1
     },
     {
-        "location":"Amsterdam, Netherlands",
+        "location":"Berlin, Berlin, Deutschland",
         "count":1
     },
     {
-        "location":"Amsterdam, NL",
+        "location":"Saerbeck, Nordrhein-Westfalen, Deutschland",
         "count":1
     },
     {
-        "location":"Schiphol-Rijk",
+        "location":"Lohne (Oldenburg), Niedersachsen, Deutschland",
         "count":1
     },
     {
-        "location":"Eindhoven, Netherlands",
+        "location":"Weßling",
         "count":1
     },
     {
-        "location":"Zurich, Switzerland",
+        "location":"Berlin, Germany",
         "count":1
     },
     {
-        "location":"Épalinges, Switzerland",
+        "location":"Frankfurt am Main",
         "count":1
     },
     {
-        "location":"Eindhoven, Noord-Brabant, Netherlands",
+        "location":"Aichach",
         "count":1
     },
     {
-        "location":"Amsterdam, Hollande septentrionale, Pays-Bas",
+        "location":"Winterbach",
         "count":1
     },
     {
-        "location":"Amersfoort, Utrecht, Nederland",
+        "location":"Erfurt",
         "count":1
     },
     {
-        "location":"Soest, Utrecht, Nederland",
+        "location":"Nohra",
         "count":1
     },
     {
-        "location":"Switzerland",
+        "location":"Nuremberg",
         "count":1
     },
     {
-        "location":"Remote job",
+        "location":"Badenweiler",
         "count":1
     },
     {
-        "location":"Béziers",
+        "location":"Giebelstadt",
         "count":1
     },
     {
-        "location":"Hendaye",
+        "location":"Winnenden",
         "count":1
     },
     {
-        "location":"Narbonne",
-        "count":1
-    },
-    {
-        "location":"Würzburg",
-        "count":1
-    },
-    {
-        "location":"United Kingdom \/ Europe",
-        "count":1
-    },
-    {
-        "location":"Edinburgh",
-        "count":1
-    },
-    {
-        "location":"remote",
-        "count":1
-    },
-    {
-        "location":"Manufacturing & Testing Facility",
-        "count":1
-    },
-    {
-        "location":"Germany (Remote)",
-        "count":1
-    },
-    {
-        "location":"Viersen",
-        "count":1
-    },
-    {
-        "location":"Oberhaching",
-        "count":1
-    },
-    {
-        "location":"Spaichingen",
-        "count":1
-    },
-    {
-        "location":"Telgte",
-        "count":1
-    },
-    {
-        "location":"Hamm",
-        "count":1
-    },
-    {
-        "location":"Baruth, Germany",
-        "count":1
-    },
-    {
-        "location":"Albi",
-        "count":1
-    },
-    {
-        "location":"Regensburg",
+        "location":"Rödinghausen",
         "count":1
     },
     {
@@ -364,119 +240,131 @@
         "count":1
     },
     {
-        "location":"Berlin Office",
+        "location":"Lehrte",
         "count":1
     },
     {
-        "location":"Hannover",
+        "location":"Pforzheim",
         "count":1
     },
     {
-        "location":"Hildesheim",
+        "location":"Belfast, Northern Ireland",
         "count":1
     },
     {
-        "location":"Köln",
+        "location":"London Office",
         "count":1
     },
     {
-        "location":"Mainz",
+        "location":"Covent Garden - Hybrid",
         "count":1
     },
     {
-        "location":"Bonn",
+        "location":"London, HQ",
         "count":1
     },
     {
-        "location":"Wertingen",
+        "location":"Studley",
         "count":1
     },
     {
-        "location":"Schondorf am Ammersee",
+        "location":"Edinburgh",
         "count":1
     },
     {
-        "location":"Uddingston",
+        "location":"Birmingham",
         "count":1
     },
     {
-        "location":"London, England",
+        "location":"London; Manchester; Newcastle upon Tyne",
         "count":1
     },
     {
-        "location":"Hybrid",
+        "location":"Bristol",
         "count":1
     },
     {
-        "location":"Cambridge, MA",
+        "location":"Ashington, England, United Kingdom",
         "count":1
     },
     {
-        "location":"Alès",
+        "location":"Hexham, England, United Kingdom",
         "count":1
     },
     {
-        "location":"Carcassonne",
+        "location":"Morpeth, England, United Kingdom",
         "count":1
     },
     {
-        "location":"Brive-la-Gaillarde",
+        "location":"Darlington, England, United Kingdom",
         "count":1
     },
     {
-        "location":"Tulle",
+        "location":"Sunderland, England, United Kingdom",
         "count":1
     },
     {
-        "location":"Périgueux",
+        "location":"Durham, England, United Kingdom",
         "count":1
     },
     {
-        "location":"Bergerac",
+        "location":"United Kingdom",
         "count":1
     },
     {
-        "location":"Agen",
+        "location":"London, England, United Kingdom",
         "count":1
     },
     {
-        "location":"Villeneuve-sur-Lot",
+        "location":"London - Hybrid",
         "count":1
     },
     {
-        "location":"Anglet",
+        "location":"London (hybrid)",
         "count":1
     },
     {
-        "location":"Biarritz",
+        "location":"England",
         "count":1
     },
     {
-        "location":"Darmstadt",
+        "location":"United Kingdom - London Local",
         "count":1
     },
     {
-        "location":"Saint-Jean-de-Luz",
+        "location":"Remote job",
         "count":1
     },
     {
-        "location":"Pau",
+        "location":"Norwich, United Kingdom",
         "count":1
     },
     {
-        "location":"Billère",
+        "location":"Bordeaux; Grenoble; Lyon; Montpellier; Nantes; Paris; Sophia Antipolis",
         "count":1
     },
     {
-        "location":"La Rochelle",
+        "location":"BELFORT, Bourgogne-Franche-Comté, France",
         "count":1
     },
     {
-        "location":"Courbevoie",
+        "location":"Toulouse, Occitanie, France",
         "count":1
     },
     {
-        "location":"Grasse",
+        "location":"PALAISEAU, Île-de-France, France",
+        "count":1
+    },
+    {
+        "location":"Brest, Bretagne, France",
+        "count":1
+    },
+    {
+        "location":"Lyon",
+        "count":1
+    },
+    {
+        "location":"Sucé-sur-Erdre",
         "count":1
     },
     {
@@ -484,19 +372,163 @@
         "count":1
     },
     {
-        "location":"Clichy",
+        "location":"Rennes",
         "count":1
     },
     {
-        "location":"Eaunes",
+        "location":"Lyon, Auvergne-Rhône-Alpes, Frankrijk",
         "count":1
     },
     {
-        "location":"Montreuil",
+        "location":"Avignon, Provence-Alpes-Côte-d'Azur, Frankrijk",
         "count":1
     },
     {
-        "location":"Oirschot, Noord-Brabant, Nederland",
+        "location":"Nantes, France",
+        "count":1
+    },
+    {
+        "location":"Bordeaux, France",
+        "count":1
+    },
+    {
+        "location":"Baden",
+        "count":1
+    },
+    {
+        "location":"Wallisellen",
+        "count":1
+    },
+    {
+        "location":"Frauenfeld",
+        "count":1
+    },
+    {
+        "location":"Switzerland - Zurich Office",
+        "count":1
+    },
+    {
+        "location":"Zofingen",
+        "count":1
+    },
+    {
+        "location":"Zürich, Switzerland",
+        "count":1
+    },
+    {
+        "location":"Crissier",
+        "count":1
+    },
+    {
+        "location":"Blonay - Saint-Légier",
+        "count":1
+    },
+    {
+        "location":"Neuchâtel",
+        "count":1
+    },
+    {
+        "location":"Leibstadt",
+        "count":1
+    },
+    {
+        "location":"Zug",
+        "count":1
+    },
+    {
+        "location":"Lenzburg, Aargau, Schweiz",
+        "count":1
+    },
+    {
+        "location":"Lausanne, Vaud, Switzerland",
+        "count":1
+    },
+    {
+        "location":"Zurich, Zürich, Switzerland",
+        "count":1
+    },
+    {
+        "location":"St. Gallen",
+        "count":1
+    },
+    {
+        "location":"Lausanne",
+        "count":1
+    },
+    {
+        "location":"Rafz, Switzerland",
+        "count":1
+    },
+    {
+        "location":"Zoetermeer, Zuid-Holland, Netherlands",
+        "count":1
+    },
+    {
+        "location":"Zoetermeer, Zuid-Holland, Nederland",
+        "count":1
+    },
+    {
+        "location":"Venlo, Limburg, Nederland",
+        "count":1
+    },
+    {
+        "location":"Eindhoven",
+        "count":1
+    },
+    {
+        "location":"Ridderkerk",
+        "count":1
+    },
+    {
+        "location":"The Hague - hybrid",
+        "count":1
+    },
+    {
+        "location":"Amersfoort, Utrecht, Nederland",
+        "count":1
+    },
+    {
+        "location":"Ypenburg, Nederlands",
+        "count":1
+    },
+    {
+        "location":"Netherlands",
+        "count":1
+    },
+    {
+        "location":"Apeldoorn, Netherlands",
+        "count":1
+    },
+    {
+        "location":"Haarlem",
+        "count":1
+    },
+    {
+        "location":"Werken op afstand",
+        "count":1
+    },
+    {
+        "location":"Nieuwerbrug aan den Rijn, Zuid-Holland, Nederland",
+        "count":1
+    },
+    {
+        "location":"Naarden, Noord-Holland, Netherlands",
+        "count":1
+    },
+    {
+        "location":"Nijverdal, Overijssel, Nederland",
+        "count":1
+    },
+    {
+        "location":"Rijssen, Overijssel, Nederland",
+        "count":1
+    },
+    {
+        "location":"NL - Amsterdam",
+        "count":1
+    },
+    {
+        "location":"Utrecht",
         "count":1
     }
 ]

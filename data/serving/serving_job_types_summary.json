@@ -1,94 +1,118 @@
 [
     {
-        "job_type":"Full Time",
-        "count":107
+        "job_type":"Unbefristeter arbeitsvertrag",
+        "count":62
     },
     {
-        "job_type":"Unbefristeter arbeitsvertrag",
-        "count":55
+        "job_type":"Full Time",
+        "count":52
     },
     {
         "job_type":"berufserfahren",
-        "count":34
-    },
-    {
-        "job_type":"Experienced",
-        "count":12
-    },
-    {
-        "job_type":"professional \/ experienced",
-        "count":12
-    },
-    {
-        "job_type":"Werkstudent",
-        "count":10
-    },
-    {
-        "job_type":"working student",
-        "count":10
-    },
-    {
-        "job_type":"professionnel \/ expérimenté",
-        "count":9
-    },
-    {
-        "job_type":"hilfstätigkeit \/ student",
-        "count":9
+        "count":44
     },
     {
         "job_type":"fulltime permanent",
-        "count":9
+        "count":26
     },
     {
-        "job_type":"Cdi - contrat à durée indéterminée",
-        "count":9
-    },
-    {
-        "job_type":"berufseinstieg",
-        "count":8
-    },
-    {
-        "job_type":"freelance",
-        "count":7
-    },
-    {
-        "job_type":"teamleitung",
-        "count":6
-    },
-    {
-        "job_type":"Indefinite contract (unbefristeter arbeitsvertrag)",
-        "count":6
-    },
-    {
-        "job_type":"mid",
-        "count":5
-    },
-    {
-        "job_type":"Full-time permanent",
-        "count":5
-    },
-    {
-        "job_type":"temporary",
-        "count":5
+        "job_type":"Experienced",
+        "count":20
     },
     {
         "job_type":"internship",
-        "count":5
+        "count":19
     },
     {
-        "job_type":"Befristeter arbeitsvertrag",
-        "count":5
+        "job_type":"professional \/ experienced",
+        "count":13
     },
     {
-        "job_type":"manager",
-        "count":4
-    },
-    {
-        "job_type":"Contract",
-        "count":3
+        "job_type":"Mid",
+        "count":12
     },
     {
         "job_type":"fulltime fixed term",
+        "count":12
+    },
+    {
+        "job_type":"hilfstätigkeit \/ student",
+        "count":10
+    },
+    {
+        "job_type":"Entry",
+        "count":9
+    },
+    {
+        "job_type":"teamleitung",
+        "count":9
+    },
+    {
+        "job_type":"Student college",
+        "count":9
+    },
+    {
+        "job_type":"Befristeter arbeitsvertrag",
+        "count":7
+    },
+    {
+        "job_type":"contract",
+        "count":7
+    },
+    {
+        "job_type":"professionnel \/ expérimenté",
+        "count":7
+    },
+    {
+        "job_type":"Permanent employment (unbefristeter arbeitsvertrag)",
+        "count":6
+    },
+    {
+        "job_type":"side",
+        "count":6
+    },
+    {
+        "job_type":"freelance",
+        "count":6
+    },
+    {
+        "job_type":"Cdi - contrat à durée indéterminée",
+        "count":5
+    },
+    {
+        "job_type":"Intern",
+        "count":4
+    },
+    {
+        "job_type":"Praktikum",
+        "count":4
+    },
+    {
+        "job_type":"berufseinstieg",
+        "count":4
+    },
+    {
+        "job_type":"Manager",
+        "count":4
+    },
+    {
+        "job_type":"Minijob (geringfügige beschäftigung)",
+        "count":3
+    },
+    {
+        "job_type":"apprenticeship",
+        "count":3
+    },
+    {
+        "job_type":"parttime permanent",
+        "count":3
+    },
+    {
+        "job_type":"manager",
+        "count":3
+    },
+    {
+        "job_type":"Freelancer \/ indepedent contractor",
         "count":3
     },
     {
@@ -96,95 +120,103 @@
         "count":3
     },
     {
-        "job_type":"Permanent employment contract (open-ended contract)",
+        "job_type":"Indefinite contract (unbefristeter arbeitsvertrag)",
         "count":3
-    },
-    {
-        "job_type":"contract",
-        "count":3
-    },
-    {
-        "job_type":"Mid",
-        "count":3
-    },
-    {
-        "job_type":"Freiberufler \/ selbstständiger",
-        "count":3
-    },
-    {
-        "job_type":"Permanent employment (unbefristeter arbeitsvertrag)",
-        "count":2
     },
     {
         "job_type":"geschäftsleitung",
         "count":2
     },
     {
-        "job_type":"Praktikumsvertrag",
+        "job_type":"Ausbildung",
         "count":2
     },
     {
-        "job_type":"Permanent employment",
+        "job_type":"Fixed-term contract (befristeter arbeitsvertrag)",
         "count":2
-    },
-    {
-        "job_type":"Freelance-Remote",
-        "count":1
-    },
-    {
-        "job_type":"Senior executive",
-        "count":1
-    },
-    {
-        "job_type":"mid-senior",
-        "count":1
-    },
-    {
-        "job_type":"associate",
-        "count":1
-    },
-    {
-        "job_type":"Selbstständiger \/ freelancer",
-        "count":1
-    },
-    {
-        "job_type":"Freelancer \/ indepedent contractor",
-        "count":1
     },
     {
         "job_type":"entry",
-        "count":1
+        "count":2
     },
     {
-        "job_type":"Student school",
-        "count":1
+        "job_type":"Permanent employment contract (open-ended contract)",
+        "count":2
+    },
+    {
+        "job_type":"Fixed-term contract",
+        "count":2
+    },
+    {
+        "job_type":"Convention de stage",
+        "count":2
     },
     {
         "job_type":"aucune expérience requise \/ Étudiant",
-        "count":1
+        "count":2
+    },
+    {
+        "job_type":"Auto-entrepreneur\/indépendant",
+        "count":2
+    },
+    {
+        "job_type":"manager \/ superviseur",
+        "count":2
+    },
+    {
+        "job_type":"Activité complémentaire",
+        "count":2
     },
     {
         "job_type":"Full-time",
+        "count":2
+    },
+    {
+        "job_type":"professional \/ ervaren",
+        "count":2
+    },
+    {
+        "job_type":"Part-time fixed-term",
         "count":1
     },
     {
-        "job_type":"Employee \/ Full-Time",
+        "job_type":"student (college)",
         "count":1
     },
     {
-        "job_type":"Full-Time",
+        "job_type":"Full-time permanent",
         "count":1
     },
     {
-        "job_type":"Teilzeitbeschäftigung",
+        "job_type":"experienced",
         "count":1
     },
     {
-        "job_type":"interim",
+        "job_type":"Internship (praktikum)",
         "count":1
     },
     {
-        "job_type":"Interim",
+        "job_type":"Werkstudent",
+        "count":1
+    },
+    {
+        "job_type":"working student",
+        "count":1
+    },
+    {
+        "job_type":"Permanent employment",
+        "count":1
+    },
+    {
+        "job_type":"Contract",
+        "count":1
+    },
+    {
+        "job_type":"Temporary",
+        "count":1
+    },
+    {
+        "job_type":"Permanent contract (cdi - contrat à durée indéterminée)",
         "count":1
     },
     {
@@ -192,35 +224,51 @@
         "count":1
     },
     {
+        "job_type":"mid-senior",
+        "count":1
+    },
+    {
+        "job_type":"Nebentätigkeit",
+        "count":1
+    },
+    {
+        "job_type":"Selbstständiger \/ freelancer",
+        "count":1
+    },
+    {
+        "job_type":"Employee \/ Full-Time",
+        "count":1
+    },
+    {
         "job_type":"Contrat à durée indéterminée (unbefristeter arbeitsvertrag)",
         "count":1
     },
     {
-        "job_type":"Self-employed\/freelance (auto-entrepreneur\/indépendant)",
+        "job_type":"Praktikumsvertrag",
         "count":1
     },
     {
-        "job_type":"Convention de stage",
+        "job_type":"parttime fixed term",
         "count":1
     },
     {
-        "job_type":"débutant",
+        "job_type":"Stage",
         "count":1
     },
     {
-        "job_type":"Auto-entrepreneur\/indépendant",
+        "job_type":"Vast contract",
         "count":1
     },
     {
-        "job_type":"Praktikum",
+        "job_type":"Permanent",
         "count":1
     },
     {
-        "job_type":"Fixed-term contract (befristeter arbeitsvertrag)",
+        "job_type":"Freelance-Remote",
         "count":1
     },
     {
-        "job_type":"Student college",
+        "job_type":"Full Time - 12 Month Contract (NL)",
         "count":1
     }
 ]

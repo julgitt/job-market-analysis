@@ -43,7 +43,7 @@ job-market-analysis/
 ```
 
 ## Diagram potoku danych
-![img.png](img.png)
+![img.png](diagrams/pipeline.png)
 
 ## Diagram architektury Domain-Driven Design
-![img_4.png](img_4.png)
+![img_4.png](diagrams/ddd.png)

@@ -2,6 +2,8 @@ import json
 import pandas as pd
 from pathlib import Path
 
+from src.config import load_settings
+
 
 def save_as_json(df: pd.DataFrame, path: Path) -> None:
     df.to_json(path, orient="records", force_ascii=False, indent=4)

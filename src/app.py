@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
-import json
-from pathlib import Path
+
+from config import load_settings
 
 st.set_page_config(page_title="Analiza Rynku Pracy", layout="wide")
 

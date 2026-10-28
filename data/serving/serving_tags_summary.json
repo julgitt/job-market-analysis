@@ -1,78 +1,126 @@
 [
     {
-        "tag":"Engineering",
-        "count":25
-    },
-    {
-        "tag":"Customer Success",
-        "count":23
-    },
-    {
         "tag":"Remote",
-        "count":22
+        "count":21
     },
     {
-        "tag":"Sales",
-        "count":11
-    },
-    {
-        "tag":"Customer Service",
-        "count":9
-    },
-    {
-        "tag":"Management",
-        "count":8
+        "tag":"Engineering",
+        "count":13
     },
     {
         "tag":"Software Development",
-        "count":8
+        "count":11
     },
     {
-        "tag":"Social Media Manager",
-        "count":8
+        "tag":"Management",
+        "count":10
     },
     {
         "tag":"Team Leader",
+        "count":10
+    },
+    {
+        "tag":"Customer Service",
+        "count":10
+    },
+    {
+        "tag":"Sales",
+        "count":9
+    },
+    {
+        "tag":"Business Consulting",
         "count":8
     },
     {
-        "tag":"IT",
+        "tag":"Finance",
         "count":7
     },
     {
-        "tag":"Project Management",
+        "tag":"R&D",
+        "count":7
+    },
+    {
+        "tag":"Operations",
         "count":6
     },
     {
-        "tag":"Engineering & Infra",
+        "tag":"System and Network Administration",
+        "count":6
+    },
+    {
+        "tag":"Business Operations",
+        "count":6
+    },
+    {
+        "tag":"IT Security",
+        "count":6
+    },
+    {
+        "tag":"Tech & Data",
+        "count":6
+    },
+    {
+        "tag":"Marketing",
         "count":5
     },
     {
-        "tag":"Finance",
-        "count":4
-    },
-    {
         "tag":"Online Marketing",
+        "count":5
+    },
+    {
+        "tag":"Business Development",
+        "count":5
+    },
+    {
+        "tag":"Marketing and Communication",
         "count":4
     },
     {
-        "tag":"Recruitment and Selection",
+        "tag":"Marketing Manager",
+        "count":4
+    },
+    {
+        "tag":"EMEA Client Services Early Career",
+        "count":4
+    },
+    {
+        "tag":"Project Management",
+        "count":4
+    },
+    {
+        "tag":"IT",
         "count":4
     },
     {
         "tag":"Product Management",
-        "count":4
+        "count":3
     },
     {
-        "tag":"Development",
-        "count":4
+        "tag":"Market Research",
+        "count":3
     },
     {
-        "tag":"R&D",
-        "count":4
+        "tag":"Analysis",
+        "count":3
     },
     {
-        "tag":"Operations & Markets",
+        "tag":"Building",
+        "count":3
+    },
+    {
+        "tag":"Supply",
+        "count":3
+    },
+    {
+        "tag":"Safety Services Engineering",
+        "count":3
+    },
+    {
+        "tag":"SEO",
+        "count":3
+    },
+    {
+        "tag":"Open Application \/ Internship",
         "count":3
     },
     {
@@ -80,83 +128,31 @@
         "count":3
     },
     {
-        "tag":"Customer Experience",
+        "tag":"Culture and Organization",
         "count":3
     },
     {
-        "tag":"Screen and Web Design",
-        "count":3
+        "tag":"Solutions",
+        "count":2
     },
     {
-        "tag":"Media",
-        "count":3
-    },
-    {
-        "tag":"All Departments",
-        "count":3
+        "tag":"S&M",
+        "count":2
     },
     {
         "tag":"Technology",
-        "count":3
-    },
-    {
-        "tag":"CX",
-        "count":3
-    },
-    {
-        "tag":"Business Operations",
-        "count":3
-    },
-    {
-        "tag":"DSL-01 Operate",
-        "count":3
-    },
-    {
-        "tag":"GTM",
-        "count":3
-    },
-    {
-        "tag":"Marketing",
-        "count":3
-    },
-    {
-        "tag":"Accounting",
-        "count":3
-    },
-    {
-        "tag":"Business Development",
-        "count":3
-    },
-    {
-        "tag":"Business Consulting",
-        "count":3
-    },
-    {
-        "tag":"SAP\/ERP Consulting",
-        "count":3
-    },
-    {
-        "tag":"high school or equivalent",
-        "count":3
-    },
-    {
-        "tag":"Customer Delivery",
         "count":2
     },
     {
-        "tag":"AAS",
+        "tag":"EPD",
         "count":2
     },
     {
-        "tag":"Compliance",
+        "tag":"Social Media Manager",
         "count":2
     },
     {
-        "tag":"bachelor's degree",
-        "count":2
-    },
-    {
-        "tag":"Computer & Network Security",
+        "tag":"Automation Engineering",
         "count":2
     },
     {
@@ -164,19 +160,11 @@
         "count":2
     },
     {
-        "tag":"Commercial",
+        "tag":"Beauty",
         "count":2
     },
     {
-        "tag":"Internships - HQ",
-        "count":2
-    },
-    {
-        "tag":"Process Management",
-        "count":2
-    },
-    {
-        "tag":"Divotion",
+        "tag":"Wellness",
         "count":2
     },
     {
@@ -184,235 +172,99 @@
         "count":2
     },
     {
-        "tag":"Supply",
-        "count":2
-    },
-    {
-        "tag":"System and Network Administration",
-        "count":2
-    },
-    {
-        "tag":"Security",
-        "count":2
-    },
-    {
-        "tag":"Corporate Communication",
-        "count":2
-    },
-    {
         "tag":"Public Relations",
         "count":2
     },
     {
-        "tag":"Research & Innovation",
+        "tag":"Product",
         "count":2
     },
     {
-        "tag":"Business & Commercial",
+        "tag":"2030 - Sales Engineers (GQP)",
         "count":2
-    },
-    {
-        "tag":"Operations",
-        "count":2
-    },
-    {
-        "tag":"Building",
-        "count":2
-    },
-    {
-        "tag":"Quality Management",
-        "count":2
-    },
-    {
-        "tag":"HR",
-        "count":2
-    },
-    {
-        "tag":"Safety Services Engineering",
-        "count":2
-    },
-    {
-        "tag":"Vehicle SW Engineering",
-        "count":2
-    },
-    {
-        "tag":"Computer Software",
-        "count":1
-    },
-    {
-        "tag":"Translation & Localization",
-        "count":1
-    },
-    {
-        "tag":"Sales EMEA",
-        "count":1
-    },
-    {
-        "tag":"Products",
-        "count":1
-    },
-    {
-        "tag":"Storefront",
-        "count":1
-    },
-    {
-        "tag":"Patient Advocacy",
-        "count":1
-    },
-    {
-        "tag":"Sales - AE",
-        "count":1
-    },
-    {
-        "tag":"Wellness",
-        "count":1
-    },
-    {
-        "tag":"Beauty",
-        "count":1
-    },
-    {
-        "tag":"Medical Devices",
-        "count":1
-    },
-    {
-        "tag":"Firmware Development",
-        "count":1
-    },
-    {
-        "tag":"Embedded Systems",
-        "count":1
-    },
-    {
-        "tag":"Marketing Manager",
-        "count":1
     },
     {
         "tag":"Graphic Arts and Communication Design",
-        "count":1
+        "count":2
     },
     {
-        "tag":"Information Technology and Services",
-        "count":1
+        "tag":"Data Engineering",
+        "count":2
     },
     {
-        "tag":"Corporate Functions",
-        "count":1
+        "tag":"Data Consulting",
+        "count":2
     },
     {
-        "tag":"BigData Republic",
-        "count":1
+        "tag":"Media Consulting",
+        "count":2
+    },
+    {
+        "tag":"France",
+        "count":2
+    },
+    {
+        "tag":"Legal",
+        "count":2
+    },
+    {
+        "tag":"Rotzinger",
+        "count":2
+    },
+    {
+        "tag":"Sales EMEA",
+        "count":2
+    },
+    {
+        "tag":"Customer Success",
+        "count":2
+    },
+    {
+        "tag":"Transport & Mobiliteit",
+        "count":2
+    },
+    {
+        "tag":"Production & Logistics",
+        "count":2
     },
     {
         "tag":"Research & Development",
+        "count":2
+    },
+    {
+        "tag":"1559 GSS International PSO",
         "count":1
     },
     {
-        "tag":"AI DevTools Experience Product",
+        "tag":"Business",
         "count":1
     },
     {
-        "tag":"Stage",
+        "tag":"Energy",
         "count":1
     },
     {
-        "tag":"Bright Renewables",
+        "tag":"certification",
         "count":1
     },
     {
-        "tag":"Installations",
+        "tag":"Internet and software",
         "count":1
     },
     {
-        "tag":"Electronics",
+        "tag":"high school coursework",
         "count":1
     },
     {
-        "tag":"Enterprise Sales",
+        "tag":"General & Administrative",
         "count":1
     },
     {
-        "tag":"Field Engineering - Other",
+        "tag":"CUR - Transformation Office",
         "count":1
     },
     {
-        "tag":"Stage & Afstuderen",
-        "count":1
-    },
-    {
-        "tag":"TF - CFO Advisory",
-        "count":1
-    },
-    {
-        "tag":"Revenue",
-        "count":1
-    },
-    {
-        "tag":"Human Resources",
-        "count":1
-    },
-    {
-        "tag":"Management Consulting",
-        "count":1
-    },
-    {
-        "tag":"Finance & Operations",
-        "count":1
-    },
-    {
-        "tag":"Hardware",
-        "count":1
-    },
-    {
-        "tag":"Solution Engineering & Shared Services",
-        "count":1
-    },
-    {
-        "tag":"Beter Healthcare",
-        "count":1
-    },
-    {
-        "tag":"Interim management",
-        "count":1
-    },
-    {
-        "tag":"Go-To-Market",
-        "count":1
-    },
-    {
-        "tag":"Carrier Relationships",
-        "count":1
-    },
-    {
-        "tag":"Logistics and Supply Chain",
-        "count":1
-    },
-    {
-        "tag":"Workforce Transformation",
-        "count":1
-    },
-    {
-        "tag":"Applications Administration",
-        "count":1
-    },
-    {
-        "tag":"Talent Acquisition",
-        "count":1
-    },
-    {
-        "tag":"Science",
-        "count":1
-    },
-    {
-        "tag":"Logistics and transportation",
-        "count":1
-    },
-    {
-        "tag":"Engineering & Technology",
-        "count":1
-    },
-    {
-        "tag":"Product and Engineering",
+        "tag":"Mergers & Acquisitions",
         "count":1
     },
     {
@@ -420,35 +272,131 @@
         "count":1
     },
     {
-        "tag":"applike group",
+        "tag":"Trade Marketing",
         "count":1
     },
     {
-        "tag":"Software",
+        "tag":"Information Systems",
         "count":1
     },
     {
-        "tag":"International",
+        "tag":"Controlling",
         "count":1
     },
     {
-        "tag":"43600 Enterprise Sales - EMEA",
+        "tag":"Brunswick Group",
         "count":1
     },
     {
-        "tag":"Helpdesk",
+        "tag":"Digital & IT",
         "count":1
     },
     {
-        "tag":"Marketing and Communication",
+        "tag":"Checkout",
         "count":1
     },
     {
-        "tag":"Direct Marketing",
+        "tag":"Revenue",
         "count":1
     },
     {
-        "tag":"Enterprise Solutions",
+        "tag":"Embedded Systems",
+        "count":1
+    },
+    {
+        "tag":"Firmware Development",
+        "count":1
+    },
+    {
+        "tag":"Product & Technology",
+        "count":1
+    },
+    {
+        "tag":"30_TWRKS Marketing & Communications",
+        "count":1
+    },
+    {
+        "tag":"System QA",
+        "count":1
+    },
+    {
+        "tag":"SW Device",
+        "count":1
+    },
+    {
+        "tag":"Gaming - Core Data",
+        "count":1
+    },
+    {
+        "tag":"Partnerships & Delivery",
+        "count":1
+    },
+    {
+        "tag":"Referencing",
+        "count":1
+    },
+    {
+        "tag":"FDN",
+        "count":1
+    },
+    {
+        "tag":"Software (Project Delivery)",
+        "count":1
+    },
+    {
+        "tag":"NaturalMotion",
+        "count":1
+    },
+    {
+        "tag":"Core Video & Data",
+        "count":1
+    },
+    {
+        "tag":"Ingenuity Fulfilment",
+        "count":1
+    },
+    {
+        "tag":"Ingenuity Commerce",
+        "count":1
+    },
+    {
+        "tag":"Professional Services",
+        "count":1
+    },
+    {
+        "tag":"Product & UX",
+        "count":1
+    },
+    {
+        "tag":"Food & Beverage",
+        "count":1
+    },
+    {
+        "tag":"G&A",
+        "count":1
+    },
+    {
+        "tag":"Operations & Account Management",
+        "count":1
+    },
+    {
+        "tag":"Dev Eng",
+        "count":1
+    },
+    {
+        "tag":"SALES",
+        "count":1
+    },
+    {
+        "tag":"Informatique et Système d'information",
+        "count":1
+    },
+    {
+        "tag":"Informatique",
+        "count":1
+    },
+    {
+        "tag":"Corporate Communication",
         "count":1
     },
     {
@@ -456,79 +404,35 @@
         "count":1
     },
     {
-        "tag":"Inspection",
+        "tag":"Direct Marketing",
         "count":1
     },
     {
-        "tag":"Quality Assurance",
+        "tag":"Data",
         "count":1
     },
     {
-        "tag":"Automation Engineering",
+        "tag":"Data Science",
         "count":1
     },
     {
-        "tag":"CLB",
+        "tag":"Plato",
         "count":1
     },
     {
-        "tag":"STE",
+        "tag":"Sales & Business Development",
         "count":1
     },
     {
-        "tag":"Pre-Sales",
+        "tag":"Information Technology",
         "count":1
     },
     {
-        "tag":"Product",
+        "tag":"Computer Software",
         "count":1
     },
     {
-        "tag":"Greenhouse Requisitions",
-        "count":1
-    },
-    {
-        "tag":"EMEA Medical Education",
-        "count":1
-    },
-    {
-        "tag":"Solutions Consulting",
-        "count":1
-    },
-    {
-        "tag":"Solutions",
-        "count":1
-    },
-    {
-        "tag":"Enterprise",
-        "count":1
-    },
-    {
-        "tag":"Private Banking",
-        "count":1
-    },
-    {
-        "tag":"Consulting",
-        "count":1
-    },
-    {
-        "tag":"Experimental",
-        "count":1
-    },
-    {
-        "tag":"*Event Production",
-        "count":1
-    },
-    {
-        "tag":"Technology - Infrastructure",
-        "count":1
-    },
-    {
-        "tag":"Communications",
-        "count":1
-    },
-    {
-        "tag":"Business Team",
+        "tag":"E-Finances",
         "count":1
     },
     {
@@ -536,23 +440,71 @@
         "count":1
     },
     {
-        "tag":"People & Talent",
+        "tag":"Program",
         "count":1
     },
     {
-        "tag":"Global Field Organization",
+        "tag":"Compliance",
         "count":1
     },
     {
-        "tag":"Machine Learning",
+        "tag":"Security",
         "count":1
     },
     {
-        "tag":"Global Field Organization - T&I",
+        "tag":"Information Technology and Services",
         "count":1
     },
     {
-        "tag":"Strategic Projects",
+        "tag":"Patient Advocacy",
+        "count":1
+    },
+    {
+        "tag":"Live Group Fitness",
+        "count":1
+    },
+    {
+        "tag":"Direct Sales",
+        "count":1
+    },
+    {
+        "tag":"Data & AI",
+        "count":1
+    },
+    {
+        "tag":"Projectlead & Business Analyst",
+        "count":1
+    },
+    {
+        "tag":"Transver",
+        "count":1
+    },
+    {
+        "tag":"Business Technology",
+        "count":1
+    },
+    {
+        "tag":"Customer Experience",
+        "count":1
+    },
+    {
+        "tag":"Vertical Solutions",
+        "count":1
+    },
+    {
+        "tag":"Client Services",
+        "count":1
+    },
+    {
+        "tag":"Engineering & Operations",
+        "count":1
+    },
+    {
+        "tag":"Warehouse",
+        "count":1
+    },
+    {
+        "tag":"Product & Engineering",
         "count":1
     },
     {
@@ -560,31 +512,71 @@
         "count":1
     },
     {
-        "tag":"Platform & Engineering",
+        "tag":"SU5.People",
         "count":1
     },
     {
-        "tag":"Strategy & Partnerships",
+        "tag":"SU5.LGL Global Trade Compliance",
         "count":1
     },
     {
-        "tag":"Commercial Operations",
+        "tag":"Sales - EMEA - North",
         "count":1
     },
     {
-        "tag":"Support",
+        "tag":"Risk Management and Control",
         "count":1
     },
     {
-        "tag":"Sales - Customer Success",
+        "tag":"Foundation",
         "count":1
     },
     {
-        "tag":"Administration",
+        "tag":"Enterprise Sales",
         "count":1
     },
     {
-        "tag":"Regional Station Management Europe",
+        "tag":"Engineering - Pipeline",
+        "count":1
+    },
+    {
+        "tag":"Industrial Engineering",
+        "count":1
+    },
+    {
+        "tag":"Data Annotation",
+        "count":1
+    },
+    {
+        "tag":"Cloud Platform",
+        "count":1
+    },
+    {
+        "tag":"Solutions (SWE)",
+        "count":1
+    },
+    {
+        "tag":"Management & Staff",
+        "count":1
+    },
+    {
+        "tag":"Engineering & Ontwerp",
+        "count":1
+    },
+    {
+        "tag":"Staff",
+        "count":1
+    },
+    {
+        "tag":"Stage & Afstuderen",
+        "count":1
+    },
+    {
+        "tag":"Assortiment",
+        "count":1
+    },
+    {
+        "tag":"Legal and Compliance",
         "count":1
     }
 ]
