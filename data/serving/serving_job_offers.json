@@ -1,168 +1,7 @@
 [
     {
-        "title":"Senior Technical Program Manager I",
-        "company_name":"Axon",
-        "location":"",
-        "remote":false,
-        "job_types":[
-
-        ],
-        "tags":[
-            "1559 GSS International PSO"
-        ]
-    },
-    {
-        "title":"GTM Manager",
-        "company_name":"Kuro Technology",
-        "location":"Berlin",
-        "remote":false,
-        "job_types":[
-            "Full Time"
-        ],
-        "tags":[
-            "Sales"
-        ]
-    },
-    {
-        "title":"Founding Key Account Manager",
-        "company_name":"Kuro Technology",
-        "location":"Berlin",
-        "remote":false,
-        "job_types":[
-            "Full Time"
-        ],
-        "tags":[
-            "Sales"
-        ]
-    },
-    {
-        "title":"Payments and Reconciliations Intern (f\/m\/d)",
-        "company_name":"Upvest",
-        "location":"Berlin",
-        "remote":false,
-        "job_types":[
-            "Intern"
-        ],
-        "tags":[
-            "Operations"
-        ]
-    },
-    {
-        "title":"Senior Site Reliability Engineer (f\/m\/d)",
-        "company_name":"Upvest",
-        "location":"Berlin",
-        "remote":false,
-        "job_types":[
-            "Full Time"
-        ],
-        "tags":[
-            "Engineering"
-        ]
-    },
-    {
-        "title":"Junior Production Engineer",
-        "company_name":"RobCo",
-        "location":"Munich",
-        "remote":false,
-        "job_types":[
-            "Full Time"
-        ],
-        "tags":[
-            "Solutions"
-        ]
-    },
-    {
-        "title":"Global Service Specialist - Semiconductor Equipment (f\/m\/d)",
-        "company_name":"Quantumdiamonds",
-        "location":"Munich HQ",
-        "remote":false,
-        "job_types":[
-            "Full Time"
-        ],
-        "tags":[
-            "Business"
-        ]
-    },
-    {
-        "title":"Account Executive",
-        "company_name":"Livekit",
-        "location":"Germany (Remote)",
-        "remote":false,
-        "job_types":[
-            "Full Time"
-        ],
-        "tags":[
-            "S&M"
-        ]
-    },
-    {
-        "title":"Solutions Architect",
-        "company_name":"Livekit",
-        "location":"Germany (Remote)",
-        "remote":false,
-        "job_types":[
-            "Full Time"
-        ],
-        "tags":[
-            "S&M"
-        ]
-    },
-    {
-        "title":"Werkstudent (m\/w\/d) – Finance & Beratung (unternehmerisch, leistungsbasiert)",
-        "company_name":"Kevin Kehr",
-        "location":"Homeoffice",
-        "remote":true,
-        "job_types":[
-            "Entry",
-            "fulltime permanent"
-        ],
-        "tags":[
-            "Remote"
-        ]
-    },
-    {
-        "title":"Senior Performance Marketing Manager (m\/w\/d) für eine Privatklinik",
-        "company_name":"EuroEyes Deutschland Holding GmbH & Co. KG",
-        "location":"Hamburg, Hamburg, Deutschland",
-        "remote":false,
-        "job_types":[
-            "Experienced",
-            "fulltime permanent"
-        ],
-        "tags":[
-            "Marketing"
-        ]
-    },
-    {
-        "title":"Microsoft 365 Administrator (m\/w\/d)",
-        "company_name":"Karriereweg GmbH",
-        "location":"Kassel",
-        "remote":false,
-        "job_types":[
-            "Unbefristeter arbeitsvertrag",
-            "berufserfahren"
-        ],
-        "tags":[
-            "System and Network Administration"
-        ]
-    },
-    {
-        "title":"Praktkant*in Brand & Product Marketing (m\/w\/d)",
-        "company_name":"Amperecloud GmbH",
-        "location":"Berlin",
-        "remote":false,
-        "job_types":[
-            "Praktikum",
-            "internship",
-            "hilfstätigkeit \/ student"
-        ],
-        "tags":[
-            "Marketing and Communication"
-        ]
-    },
-    {
-        "title":"Team Lead Accounting (m\/w\/d)",
-        "company_name":"Interlead GmbH",
+        "title":"SAP-Berater:in Einkauf mit BTP- & Integrationsfokus SRM - S\/4HANA (m\/w\/d)",
+        "company_name":"parasus GmbH",
         "location":"Berlin",
         "remote":true,
         "job_types":[
@@ -171,527 +10,26 @@
         ],
         "tags":[
             "Remote",
-            "Finance"
+            "SAP\/ERP Consulting",
+            "Development"
         ]
     },
     {
-        "title":"DevOps Engineer (m\/w\/d)",
-        "company_name":"Interlead GmbH",
-        "location":"Berlin",
-        "remote":true,
-        "job_types":[
-            "Unbefristeter arbeitsvertrag",
-            "berufserfahren"
-        ],
-        "tags":[
-            "Remote",
-            "Software Development"
-        ]
-    },
-    {
-        "title":"Senior Performance Marketing Manager (m\/w\/d)",
-        "company_name":"Interlead GmbH",
-        "location":"Berlin",
-        "remote":true,
-        "job_types":[
-            "Unbefristeter arbeitsvertrag",
-            "berufserfahren"
-        ],
-        "tags":[
-            "Remote",
-            "Marketing and Communication"
-        ]
-    },
-    {
-        "title":"Teamlead Azure Platform Engineer (m\/w\/d)",
-        "company_name":"LeySelect GmbH",
-        "location":"Essen",
-        "remote":false,
-        "job_types":[
-            "Unbefristeter arbeitsvertrag",
-            "teamleitung"
-        ],
-        "tags":[
-            "Management",
-            "Team Leader"
-        ]
-    },
-    {
-        "title":"DevOps & Data Architecture - Intern\/Fulltime",
-        "company_name":"Heidi Systems",
-        "location":"Berlin",
-        "remote":false,
-        "job_types":[
-            "Permanent employment (unbefristeter arbeitsvertrag)"
-        ],
-        "tags":[
-            "Software Development"
-        ]
-    },
-    {
-        "title":"Teamlead Workplace Technology (m\/w\/d)",
-        "company_name":"LeySelect GmbH",
-        "location":"Essen",
-        "remote":false,
-        "job_types":[
-            "Unbefristeter arbeitsvertrag",
-            "teamleitung"
-        ],
-        "tags":[
-            "Management",
-            "Team Leader"
-        ]
-    },
-    {
-        "title":"Senior Product Manager – Agentic AI (f\/m\/d)",
-        "company_name":"Verwaltungssprung GmbH",
-        "location":"Berlin",
-        "remote":false,
-        "job_types":[
-            "Permanent employment (unbefristeter arbeitsvertrag)",
-            "professional \/ experienced"
-        ],
-        "tags":[
-            "Product Management"
-        ]
-    },
-    {
-        "title":"Senior Softwareentwickler \/ Engineer – Backend & Cloud (w\/m\/d)",
-        "company_name":"Sightwise GmbH",
-        "location":"Hanover",
-        "remote":false,
-        "job_types":[
-            "Unbefristeter arbeitsvertrag",
-            "berufserfahren"
-        ],
-        "tags":[
-            "Software Development"
-        ]
-    },
-    {
-        "title":"Working Student - Customer Care (f\/m\/d)",
-        "company_name":"Instagrid",
-        "location":"Ludwigsburg",
-        "remote":false,
-        "job_types":[
-            "Part-time fixed-term",
-            "student (college)"
-        ],
-        "tags":[
-            "Energy",
-            "certification"
-        ]
-    },
-    {
-        "title":"Werkstudent HR (m\/w\/d)",
-        "company_name":"Yalwa GmbH",
-        "location":"Wiesbaden",
-        "remote":false,
-        "job_types":[
-            "Full-time permanent",
-            "experienced"
-        ],
-        "tags":[
-            "Internet and software",
-            "high school coursework"
-        ]
-    },
-    {
-        "title":"Marketing Manager",
-        "company_name":"Take Care Immobilien GmbH",
-        "location":"Düsseldorf",
-        "remote":false,
-        "job_types":[
-            "Unbefristeter arbeitsvertrag",
-            "berufserfahren"
-        ],
-        "tags":[
-            "Marketing Manager"
-        ]
-    },
-    {
-        "title":"Performance Marketing Manager (m\/w\/d, Vollzeit)",
-        "company_name":"Take Care Immobilien GmbH",
-        "location":"Düsseldorf",
-        "remote":false,
-        "job_types":[
-            "Unbefristeter arbeitsvertrag",
-            "berufserfahren"
-        ],
-        "tags":[
-            "Online Marketing"
-        ]
-    },
-    {
-        "title":"Customer Success Associate (m\/w\/d)",
-        "company_name":"SPARRKS",
-        "location":"Berlin",
-        "remote":false,
-        "job_types":[
-            "Unbefristeter arbeitsvertrag",
-            "berufserfahren"
-        ],
-        "tags":[
-            "Customer Service"
-        ]
-    },
-    {
-        "title":"Integrator (m\/w\/d)",
-        "company_name":"Cyrus Digital GmbH",
-        "location":"Munich",
-        "remote":false,
-        "job_types":[
-            "Unbefristeter arbeitsvertrag",
-            "berufserfahren"
-        ],
-        "tags":[
-            "Software Development"
-        ]
-    },
-    {
-        "title":"Working Student (Werkstudent) HR Operations (m\/f\/d)",
-        "company_name":"Verve",
-        "location":"",
-        "remote":false,
-        "job_types":[
-
-        ],
-        "tags":[
-            "General & Administrative"
-        ]
-    },
-    {
-        "title":"Account Executive, Influencer Marketing",
-        "company_name":"Accelerationpartners",
-        "location":"",
-        "remote":false,
-        "job_types":[
-
-        ],
-        "tags":[
-            "EMEA Client Services Early Career"
-        ]
-    },
-    {
-        "title":"Account Executive, Influencer Marketing",
-        "company_name":"Accelerationpartners",
-        "location":"Berlin; Munich; Hamburg; Frankfurt",
-        "remote":false,
-        "job_types":[
-
-        ],
-        "tags":[
-            "EMEA Client Services Early Career"
-        ]
-    },
-    {
-        "title":"Applied AI Engineer",
-        "company_name":"engelhart",
-        "location":"Berlin",
-        "remote":false,
-        "job_types":[
-
-        ],
-        "tags":[
-            "Technology"
-        ]
-    },
-    {
-        "title":"Head of Revenue Operations",
-        "company_name":"Haut Ai",
-        "location":"Remote",
-        "remote":true,
-        "job_types":[
-            "Full Time"
-        ],
-        "tags":[
-            "Sales"
-        ]
-    },
-    {
-        "title":"Senior Accountant – Accounts Payable (m\/w\/d)",
-        "company_name":"Statista",
+        "title":"IT Support Specialist (m\/w\/d)",
+        "company_name":"DaVita Deutschland AG",
         "location":"Hamburg",
         "remote":false,
         "job_types":[
-            "Full Time"
-        ],
-        "tags":[
-            "Finance"
-        ]
-    },
-    {
-        "title":"Head of Engineering (f\/m\/d)",
-        "company_name":"Moss",
-        "location":"Berlin",
-        "remote":false,
-        "job_types":[
-            "Full Time"
-        ],
-        "tags":[
-            "EPD"
-        ]
-    },
-    {
-        "title":"Head of Operations (m\/w\/d) | Health & Beauty Scale-up",
-        "company_name":"MY HEALTH & BEAUTY",
-        "location":"Cologne",
-        "remote":false,
-        "job_types":[
             "Unbefristeter arbeitsvertrag",
-            "geschäftsleitung"
-        ],
-        "tags":[
-            "Management",
-            "Team Leader"
-        ]
-    },
-    {
-        "title":"Interviewer m\/w\/d für Züge gesucht (flexibler Minijob) - 3200",
-        "company_name":"econex verkehrsconsult GmbH",
-        "location":"Nordhausen",
-        "remote":false,
-        "job_types":[
-            "Minijob (geringfügige beschäftigung)",
-            "side",
-            "hilfstätigkeit \/ student"
-        ],
-        "tags":[
-            "Market Research",
-            "Analysis"
-        ]
-    },
-    {
-        "title":"Interviewer m\/w\/d für Züge gesucht (flexibler Minijob) - 3200",
-        "company_name":"econex verkehrsconsult GmbH",
-        "location":"Cuxhaven",
-        "remote":false,
-        "job_types":[
-            "Minijob (geringfügige beschäftigung)",
-            "side",
-            "hilfstätigkeit \/ student"
-        ],
-        "tags":[
-            "Market Research",
-            "Analysis"
-        ]
-    },
-    {
-        "title":"Content Creator Social Media (m\/w\/d) im Ehrenamt",
-        "company_name":"Bundesverbraucherhilfe e.V.",
-        "location":"Berlin",
-        "remote":true,
-        "job_types":[
-            "Minijob (geringfügige beschäftigung)",
-            "side",
-            "hilfstätigkeit \/ student"
-        ],
-        "tags":[
-            "Remote",
-            "Social Media Manager"
-        ]
-    },
-    {
-        "title":"Senior Network Administrator (m\/w\/d)",
-        "company_name":"Karriereweg GmbH",
-        "location":"Kassel",
-        "remote":false,
-        "job_types":[
-            "Unbefristeter arbeitsvertrag",
-            "berufserfahren"
-        ],
-        "tags":[
-            "System and Network Administration"
-        ]
-    },
-    {
-        "title":"Ausbildung zum Fachinformatiker für Anwendungsentwicklung 2027 (m\/w\/d)",
-        "company_name":"Eggersmann - Gruppe",
-        "location":"Wardenburg",
-        "remote":false,
-        "job_types":[
-            "Ausbildung",
-            "apprenticeship",
             "berufseinstieg"
         ],
         "tags":[
-            "Software Development"
+            "Helpdesk"
         ]
     },
     {
-        "title":"Ausbildung zum Fachinformatiker für Systemintegration 2027 (m\/w\/d)",
-        "company_name":"Eggersmann - Gruppe",
-        "location":"Wardenburg",
-        "remote":false,
-        "job_types":[
-            "Ausbildung",
-            "apprenticeship",
-            "berufseinstieg"
-        ],
-        "tags":[
-            "System and Network Administration"
-        ]
-    },
-    {
-        "title":"AI-Native Software Engineer (Human)",
-        "company_name":"Eventinc GmbH",
-        "location":"Hamburg",
-        "remote":false,
-        "job_types":[
-            "Permanent employment (unbefristeter arbeitsvertrag)",
-            "professional \/ experienced"
-        ],
-        "tags":[
-            "Software Development"
-        ]
-    },
-    {
-        "title":"AI Engineer (Mensch)",
-        "company_name":"Eventinc GmbH",
-        "location":"Hamburg",
-        "remote":false,
-        "job_types":[
-            "Unbefristeter arbeitsvertrag",
-            "berufserfahren"
-        ],
-        "tags":[
-            "Software Development"
-        ]
-    },
-    {
-        "title":"Senior Manager Strategy & Transformation (m\/w\/d)",
-        "company_name":"CURRENTA GRUPPE",
-        "location":"Leverkusen, Nordrhein-Westfalen, Deutschland",
-        "remote":false,
-        "job_types":[
-            "Experienced",
-            "fulltime permanent"
-        ],
-        "tags":[
-            "CUR - Transformation Office"
-        ]
-    },
-    {
-        "title":"VC AI & Automation Manager (Part-time \/ Freelance, with Full-time Opportunity) (m\/f\/d)",
-        "company_name":"Ananda Ventures GmbH",
-        "location":"Munich, Bayern, Germany",
-        "remote":false,
-        "job_types":[
-            "Mid",
-            "parttime permanent"
-        ],
-        "tags":[
-
-        ]
-    },
-    {
-        "title":"OT Security Engineer mit Remote-Option (m\/w\/d)",
-        "company_name":"PolyTALENT GmbH",
-        "location":"Berlin, Berlin, Deutschland",
-        "remote":false,
-        "job_types":[
-            "Entry",
-            "fulltime permanent"
-        ],
-        "tags":[
-
-        ]
-    },
-    {
-        "title":"OT Security Engineer Biogasanlagen mit Homeoffice (m\/w\/d)",
-        "company_name":"PolyTALENT GmbH",
-        "location":"Saerbeck, Nordrhein-Westfalen, Deutschland",
-        "remote":false,
-        "job_types":[
-            "Entry",
-            "fulltime permanent"
-        ],
-        "tags":[
-
-        ]
-    },
-    {
-        "title":"OT Security Engineer Biogasanlagen mit Homeoffice (m\/w\/d)",
-        "company_name":"PolyTALENT GmbH",
-        "location":"Lohne (Oldenburg), Niedersachsen, Deutschland",
-        "remote":false,
-        "job_types":[
-            "Entry",
-            "fulltime permanent"
-        ],
-        "tags":[
-
-        ]
-    },
-    {
-        "title":"Founders Associate",
-        "company_name":"BIA Hubs \/\/ HelloCircle",
-        "location":"Berlin",
-        "remote":false,
-        "job_types":[
-            "Fixed-term contract (befristeter arbeitsvertrag)",
-            "entry"
-        ],
-        "tags":[
-            "Business Operations"
-        ]
-    },
-    {
-        "title":"Techniker \/ Mechatroniker – Robotik & Anwendungstechnik (m\/w\/d)",
-        "company_name":"SoftGripping GmbH",
-        "location":"Hanover",
-        "remote":false,
-        "job_types":[
-            "Unbefristeter arbeitsvertrag",
-            "berufserfahren"
-        ],
-        "tags":[
-            "Automation Engineering"
-        ]
-    },
-    {
-        "title":"Partnerships Manager",
-        "company_name":"BIA Hubs \/\/ HelloCircle",
-        "location":"Berlin",
-        "remote":false,
-        "job_types":[
-            "Fixed-term contract (befristeter arbeitsvertrag)",
-            "manager"
-        ],
-        "tags":[
-            "Business Development"
-        ]
-    },
-    {
-        "title":"Produkt Marketing Manager CAD\/CAM\/MES (m\/w\/d)",
-        "company_name":"OPEN MIND Technologies AG",
-        "location":"Weßling",
-        "remote":false,
-        "job_types":[
-            "Unbefristeter arbeitsvertrag",
-            "berufserfahren"
-        ],
-        "tags":[
-            "Marketing and Communication"
-        ]
-    },
-    {
-        "title":"Working Student \/ Intern Finance & Operations (m\/f\/d)",
-        "company_name":"GENUINE Beauty GmbH",
-        "location":"Cologne",
-        "remote":false,
-        "job_types":[
-            "Internship (praktikum)",
-            "internship",
-            "entry"
-        ],
-        "tags":[
-            "Finance"
-        ]
-    },
-    {
-        "title":"Manager (m\/w\/d) Einkaufsberatung",
-        "company_name":"ProcuVia AG",
+        "title":"Projektleiter\/in Hochbau - Bestand und Neubau (m\/w\/d)",
+        "company_name":"Kratzert Gruppe",
         "location":"Düsseldorf",
         "remote":false,
         "job_types":[
@@ -699,105 +37,12 @@
             "teamleitung"
         ],
         "tags":[
-            "Business Consulting"
+            "Project Management"
         ]
     },
     {
-        "title":"Business Development & AI Sales Operations – Praktikant*in (w\/m\/d)",
-        "company_name":"SPARRKS",
-        "location":"Berlin",
-        "remote":false,
-        "job_types":[
-            "Praktikum",
-            "internship",
-            "hilfstätigkeit \/ student"
-        ],
-        "tags":[
-            "Business Development"
-        ]
-    },
-    {
-        "title":"Backend Engineer (Node.js \/ TypeScript)",
-        "company_name":"Nexoya",
-        "location":"Berlin",
-        "remote":true,
-        "job_types":[
-            "Freelancer \/ indepedent contractor",
-            "freelance",
-            "professional \/ experienced"
-        ],
-        "tags":[
-            "Remote",
-            "Engineering"
-        ]
-    },
-    {
-        "title":"Senior Risk & Fraud Prevention Analyst",
-        "company_name":"SumUp",
-        "location":"Berlin, Germany",
-        "remote":false,
-        "job_types":[
-
-        ],
-        "tags":[
-
-        ]
-    },
-    {
-        "title":"Growth Marketing Manager (m\/w\/d)",
-        "company_name":"Cyrus Digital GmbH",
-        "location":"Munich",
-        "remote":false,
-        "job_types":[
-            "Unbefristeter arbeitsvertrag",
-            "berufserfahren"
-        ],
-        "tags":[
-            "Online Marketing"
-        ]
-    },
-    {
-        "title":"Junior Digital Marketing Manager",
-        "company_name":"Cyrus Digital GmbH",
-        "location":"Munich",
-        "remote":false,
-        "job_types":[
-            "Unbefristeter arbeitsvertrag",
-            "berufseinstieg"
-        ],
-        "tags":[
-            "Marketing Manager"
-        ]
-    },
-    {
-        "title":"Junior Performance Marketing Manager (m\/w\/d)",
-        "company_name":"Cyrus Digital GmbH",
-        "location":"Munich",
-        "remote":false,
-        "job_types":[
-            "Unbefristeter arbeitsvertrag",
-            "berufseinstieg"
-        ],
-        "tags":[
-            "Online Marketing"
-        ]
-    },
-    {
-        "title":"Personalreferent (m\/w\/d)",
-        "company_name":"JÜRGEN TAUSCH Recruitment und Coaching",
-        "location":"Dresden",
-        "remote":false,
-        "job_types":[
-            "Unbefristeter arbeitsvertrag",
-            "berufserfahren"
-        ],
-        "tags":[
-            "Personnel Specialist"
-        ]
-    },
-    {
-        "title":"(Senior) Manager Risk & Restructuring – Leveraged Finance \/ Special Situations (m\/w\/d)",
-        "company_name":"Options Group",
+        "title":"Head of Technical Operations & Sales (m\/w\/d) – IT-Leitung, IT-Infrastruktur, & Sicherheitstechnik",
+        "company_name":"wabcon",
         "location":"Frankfurt am Main",
         "remote":false,
         "job_types":[
@@ -805,160 +50,106 @@
             "teamleitung"
         ],
         "tags":[
-            "Mergers & Acquisitions"
+            "System and Network Administration"
         ]
     },
     {
-        "title":"Finance Manager (w\/m\/d) Group Finance & Projektmanagement",
-        "company_name":"enua Pharma GmbH",
-        "location":"Cologne",
-        "remote":false,
-        "job_types":[
-            "Unbefristeter arbeitsvertrag",
-            "teamleitung"
-        ],
-        "tags":[
-            "Management",
-            "Team Leader"
-        ]
-    },
-    {
-        "title":"(Senior) Sales & Account Manager | Programmatic Full Funnel (m\/w\/d)",
-        "company_name":"Interactive Performance Deutschland GmbH",
+        "title":"Projektleiter\/in Hochbau - Bestand und Neubau (m\/w\/d)",
+        "company_name":"Kratzert Gruppe",
         "location":"Hamburg",
         "remote":false,
         "job_types":[
             "Unbefristeter arbeitsvertrag",
-            "berufserfahren"
-        ],
-        "tags":[
-            "Management",
-            "Team Leader"
-        ]
-    },
-    {
-        "title":"Werkstudent Marketplace Manager (m\/w\/d) – Amazon, TikTok Shop & Temu",
-        "company_name":"AMALOCK",
-        "location":"Berlin",
-        "remote":true,
-        "job_types":[
-            "Werkstudent",
-            "working student",
-            "hilfstätigkeit \/ student"
-        ],
-        "tags":[
-            "Remote",
-            "Online Marketing"
-        ]
-    },
-    {
-        "title":"Kosmetiker*in (m\/w\/d)",
-        "company_name":"Die Schönmacher am Friedensengel",
-        "location":"Munich",
-        "remote":false,
-        "job_types":[
-            "Unbefristeter arbeitsvertrag",
-            "berufserfahren"
-        ],
-        "tags":[
-            "Beauty",
-            "Wellness"
-        ]
-    },
-    {
-        "title":"Praktikant Energiekonzeption (m\/w\/d) Vollzeit",
-        "company_name":"EGS-plan Ingenieurgesellschaft für Energie-, Gebäude- und Solartechnik mbH",
-        "location":"Stuttgart",
-        "remote":false,
-        "job_types":[
-            "Praktikum",
-            "internship",
-            "hilfstätigkeit \/ student"
-        ],
-        "tags":[
-            "Power Engineering and Environmental Engineering"
-        ]
-    },
-    {
-        "title":"Projektleiter:in Kommunikationstechnik \/ Direktvorstellung auf CTO-Ebene",
-        "company_name":"wabcon",
-        "location":"Dresden",
-        "remote":false,
-        "job_types":[
-            "Unbefristeter arbeitsvertrag",
-            "geschäftsleitung"
+            "teamleitung"
         ],
         "tags":[
             "Project Management"
         ]
     },
     {
-        "title":"CX Manager (d\/w\/m)",
-        "company_name":"SpotmyEnergy GmbH",
-        "location":"Cologne",
+        "title":"(Junior) Manager Internal Audit (f\/m\/d) – 18 months Maternity Cover",
+        "company_name":"LuxExperience",
+        "location":"Munich",
+        "remote":false,
+        "job_types":[
+            "Fixed-term contract (befristeter arbeitsvertrag)",
+            "manager"
+        ],
+        "tags":[
+            "Auditor"
+        ]
+    },
+    {
+        "title":"IT-Administrator mit Schwerpunkt IT-Security (m\/w\/d)",
+        "company_name":"think about IT GmbH",
+        "location":"Krefeld",
         "remote":false,
         "job_types":[
             "Unbefristeter arbeitsvertrag",
             "berufserfahren"
         ],
         "tags":[
-            "Customer Service"
+            "IT Security"
         ]
     },
     {
-        "title":"Senior AI Engineer",
-        "company_name":"Sphere",
+        "title":"Senior Solution Consultant - Enterprise Software & KI (m\/w\/d)",
+        "company_name":"SquareNeo",
+        "location":"Karlsruhe",
+        "remote":false,
+        "job_types":[
+            "Unbefristeter arbeitsvertrag",
+            "berufserfahren"
+        ],
+        "tags":[
+            "Consulting",
+            "Engineering"
+        ]
+    },
+    {
+        "title":"Working Student Communications (f\/m\/d)",
+        "company_name":"RIZM",
         "location":"Munich",
         "remote":false,
         "job_types":[
-            "Permanent employment (unbefristeter arbeitsvertrag)"
+            "Working student (werkstudent)",
+            "working student",
+            "no experience required \/ student"
         ],
         "tags":[
-            "IT"
+            "Public Relations",
+            "Corporate Communication"
         ]
     },
     {
-        "title":"Founders Associate Pflichtpraktikum (m\/w\/d)",
-        "company_name":"Clever Chocolate",
+        "title":"Senior Solution Architect - PKI (m\/w\/x)",
+        "company_name":"INDIE Solutions GmbH",
         "location":"Berlin",
         "remote":false,
         "job_types":[
-            "Praktikum",
-            "internship",
-            "hilfstätigkeit \/ student"
+            "Unbefristeter arbeitsvertrag",
+            "berufserfahren"
         ],
         "tags":[
-            "Business Operations"
+            "IT Security"
         ]
     },
     {
-        "title":"Performance Marketing Manager (m\/w\/d)",
-        "company_name":"talenthafen GmbH",
-        "location":"Hamburg",
+        "title":"Konstrukteur Elektrotechnik (w\/m\/d) Antriebssysteme",
+        "company_name":"Additive Drives GmbH",
+        "location":"Dresden",
         "remote":false,
         "job_types":[
-            "Unbefristeter arbeitsvertrag"
+            "Befristeter arbeitsvertrag",
+            "berufserfahren"
         ],
         "tags":[
-            "Marketing Manager"
+            "Development"
         ]
     },
     {
-        "title":"Customer Service Agent - dentolo (all genders)",
-        "company_name":"getolo GmbH",
-        "location":"Berlin",
-        "remote":true,
-        "job_types":[
-            "Unbefristeter arbeitsvertrag"
-        ],
-        "tags":[
-            "Remote",
-            "Customer Service"
-        ]
-    },
-    {
-        "title":"Founding GTM Lead (Sales) (m\/w\/d)",
-        "company_name":"snipKI",
+        "title":"Influencer und Social Media Lead (all genders)",
+        "company_name":"mammaly",
         "location":"Berlin",
         "remote":true,
         "job_types":[
@@ -967,26 +158,554 @@
         ],
         "tags":[
             "Remote",
-            "Business Development"
+            "Social Media Manager"
         ]
     },
     {
-        "title":"Social Media Manager*in (all gender)",
-        "company_name":"HEIMPLANET",
-        "location":"Hamburg",
+        "title":"Referent Finance und Risikomanagement (m\/w\/d) Teilzeit",
+        "company_name":"MY Humancapital GmbH",
+        "location":"Munich",
         "remote":false,
         "job_types":[
             "Unbefristeter arbeitsvertrag",
             "berufserfahren"
         ],
         "tags":[
+            "Compliance",
+            "Security"
+        ]
+    },
+    {
+        "title":"CRM & E-Mail Marketing Manager (m\/w\/d) | 100 % Remote",
+        "company_name":"Just Hiring",
+        "location":"Berlin",
+        "remote":true,
+        "job_types":[
+            "Unbefristeter arbeitsvertrag",
+            "teamleitung"
+        ],
+        "tags":[
+            "Remote",
+            "CRM",
+            "Direct Marketing"
+        ]
+    },
+    {
+        "title":"Konstrukteur Strukturbauteile (w\/m\/d) E-Mobilität",
+        "company_name":"Additive Drives GmbH",
+        "location":"Dresden",
+        "remote":false,
+        "job_types":[
+            "Befristeter arbeitsvertrag",
+            "berufserfahren"
+        ],
+        "tags":[
+            "Development"
+        ]
+    },
+    {
+        "title":"Environment Artist",
+        "company_name":"Techtive Games GmbH",
+        "location":"Berlin",
+        "remote":true,
+        "job_types":[
+            "Permanent employment",
+            "professional \/ experienced"
+        ],
+        "tags":[
+            "Remote",
+            "Media",
+            "Screen and Web Design"
+        ]
+    },
+    {
+        "title":"Specialist Organisation & Governance (m\/w\/d)",
+        "company_name":"GENO Broker",
+        "location":"Frankfurt am Main",
+        "remote":false,
+        "job_types":[
+            "Unbefristeter arbeitsvertrag",
+            "berufserfahren"
+        ],
+        "tags":[
+            "Business Operations"
+        ]
+    },
+    {
+        "title":"Elektroniker\/Prüftechniker (m\/w\/d) | Firmenwagen inkl. Privatnutzung | PLZ 96",
+        "company_name":"DPT - Deutsche Prüftechnik GmbH",
+        "location":"Bamberg",
+        "remote":false,
+        "job_types":[
+            "Unbefristeter arbeitsvertrag",
+            "berufseinstieg"
+        ],
+        "tags":[
+            "Quality Management"
+        ]
+    },
+    {
+        "title":"Elektroniker\/Prüftechniker (m\/w\/d) | Firmenwagen inkl. Privatnutzung | PLZ 0",
+        "company_name":"DPT - Deutsche Prüftechnik GmbH",
+        "location":"Leipzig",
+        "remote":false,
+        "job_types":[
+            "Unbefristeter arbeitsvertrag",
+            "berufserfahren"
+        ],
+        "tags":[
+            "Quality Management"
+        ]
+    },
+    {
+        "title":"Elektroniker \/ Prüftechniker (m\/w\/d) | Fester Einsatzort",
+        "company_name":"DPT - Deutsche Prüftechnik GmbH",
+        "location":"Darmstadt",
+        "remote":false,
+        "job_types":[
+            "Unbefristeter arbeitsvertrag",
+            "berufseinstieg"
+        ],
+        "tags":[
+            "Quality Management"
+        ]
+    },
+    {
+        "title":"Mitarbeiter Elektrobereich (m\/w\/d) | Festanstellung",
+        "company_name":"DPT - Deutsche Prüftechnik GmbH",
+        "location":"Esslingen",
+        "remote":false,
+        "job_types":[
+            "Unbefristeter arbeitsvertrag",
+            "hilfstätigkeit \/ student"
+        ],
+        "tags":[
+            "Quality Management"
+        ]
+    },
+    {
+        "title":"Manager Business Development & Market Analysis (m\/w\/d) | Befristet auf 4 Jahre",
+        "company_name":"Deutsche Energy Terminal GmbH",
+        "location":"Düsseldorf",
+        "remote":false,
+        "job_types":[
+            "Befristeter arbeitsvertrag",
+            "teamleitung"
+        ],
+        "tags":[
+            "Business Development"
+        ]
+    },
+    {
+        "title":"Werkstudent (m\/w\/d)",
+        "company_name":"WerraEnergie GmbH",
+        "location":"Bad Salzungen, Thüringen, Deutschland",
+        "remote":false,
+        "job_types":[
+            "Student college",
+            "parttime fixed term"
+        ],
+        "tags":[
+            "Werraenergie GmbH"
+        ]
+    },
+    {
+        "title":"Werkstudent Elektrotechnik \/ Energietechnik (m\/w\/d)",
+        "company_name":"WerraEnergie GmbH",
+        "location":"Bad Salzungen, Thüringen, Deutschland",
+        "remote":false,
+        "job_types":[
+            "Student college",
+            "parttime fixed term"
+        ],
+        "tags":[
+            "WerraEnergiedienste GmbH"
+        ]
+    },
+    {
+        "title":"Head of Legal @ AI Chip DeepTech Venture, Dresden \/ Berlin",
+        "company_name":"atlantic.vc",
+        "location":"Dresden, Sachsen, Germany",
+        "remote":false,
+        "job_types":[
+            "Manager",
+            "fulltime permanent"
+        ],
+        "tags":[
+            "Portfolio Company"
+        ]
+    },
+    {
+        "title":"Software Developer PLM (.NET \/ C#) (m\/f\/d)",
+        "company_name":"Quantum-Systems GmbH",
+        "location":"Gilching, Bayern, Germany",
+        "remote":false,
+        "job_types":[
+            "Mid",
+            "fulltime permanent"
+        ],
+        "tags":[
+            "People & Finance"
+        ]
+    },
+    {
+        "title":"Product Manager MISSION AIRCRAFT (m\/f\/d)",
+        "company_name":"Quantum-Systems GmbH",
+        "location":"Gilching, Bayern, Germany",
+        "remote":false,
+        "job_types":[
+            "Mid",
+            "fulltime permanent"
+        ],
+        "tags":[
+            "Product Management"
+        ]
+    },
+    {
+        "title":"Senior Modern Workplace Solutionist",
+        "company_name":"Signode",
+        "location":"Dinslaken, Nordrhein-Westfalen, Germany",
+        "remote":false,
+        "job_types":[
+            "Mid",
+            "fulltime permanent"
+        ],
+        "tags":[
+            "IT Corporate EMEA"
+        ]
+    },
+    {
+        "title":"Spezialist in der Qualifizierung und Softwarevalidierung (Mensch)",
+        "company_name":"Lamm HR GmbH",
+        "location":"Landkreis Bergstraße, Hessen, Deutschland",
+        "remote":false,
+        "job_types":[
+            "Mid",
+            "fulltime permanent"
+        ],
+        "tags":[
+            "Quality"
+        ]
+    },
+    {
+        "title":"(Senior) Campaign Manager Ad Operations (m\/w\/d)",
+        "company_name":"emetriq GmbH",
+        "location":"Hamburg, Hamburg, Deutschland",
+        "remote":false,
+        "job_types":[
+            "Mid",
+            "fulltime permanent"
+        ],
+        "tags":[
+            "Magenta"
+        ]
+    },
+    {
+        "title":"(Senior) Performance Marketing - Media Buying\/ Paid Social Manager (m\/w\/d)",
+        "company_name":"Rosental Organics GmbH",
+        "location":"Berlin, Berlin, Deutschland",
+        "remote":false,
+        "job_types":[
+            "Experienced",
+            "fulltime permanent"
+        ],
+        "tags":[
+            "Marketing"
+        ]
+    },
+    {
+        "title":"Chief of Staff to CMO (m\/w\/d)",
+        "company_name":"Rosental Organics GmbH",
+        "location":"Berlin, Berlin, Deutschland",
+        "remote":false,
+        "job_types":[
+            "Manager",
+            "fulltime permanent"
+        ],
+        "tags":[
+            "General Management & Strategy"
+        ]
+    },
+    {
+        "title":"Senior CRM Manager - Klaviyo & Automation\/ E-Mail Marketing Manager (m\/w\/d)",
+        "company_name":"Rosental Organics GmbH",
+        "location":"Berlin, Berlin, Deutschland",
+        "remote":false,
+        "job_types":[
+            "Mid",
+            "fulltime permanent"
+        ],
+        "tags":[
+            "Marketing"
+        ]
+    },
+    {
+        "title":"(Senior) Product Launch Manager - Beauty & Skin Care (m\/w\/d)",
+        "company_name":"Rosental Organics GmbH",
+        "location":"Berlin, Berlin, Deutschland",
+        "remote":false,
+        "job_types":[
+            "Mid",
+            "fulltime permanent"
+        ],
+        "tags":[
+            "Product"
+        ]
+    },
+    {
+        "title":"(Senior) E-Commerce Manager (m\/w\/d)",
+        "company_name":"Rosental Organics GmbH",
+        "location":"Berlin, Berlin, Deutschland",
+        "remote":false,
+        "job_types":[
+            "Mid",
+            "fulltime permanent"
+        ],
+        "tags":[
+            "Shop\/ E-Commerce"
+        ]
+    },
+    {
+        "title":"Senior Supply Chain Manager (m\/w\/d)",
+        "company_name":"Rosental Organics GmbH",
+        "location":"Berlin, Berlin, Deutschland",
+        "remote":false,
+        "job_types":[
+            "Mid",
+            "fulltime permanent"
+        ],
+        "tags":[
+            "Supply Chain"
+        ]
+    },
+    {
+        "title":"Senior AI Content Producer - Foto, Video, Motion (m\/w\/d) - Befristet auf 12 Monate vorerst",
+        "company_name":"Rosental Organics GmbH",
+        "location":"Berlin, Berlin, Deutschland",
+        "remote":false,
+        "job_types":[
+            "Mid",
+            "fulltime fixed term"
+        ],
+        "tags":[
+            "Marketing"
+        ]
+    },
+    {
+        "title":"CRM Manager - Retention & Engagement (m\/w\/d) – Data & CLV",
+        "company_name":"Rosental Organics GmbH",
+        "location":"Berlin, Berlin, Deutschland",
+        "remote":false,
+        "job_types":[
+            "Mid",
+            "fulltime permanent"
+        ],
+        "tags":[
+            "Marketing"
+        ]
+    },
+    {
+        "title":"Senior AI & Automation Operations Manager (m\/w\/d)",
+        "company_name":"Rosental Organics GmbH",
+        "location":"Berlin, Berlin, Deutschland",
+        "remote":false,
+        "job_types":[
+            "Mid",
+            "fulltime permanent"
+        ],
+        "tags":[
+            "Operations"
+        ]
+    },
+    {
+        "title":"Senior Product Engineer (m\/w\/d) – Internal Tools & E-Commerce",
+        "company_name":"Rosental Organics GmbH",
+        "location":"Berlin, Berlin, Deutschland",
+        "remote":false,
+        "job_types":[
+            "Mid",
+            "fulltime permanent"
+        ],
+        "tags":[
+            "Shop\/ E-Commerce"
+        ]
+    },
+    {
+        "title":"Werkstudent Influencer Marketing & Affiliate (m\/w\/d)",
+        "company_name":"Rosental Organics GmbH",
+        "location":"Berlin, Berlin, Deutschland",
+        "remote":false,
+        "job_types":[
+            "Student college",
+            "parttime fixed term"
+        ],
+        "tags":[
+            "Marketing"
+        ]
+    },
+    {
+        "title":"Wirtschaftsinformatiker (m\/w\/d)",
+        "company_name":"Mission Mittelstand",
+        "location":"Cloppenburg, Niedersachsen, Deutschland",
+        "remote":false,
+        "job_types":[
+            "Experienced",
+            "fulltime permanent"
+        ],
+        "tags":[
+            "Kundenbetreuung"
+        ]
+    },
+    {
+        "title":"Web Designer at AIOS — Remote, $100k-$200k\/yr (including equity)",
+        "company_name":"AIOS (YC W20\/S21)",
+        "location":"Remote (EU)",
+        "remote":false,
+        "job_types":[
+            "Full Time"
+        ],
+        "tags":[
+            "Growth"
+        ]
+    },
+    {
+        "title":"Praktikant\/-In Content Marketing & Social Media (M\/W\/D)",
+        "company_name":"GGFS Foodconcepts GmbH",
+        "location":"Leipzig",
+        "remote":false,
+        "job_types":[
+            "Praktikum",
+            "internship",
+            "hilfstätigkeit \/ student"
+        ],
+        "tags":[
             "Social Media Manager"
         ]
     },
     {
-        "title":"Schichtleiter:in",
-        "company_name":"BUYA Ramen",
-        "location":"Berlin",
+        "title":"Stellvertretender Standortleiter Elektrotechnik (m\/w\/d)",
+        "company_name":"Riverstate Premium Recruiting",
+        "location":"Kassel",
+        "remote":false,
+        "job_types":[
+            "Unbefristeter arbeitsvertrag",
+            "teamleitung"
+        ],
+        "tags":[
+            "Project Management"
+        ]
+    },
+    {
+        "title":"Business Analyst (m\/w\/d) Digital Products & Apps",
+        "company_name":"GENO Broker",
+        "location":"Frankfurt am Main",
+        "remote":false,
+        "job_types":[
+            "Unbefristeter arbeitsvertrag",
+            "berufserfahren"
+        ],
+        "tags":[
+            "Consulting",
+            "Engineering"
+        ]
+    },
+    {
+        "title":"Google Ads Manager (m\/w\/d) – Google, Performance Marketing & KI",
+        "company_name":"MB Outdoor GmbH",
+        "location":"Xanten",
+        "remote":false,
+        "job_types":[
+            "Unbefristeter arbeitsvertrag",
+            "teamleitung"
+        ],
+        "tags":[
+            "Online Marketing"
+        ]
+    },
+    {
+        "title":"Vertriebsmitarbeiter (m\/w\/d) Service & Modernisierung",
+        "company_name":"Lödige Industries GmbH",
+        "location":"Munich",
+        "remote":false,
+        "job_types":[
+            "Unbefristeter arbeitsvertrag",
+            "berufserfahren"
+        ],
+        "tags":[
+            "Sales Engineer"
+        ]
+    },
+    {
+        "title":"Mitarbeiter*in Kreditsicherung \/ Abwicklung (m\/w\/d)",
+        "company_name":"Volksbank Lübeck eG",
+        "location":"Lübeck",
+        "remote":false,
+        "job_types":[
+            "Unbefristeter arbeitsvertrag",
+            "berufserfahren"
+        ],
+        "tags":[
+            "Credit Analysis"
+        ]
+    },
+    {
+        "title":"(Junior) Engineer Transmission Network (M\/W\/D) - BU3",
+        "company_name":"Live Reply GmbH",
+        "location":"Frankfurt am Main",
+        "remote":false,
+        "job_types":[
+            "Unbefristeter arbeitsvertrag",
+            "berufseinstieg"
+        ],
+        "tags":[
+            "System and Network Administration"
+        ]
+    },
+    {
+        "title":"(Senior) Privacy Manager - Governance & Legal (all genders)",
+        "company_name":"Getolo",
+        "location":"Berlin, Germany",
+        "remote":false,
+        "job_types":[
+            "Full time"
+        ],
+        "tags":[
+            "Insurance",
+            "Governance & Legal"
+        ]
+    },
+    {
+        "title":"Werkstudent (m\/w\/d) Elektroinstallation",
+        "company_name":"ee technik gmbh",
+        "location":"Norderstedt",
+        "remote":false,
+        "job_types":[
+            "Part-time permanent",
+            "student (college)"
+        ],
+        "tags":[
+            "Engineering",
+            "high school or equivalent"
+        ]
+    },
+    {
+        "title":"Senior Product Manager Growth (f\/m\/d)",
+        "company_name":"Trusted Shops SE (DE)",
+        "location":"Cologne",
+        "remote":false,
+        "job_types":[
+            "Full-time permanent",
+            "mid"
+        ],
+        "tags":[
+            "Other",
+            "high school coursework"
+        ]
+    },
+    {
+        "title":"Finance Manager (m\/f\/d)",
+        "company_name":"much. GmbH",
+        "location":"Munich",
         "remote":false,
         "job_types":[
             "Permanent employment (unbefristeter arbeitsvertrag)",
@@ -998,238 +717,152 @@
         ]
     },
     {
-        "title":"IT Security- und Netzwerkadministrator (m\/w\/d)",
-        "company_name":"PIN AG",
-        "location":"Berlin",
+        "title":"Head of Finance (m\/f\/d)",
+        "company_name":"much. GmbH",
+        "location":"Munich",
+        "remote":false,
+        "job_types":[
+            "Permanent employment (unbefristeter arbeitsvertrag)",
+            "executive"
+        ],
+        "tags":[
+            "Management",
+            "Team Leader"
+        ]
+    },
+    {
+        "title":"Product Owner (m\/w\/d) Brokerage & Digital Assets",
+        "company_name":"GENO Broker",
+        "location":"Frankfurt am Main",
         "remote":false,
         "job_types":[
             "Unbefristeter arbeitsvertrag",
             "berufserfahren"
         ],
         "tags":[
-            "IT Security"
+            "Product Management"
         ]
     },
     {
-        "title":"Rohrleitungsmonteur\/ Monteur Anlagenbau für Reinstmedienversorgungssysteme",
-        "company_name":"Rortek Generalunternehmer Rohrleitungsbau für Industrie- und Kraftwerksanlagen GmbH",
-        "location":"Berlin",
+        "title":"Consultant KI & Einkauf (m\/w\/d)",
+        "company_name":"ProcuVia AG",
+        "location":"Düsseldorf",
         "remote":false,
         "job_types":[
-            "Unbefristeter arbeitsvertrag"
+            "Unbefristeter arbeitsvertrag",
+            "berufserfahren"
         ],
         "tags":[
+            "Consulting",
             "Engineering"
         ]
     },
     {
-        "title":"Projektmanager:in (m\/w\/d)",
-        "company_name":"Heber & Link GmbH",
-        "location":"Cologne",
-        "remote":false,
-        "job_types":[
-            "Unbefristeter arbeitsvertrag",
-            "berufserfahren"
-        ],
-        "tags":[
-            "Trade Marketing"
-        ]
-    },
-    {
-        "title":"Microsoft 365 Security Engineer*",
-        "company_name":"Energiebauern GmbH",
-        "location":"Aichach",
-        "remote":false,
-        "job_types":[
-            "Unbefristeter arbeitsvertrag",
-            "berufserfahren"
-        ],
-        "tags":[
-            "IT Security"
-        ]
-    },
-    {
-        "title":"IT-Systemadministrator m\/w\/d",
-        "company_name":"KARL SCHNELL GmbH & Co. KG",
-        "location":"Winterbach",
-        "remote":false,
-        "job_types":[
-            "Unbefristeter arbeitsvertrag",
-            "berufserfahren"
-        ],
-        "tags":[
-            "System and Network Administration"
-        ]
-    },
-    {
-        "title":"Leiter:in IT Einführung von KI-Tools im Enterprise-Umfeld \/ hybrid",
-        "company_name":"wabcon",
-        "location":"Erfurt",
-        "remote":false,
-        "job_types":[
-            "Unbefristeter arbeitsvertrag",
-            "teamleitung"
-        ],
-        "tags":[
-            "Management",
-            "Team Leader"
-        ]
-    },
-    {
-        "title":"HR Business Partner (m\/w\/d) – People & Culture",
-        "company_name":"TEKPOINT GmbH",
-        "location":"Nohra",
-        "remote":false,
-        "job_types":[
-            "Unbefristeter arbeitsvertrag",
-            "berufserfahren"
-        ],
-        "tags":[
-            "Personnel Specialist"
-        ]
-    },
-    {
-        "title":"Fachplaner*in Versorgungstechnik HLS (m\/w\/d)",
-        "company_name":"Draheim Ingenieure",
-        "location":"Hamburg",
-        "remote":false,
-        "job_types":[
-            "Unbefristeter arbeitsvertrag"
-        ],
-        "tags":[
-            "Building",
-            "Supply",
-            "Safety Services Engineering"
-        ]
-    },
-    {
-        "title":"DevOps-\/Platform-Engineer (m\/w\/d)",
-        "company_name":"hellomed",
+        "title":"(Senior) Finance Manager:in (m\/w\/d)",
+        "company_name":"fairafric AG",
         "location":"Berlin",
-        "remote":false,
-        "job_types":[
-            "Unbefristeter arbeitsvertrag",
-            "berufserfahren"
-        ],
-        "tags":[
-            "System and Network Administration"
-        ]
-    },
-    {
-        "title":"Leiter:in IT Einführung von KI-Tools im Enterprise-Umfeld \/ hybrid",
-        "company_name":"wabcon",
-        "location":"Nuremberg",
-        "remote":false,
+        "remote":true,
         "job_types":[
             "Unbefristeter arbeitsvertrag",
             "teamleitung"
         ],
         "tags":[
+            "Remote",
             "Management",
             "Team Leader"
         ]
     },
     {
-        "title":"Haustechniker \/ Veranstaltungstechniker (m\/w\/d)",
-        "company_name":"Badenweiler Tourismus GmbH",
-        "location":"Badenweiler",
-        "remote":false,
+        "title":"Co-Founder & COO (m\/w\/d) gesucht für Corporate Philanthropy Plattform | Düsseldorf\/Remote",
+        "company_name":"Bonoboo GmbH",
+        "location":"Berlin",
+        "remote":true,
         "job_types":[
             "Unbefristeter arbeitsvertrag",
-            "berufserfahren"
+            "geschäftsleitung"
         ],
         "tags":[
-            "Building",
-            "Supply",
-            "Safety Services Engineering"
+            "Remote",
+            "Directors",
+            "Chief Executives"
         ]
     },
     {
-        "title":"Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration | Remote 100%",
-        "company_name":"hurra.com",
+        "title":"Developer Relations Engineer",
+        "company_name":"Nextcloud",
         "location":"Stuttgart",
         "remote":true,
         "job_types":[
-            "Freelancer \/ indepedent contractor",
-            "freelance",
+            "Permanent employment",
             "professional \/ experienced"
         ],
         "tags":[
             "Remote",
-            "Web Development"
-        ]
-    },
-    {
-        "title":"Senior Robotics Autonomy Engineer - Planning, Decision & Intercept",
-        "company_name":"Promethion Industries",
-        "location":"Berlin",
-        "remote":false,
-        "job_types":[
-            "Permanent employment (unbefristeter arbeitsvertrag)",
-            "professional \/ experienced"
-        ],
-        "tags":[
-            "Automation Engineering"
-        ]
-    },
-    {
-        "title":"Mobile Rendering Engineer (w\/m\/d)",
-        "company_name":"THQ Nordic Mobile GmbH",
-        "location":"Giebelstadt",
-        "remote":false,
-        "job_types":[
-            "Befristeter arbeitsvertrag",
-            "berufserfahren"
-        ],
-        "tags":[
             "Software Development"
         ]
     },
     {
-        "title":"Serviceberater (m\/w\/d) für BMW",
-        "company_name":"Autohaus Walter Mulfinger GmbH",
-        "location":"Winnenden",
-        "remote":false,
-        "job_types":[
-            "Unbefristeter arbeitsvertrag",
-            "berufserfahren"
-        ],
-        "tags":[
-            "Customer Service"
-        ]
-    },
-    {
-        "title":"Mitarbeiter Finanzbuchhaltung \/ Accounting (m\/w\/d)",
-        "company_name":"Chesterton International GmbH",
-        "location":"Rödinghausen",
-        "remote":false,
-        "job_types":[
-            "berufserfahren"
-        ],
-        "tags":[
-            "Finance"
-        ]
-    },
-    {
-        "title":"Serviceberater (m\/w\/d)",
-        "company_name":"Autohaus Walter Mulfinger GmbH",
-        "location":"Schorndorf",
-        "remote":false,
-        "job_types":[
-            "Unbefristeter arbeitsvertrag",
-            "berufserfahren"
-        ],
-        "tags":[
-            "Customer Service"
-        ]
-    },
-    {
-        "title":"Teilprojektleiter Softwareeinführung im Energiesektor (m\/w\/d)",
-        "company_name":"ATLAS TITAN Ost GmbH",
-        "location":"Lehrte",
+        "title":"Filialleitung \/ Store ManagerIn (m\/w\/d) italienische Mode",
+        "company_name":"La Strada Fashion",
+        "location":"Aachen",
         "remote":false,
         "job_types":[
             "Befristeter arbeitsvertrag",
+            "teamleitung"
+        ],
+        "tags":[
+            "Management",
+            "Team Leader"
+        ]
+    },
+    {
+        "title":"FilialleiterIn (m\/w\/d) für italienische Mode im Aquis Plaza",
+        "company_name":"La Strada Fashion",
+        "location":"Aachen",
+        "remote":false,
+        "job_types":[
+            "Befristeter arbeitsvertrag",
+            "teamleitung"
+        ],
+        "tags":[
+            "Management",
+            "Team Leader"
+        ]
+    },
+    {
+        "title":"Assistant Store Manager (m\/w\/d)",
+        "company_name":"Miniso Winky Germany GmbH",
+        "location":"Hamburg",
+        "remote":false,
+        "job_types":[
+            "Unbefristeter arbeitsvertrag",
+            "berufserfahren"
+        ],
+        "tags":[
+            "Management",
+            "Team Leader"
+        ]
+    },
+    {
+        "title":"Junior Marketing and Communication Manager - IT (f\/m\/d*)",
+        "company_name":"Nailscamp GmbH",
+        "location":"Berlin",
+        "remote":false,
+        "job_types":[
+            "Contratto a tempo determinato (befristeter arbeitsvertrag)",
+            "principiante"
+        ],
+        "tags":[
+            "Social Media Manager"
+        ]
+    },
+    {
+        "title":"Projektleiter Mittelspannung (m\/w\/d)",
+        "company_name":"HELA Service GmbH",
+        "location":"Mannheim",
+        "remote":false,
+        "job_types":[
+            "Unbefristeter arbeitsvertrag",
             "berufserfahren"
         ],
         "tags":[
@@ -1237,159 +870,705 @@
         ]
     },
     {
-        "title":"Elektroplaner*in (m\/w\/d)",
-        "company_name":"Draheim Ingenieure",
-        "location":"Hamburg",
+        "title":"Schweißfachmann \/ Elektroniker im Kundendienst (m\/w\/d)",
+        "company_name":"Metallit Plus GmbH",
+        "location":"Kassel",
         "remote":false,
         "job_types":[
-            "Unbefristeter arbeitsvertrag"
+            "Unbefristeter arbeitsvertrag",
+            "berufserfahren"
         ],
         "tags":[
+            "Sales Engineer"
+        ]
+    },
+    {
+        "title":"Interviewer \/ Fahrgastzähler (w\/m\/d) - Minijob",
+        "company_name":"ISUP GmbH",
+        "location":"Minden",
+        "remote":false,
+        "job_types":[
+            "Minijob (geringfügige beschäftigung)",
+            "side",
+            "hilfstätigkeit \/ student"
+        ],
+        "tags":[
+            "Data Scientist"
+        ]
+    },
+    {
+        "title":"Interviewer \/ Fahrgastzähler (w\/m\/d) - Minijob",
+        "company_name":"ISUP GmbH",
+        "location":"Uelzen",
+        "remote":false,
+        "job_types":[
+            "Minijob (geringfügige beschäftigung)",
+            "side",
+            "hilfstätigkeit \/ student"
+        ],
+        "tags":[
+            "Data Scientist"
+        ]
+    },
+    {
+        "title":"Interviewer \/ Fahrgastzähler (w\/m\/d) - Minijob",
+        "company_name":"ISUP GmbH",
+        "location":"Dannenberg",
+        "remote":false,
+        "job_types":[
+            "Minijob (geringfügige beschäftigung)",
+            "side",
+            "hilfstätigkeit \/ student"
+        ],
+        "tags":[
+            "Data Scientist"
+        ]
+    },
+    {
+        "title":"Interviewer \/ Fahrgastzähler (w\/m\/d) - Minijob",
+        "company_name":"ISUP GmbH",
+        "location":"Bad Harzburg",
+        "remote":false,
+        "job_types":[
+            "Minijob (geringfügige beschäftigung)",
+            "side",
+            "hilfstätigkeit \/ student"
+        ],
+        "tags":[
+            "Data Scientist"
+        ]
+    },
+    {
+        "title":"Interviewer \/ Fahrgastzähler (w\/m\/d) - Minijob",
+        "company_name":"ISUP GmbH",
+        "location":"Bremen",
+        "remote":false,
+        "job_types":[
+            "Minijob (geringfügige beschäftigung)",
+            "side",
+            "hilfstätigkeit \/ student"
+        ],
+        "tags":[
+            "Data Scientist"
+        ]
+    },
+    {
+        "title":"Interviewer \/ Fahrgastzähler Weser-Ems-Netz (w\/m\/d) - Minijob",
+        "company_name":"ISUP GmbH",
+        "location":"Oldenburg",
+        "remote":false,
+        "job_types":[
+            "Minijob (geringfügige beschäftigung)",
+            "side",
+            "hilfstätigkeit \/ student"
+        ],
+        "tags":[
+            "Data Scientist"
+        ]
+    },
+    {
+        "title":"Interviewer \/ Fahrgastzähler Weser-Ems-Netz (w\/m\/d) - Minijob",
+        "company_name":"ISUP GmbH",
+        "location":"Osnabrück",
+        "remote":false,
+        "job_types":[
+            "Minijob (geringfügige beschäftigung)",
+            "side",
+            "hilfstätigkeit \/ student"
+        ],
+        "tags":[
+            "Data Scientist"
+        ]
+    },
+    {
+        "title":"Interviewer \/ Fahrgastzähler Weser-Ems-Netz (w\/m\/d) - Minijob",
+        "company_name":"ISUP GmbH",
+        "location":"Wilhelmshaven",
+        "remote":false,
+        "job_types":[
+            "Minijob (geringfügige beschäftigung)",
+            "side",
+            "hilfstätigkeit \/ student"
+        ],
+        "tags":[
+            "Data Scientist"
+        ]
+    },
+    {
+        "title":"Projektleiter Schlüsselfertigbau (m\/w\/d)",
+        "company_name":"P&P Group",
+        "location":"Fürth",
+        "remote":false,
+        "job_types":[
+            "Unbefristeter arbeitsvertrag",
+            "teamleitung"
+        ],
+        "tags":[
+            "Project Management"
+        ]
+    },
+    {
+        "title":"Quality Engineer (m\/w\/d)",
+        "company_name":"ACE Advanced Composite Engineering GmbH",
+        "location":"Salem",
+        "remote":false,
+        "job_types":[
+            "berufserfahren"
+        ],
+        "tags":[
+            "Quality Management"
+        ]
+    },
+    {
+        "title":"Talent Acquisition Specialist - Operations & Supply Chain (m(w\/d)",
+        "company_name":"visionm GmbH",
+        "location":"Frankfurt am Main",
+        "remote":false,
+        "job_types":[
+            "Unbefristeter arbeitsvertrag",
+            "berufserfahren"
+        ],
+        "tags":[
+            "Recruitment and Selection"
+        ]
+    },
+    {
+        "title":"Senior Azure Cloud Platform Architect (m\/w\/d)",
+        "company_name":"think about IT GmbH",
+        "location":"Nuremberg",
+        "remote":false,
+        "job_types":[
+            "Unbefristeter arbeitsvertrag",
+            "berufserfahren"
+        ],
+        "tags":[
+            "System and Network Administration"
+        ]
+    },
+    {
+        "title":"Senior Microsoft AI & Copilot Engineer (m\/w\/d)",
+        "company_name":"think about IT GmbH",
+        "location":"Nuremberg",
+        "remote":false,
+        "job_types":[
+            "Unbefristeter arbeitsvertrag",
+            "berufserfahren"
+        ],
+        "tags":[
+            "Data Scientist"
+        ]
+    },
+    {
+        "title":"Senior Microsoft Cloud Transformation Architect (m\/w\/d)",
+        "company_name":"think about IT GmbH",
+        "location":"Nuremberg",
+        "remote":false,
+        "job_types":[
+            "Unbefristeter arbeitsvertrag",
+            "berufserfahren"
+        ],
+        "tags":[
+            "Consulting",
             "Engineering"
         ]
     },
     {
-        "title":"IT Enterprise Architekt (m\/w\/d)",
-        "company_name":"Pixida Group",
-        "location":"Munich",
+        "title":"Senior IT Administrator (m\/w\/d)",
+        "company_name":"think about IT GmbH",
+        "location":"Bochum",
         "remote":false,
         "job_types":[
             "Unbefristeter arbeitsvertrag",
             "berufserfahren"
         ],
         "tags":[
-            "Information Systems"
+            "System and Network Administration"
         ]
     },
     {
-        "title":"Fachplaner*in Versorgungstechnik HLS (m\/w\/d)",
-        "company_name":"Draheim Ingenieure",
-        "location":"Stuttgart",
-        "remote":false,
-        "job_types":[
-            "Unbefristeter arbeitsvertrag"
-        ],
-        "tags":[
-            "Building",
-            "Supply",
-            "Safety Services Engineering"
-        ]
-    },
-    {
-        "title":"Senior Industrial Controller m\/w\/d",
-        "company_name":"Lemon- Albrecht & Mangold GbR",
-        "location":"Pforzheim",
+        "title":"IT-System Engineer (m\/w\/d)",
+        "company_name":"think about IT GmbH",
+        "location":"Bochum",
         "remote":false,
         "job_types":[
             "Unbefristeter arbeitsvertrag",
             "berufserfahren"
         ],
         "tags":[
-            "Controlling"
+            "System and Network Administration"
         ]
     },
     {
-        "title":"Product Engineer (m\/f\/x)",
-        "company_name":"RIZM",
-        "location":"Munich",
+        "title":"IT-Systemelektroniker (m\/w\/d)",
+        "company_name":"think about IT GmbH",
+        "location":"Bochum",
         "remote":false,
         "job_types":[
-            "Permanent employment",
-            "professional \/ experienced"
+            "Unbefristeter arbeitsvertrag",
+            "berufseinstieg"
         ],
         "tags":[
-            "Product Management"
+            "System and Network Administration"
         ]
     },
     {
-        "title":"Mitarbeiter Customer Relations (m\/w\/d)",
-        "company_name":"Gesundheit von Morgen GmbH",
+        "title":"Pre-Sales Consultant Datacenter (m\/w\/d)",
+        "company_name":"think about IT GmbH",
+        "location":"Bochum",
+        "remote":false,
+        "job_types":[
+            "Unbefristeter arbeitsvertrag",
+            "berufserfahren"
+        ],
+        "tags":[
+            "Consulting",
+            "Engineering"
+        ]
+    },
+    {
+        "title":"Vice President Finance (all genders)",
+        "company_name":"getolo GmbH",
         "location":"Berlin",
-        "remote":true,
+        "remote":false,
+        "job_types":[
+            "Permanent employment (unbefristeter arbeitsvertrag)",
+            "executive"
+        ],
+        "tags":[
+            "Management",
+            "Team Leader"
+        ]
+    },
+    {
+        "title":"Working Student Marketing & Content (m\/w\/d)",
+        "company_name":"selqo",
+        "location":"Paderborn",
+        "remote":false,
+        "job_types":[
+            "Werkstudent",
+            "working student",
+            "hilfstätigkeit \/ student"
+        ],
+        "tags":[
+            "Social Media Manager"
+        ]
+    },
+    {
+        "title":"Interviewer (m\/w\/d) für Verkehrserhebungen gesucht (flexibler Minijob) - 3200",
+        "company_name":"econex verkehrsconsult GmbH",
+        "location":"Oldenburg",
+        "remote":false,
+        "job_types":[
+            "Minijob (geringfügige beschäftigung)",
+            "side",
+            "hilfstätigkeit \/ student"
+        ],
+        "tags":[
+            "Market Research",
+            "Analysis"
+        ]
+    },
+    {
+        "title":"Interviewer (m\/w\/d) für Verkehrserhebungen gesucht (flexibler Minijob) - 3200",
+        "company_name":"econex verkehrsconsult GmbH",
+        "location":"Delmenhorst",
+        "remote":false,
+        "job_types":[
+            "Minijob (geringfügige beschäftigung)",
+            "side",
+            "hilfstätigkeit \/ student"
+        ],
+        "tags":[
+            "Market Research",
+            "Analysis"
+        ]
+    },
+    {
+        "title":"Interviewer (m\/w\/d) für Verkehrserhebungen gesucht (flexibler Minijob) - 3200",
+        "company_name":"econex verkehrsconsult GmbH",
+        "location":"Hanover",
+        "remote":false,
+        "job_types":[
+            "Minijob (geringfügige beschäftigung)",
+            "side",
+            "hilfstätigkeit \/ student"
+        ],
+        "tags":[
+            "Market Research",
+            "Analysis"
+        ]
+    },
+    {
+        "title":"Interviewer (m\/w\/d) für Verkehrserhebungen gesucht (flexibler Minijob) - 3200",
+        "company_name":"econex verkehrsconsult GmbH",
+        "location":"Bremen",
+        "remote":false,
+        "job_types":[
+            "Minijob (geringfügige beschäftigung)",
+            "side",
+            "hilfstätigkeit \/ student"
+        ],
+        "tags":[
+            "Market Research",
+            "Analysis"
+        ]
+    },
+    {
+        "title":"Senior Modern Workplace Solutionist",
+        "company_name":"Signode",
+        "location":"Dinslaken",
+        "remote":false,
+        "job_types":[
+            "Full-time permanent",
+            "mid"
+        ],
+        "tags":[
+            "Information technology",
+            "bachelor's degree"
+        ]
+    },
+    {
+        "title":"Ausbildung zum Fachinformatiker für Systemintegration (m\/w\/d)",
+        "company_name":"GEHRING & PARTNER MBB Wirtschaftsprüfer | vereidigter Buchprüfer | Steuerberater | Rechtsanwälte",
+        "location":"Lingen (Ems)",
+        "remote":false,
+        "job_types":[
+            "Apprenticeship",
+            "student (high school)"
+        ],
+        "tags":[
+            "Technical",
+            "high school or equivalent"
+        ]
+    },
+    {
+        "title":"Consultant SAP S\/4HANA Transformation",
+        "company_name":"UNITY Consulting & Innovation",
+        "location":"Munich",
+        "remote":false,
+        "job_types":[
+            "Unbefristeter arbeitsvertrag",
+            "berufseinstieg"
+        ],
+        "tags":[
+            "SAP\/ERP Consulting",
+            "Development"
+        ]
+    },
+    {
+        "title":"Konstrukteur (m\/w\/d) Anlagenbau \/ Kraftwerksanlagen (1732)",
+        "company_name":"BRÜGGEN ENGINEERING GmbH",
+        "location":"Mannheim",
+        "remote":false,
         "job_types":[
             "Unbefristeter arbeitsvertrag",
             "berufserfahren"
         ],
         "tags":[
-            "Remote",
+            "Development"
+        ]
+    },
+    {
+        "title":"Customer Support Mitarbeiter (m\/w\/d)",
+        "company_name":"eRecht24 GmbH & Co. KG",
+        "location":"Berlin",
+        "remote":false,
+        "job_types":[
+            "Unbefristeter arbeitsvertrag",
+            "berufseinstieg"
+        ],
+        "tags":[
             "Customer Service"
         ]
     },
     {
-        "title":"Director, Foundations",
-        "company_name":"Brunswickgroup",
-        "location":"London",
+        "title":"AI DevOps Engineer",
+        "company_name":"UNITY Consulting & Innovation",
+        "location":"Stuttgart",
+        "remote":false,
+        "job_types":[
+            "Unbefristeter arbeitsvertrag",
+            "berufserfahren"
+        ],
+        "tags":[
+            "System and Network Administration"
+        ]
+    },
+    {
+        "title":"Bauleiter \/ Projektleiter (m\/w\/d) schlüsselfertiger Wohnungsbau",
+        "company_name":"inquira recruiting & consulting",
+        "location":"Heidenheim",
+        "remote":false,
+        "job_types":[
+            "Unbefristeter arbeitsvertrag",
+            "teamleitung"
+        ],
+        "tags":[
+            "Project Management"
+        ]
+    },
+    {
+        "title":"Vice President Finance (all genders)",
+        "company_name":"getolo GmbH",
+        "location":"Berlin",
+        "remote":false,
+        "job_types":[
+            "Permanent employment (unbefristeter arbeitsvertrag)",
+            "executive"
+        ],
+        "tags":[
+            "Management",
+            "Team Leader"
+        ]
+    },
+    {
+        "title":"Geschäftsführender Gesellschafter Zerspanungstechnik CNC (m\/w\/d)",
+        "company_name":"WIEMEYER & partners",
+        "location":"Rendsburg",
+        "remote":false,
+        "job_types":[
+            "Unbefristeter arbeitsvertrag",
+            "geschäftsleitung"
+        ],
+        "tags":[
+            "Directors",
+            "Chief Executives"
+        ]
+    },
+    {
+        "title":"Senior Product Designer, Security",
+        "company_name":"Vinteden",
+        "location":"Berlin",
         "remote":false,
         "job_types":[
 
         ],
         "tags":[
-            "Brunswick Group"
+            "Design"
         ]
     },
     {
-        "title":"Senior Analytics Engineer",
-        "company_name":"Sohohouseco",
+        "title":"SAP Business Transformation Consultant\/ SAP Program Director",
+        "company_name":"Kryptos Technologies limited",
         "location":"London",
+        "remote":false,
+        "job_types":[
+            "Permanent employment contract (open-ended contract)",
+            "executive"
+        ],
+        "tags":[
+            "SAP\/ERP Consulting",
+            "Development"
+        ]
+    },
+    {
+        "title":"Full Stack Engineer - Frontend Focused",
+        "company_name":"Fanduel",
+        "location":"Edinburgh",
         "remote":false,
         "job_types":[
 
         ],
         "tags":[
-            "Digital & IT"
+            "Engineering & Technology"
         ]
     },
     {
-        "title":"Manager, Machine Learning Engineering, Checkout",
-        "company_name":"Affirm",
+        "title":"Data Engineer",
+        "company_name":"Fanduel",
+        "location":"Edinburgh",
+        "remote":false,
+        "job_types":[
+
+        ],
+        "tags":[
+            "Data Engineering"
+        ]
+    },
+    {
+        "title":"Account Director (Life Science)",
+        "company_name":"Jack Morton Worldwide",
         "location":"",
         "remote":false,
         "job_types":[
 
         ],
         "tags":[
-            "Checkout"
+            "Program Management"
         ]
     },
     {
-        "title":"Senior Software Engineer",
-        "company_name":"Everquote",
-        "location":"Belfast, Northern Ireland",
+        "title":"Senior Account Associate - Medical",
+        "company_name":"Realchemistry",
+        "location":"",
         "remote":false,
         "job_types":[
 
+        ],
+        "tags":[
+            "Client Services"
+        ]
+    },
+    {
+        "title":"Director, Maternal & Reproductive Health",
+        "company_name":"Resolvetosavelives",
+        "location":"United States, Nigeria, Rwanda, Ethiopia, France, DRC, India",
+        "remote":false,
+        "job_types":[
+
+        ],
+        "tags":[
+            "Primary Healthcare"
+        ]
+    },
+    {
+        "title":"Senior Modern Workplace Solutionist",
+        "company_name":"Signode",
+        "location":"Walsall, England, United Kingdom",
+        "remote":false,
+        "job_types":[
+            "Mid",
+            "fulltime permanent"
+        ],
+        "tags":[
+            "IT Corporate EMEA"
+        ]
+    },
+    {
+        "title":"Technical Lead (Core Services)",
+        "company_name":"Aveni",
+        "location":"United Kingdom",
+        "remote":false,
+        "job_types":[
+            "Full Time"
         ],
         "tags":[
             "Engineering"
         ]
     },
     {
-        "title":"New Business Account Executive",
-        "company_name":"Twilio",
-        "location":"",
-        "remote":false,
-        "job_types":[
-
-        ],
-        "tags":[
-            "Sales"
-        ]
-    },
-    {
-        "title":"CASS Oversight Manager (f\/m\/d)",
-        "company_name":"Upvest",
+        "title":"Python Engineer",
+        "company_name":"Lendable",
         "location":"London",
         "remote":false,
         "job_types":[
             "Full Time"
         ],
         "tags":[
-            "Operations"
+            "Growth & Analytics"
         ]
     },
     {
-        "title":"Founding Creative Director",
-        "company_name":"Siena",
+        "title":"Affiliate Marketing Executive",
+        "company_name":"Lendable",
+        "location":"London",
+        "remote":false,
+        "job_types":[
+            "Full Time"
+        ],
+        "tags":[
+            "Growth & Analytics"
+        ]
+    },
+    {
+        "title":"Technical Lead",
+        "company_name":"Street Group",
+        "location":"Manchester",
+        "remote":false,
+        "job_types":[
+            "Full Time"
+        ],
+        "tags":[
+            "Engineering"
+        ]
+    },
+    {
+        "title":"Content Marketing Lead",
+        "company_name":"Dex",
+        "location":"London",
+        "remote":false,
+        "job_types":[
+            "Full Time"
+        ],
+        "tags":[
+            "Dex"
+        ]
+    },
+    {
+        "title":"Forward Deployed Engineer",
+        "company_name":"True Talent Solutions Partners",
+        "location":"England",
+        "remote":false,
+        "job_types":[
+            "Full Time"
+        ],
+        "tags":[
+            "Client Roles"
+        ]
+    },
+    {
+        "title":"Senior Customer Service Advisor",
+        "company_name":"Allica Bank",
+        "location":"Milton Keynes Office",
+        "remote":false,
+        "job_types":[
+            "Full Time"
+        ],
+        "tags":[
+            "Lending & Operations"
+        ]
+    },
+    {
+        "title":"Associate Relationship Manager - South West",
+        "company_name":"Allica Bank",
+        "location":"SW\/Bristol",
+        "remote":false,
+        "job_types":[
+            "Full Time"
+        ],
+        "tags":[
+            "Distribution"
+        ]
+    },
+    {
+        "title":"Privacy Analyst II",
+        "company_name":"Kraken",
+        "location":"London, UK",
+        "remote":false,
+        "job_types":[
+            "Full Time"
+        ],
+        "tags":[
+            "Security and Privacy"
+        ]
+    },
+    {
+        "title":"Senior Data Engineer",
+        "company_name":"Quantum",
+        "location":"London",
+        "remote":false,
+        "job_types":[
+            "Full Time"
+        ],
+        "tags":[
+            "Technology"
+        ]
+    },
+    {
+        "title":"Accounts Payable Specialist (Interim)",
+        "company_name":"Quantum",
+        "location":"London",
+        "remote":false,
+        "job_types":[
+            "Full Time"
+        ],
+        "tags":[
+            "Finance"
+        ]
+    },
+    {
+        "title":"Commercial Director, Mobile Gaming",
+        "company_name":"Quantum",
         "location":"London",
         "remote":false,
         "job_types":[
@@ -1400,44 +1579,20 @@
         ]
     },
     {
-        "title":"Enterprise Account Executive - Construction",
-        "company_name":"Xyz Reality",
-        "location":"London Office",
+        "title":"Senior Product Manager",
+        "company_name":"Faculty",
+        "location":"London",
         "remote":false,
         "job_types":[
             "Full Time"
         ],
         "tags":[
-            "Sales"
+            "Product"
         ]
     },
     {
-        "title":"Head of Operations",
-        "company_name":"1St%20Formations",
-        "location":"Covent Garden - Hybrid",
-        "remote":false,
-        "job_types":[
-            "Full Time"
-        ],
-        "tags":[
-            "Operations"
-        ]
-    },
-    {
-        "title":"Senior Software Engineer (AI\/Data)",
-        "company_name":"Codat",
-        "location":"Remote",
-        "remote":true,
-        "job_types":[
-            "Full Time"
-        ],
-        "tags":[
-            "Engineering"
-        ]
-    },
-    {
-        "title":"Senior Software Engineer (AI\/Data)",
-        "company_name":"Codat",
+        "title":"Machine Learning Engineer",
+        "company_name":"Faculty",
         "location":"London",
         "remote":false,
         "job_types":[
@@ -1448,173 +1603,249 @@
         ]
     },
     {
-        "title":"Senior Sales Development Representative (UK)",
-        "company_name":"Coder",
+        "title":"Principal Designer",
+        "company_name":"Faculty",
         "location":"London",
         "remote":false,
         "job_types":[
             "Full Time"
         ],
         "tags":[
-            "Revenue"
+            "Design & Strategy"
         ]
     },
     {
-        "title":"Principal Information Security & Data Protection Officer",
-        "company_name":"Unmind",
-        "location":"London, HQ",
+        "title":"Principal Research Scientist - AI Safety",
+        "company_name":"Faculty",
+        "location":"London",
         "remote":false,
         "job_types":[
             "Full Time"
         ],
         "tags":[
-            "Finance"
+            "Research Science"
         ]
     },
     {
-        "title":"Spa Manager",
-        "company_name":"Spa Elite",
-        "location":"Studley",
-        "remote":false,
-        "job_types":[
-            "Permanent employment contract (open-ended contract)",
-            "manager"
-        ],
-        "tags":[
-            "Beauty",
-            "Wellness"
-        ]
-    },
-    {
-        "title":"Operating Model Consultant (Adobe Transformation) - Contract Role",
-        "company_name":"Project Blackbook",
+        "title":"Lead Machine Learning Engineer",
+        "company_name":"Faculty",
         "location":"London",
         "remote":false,
         "job_types":[
-            "Fixed-term contract",
-            "contract",
-            "professional \/ experienced"
+            "Full Time"
         ],
         "tags":[
-            "Business Consulting"
+            "Engineering"
         ]
     },
     {
-        "title":"Technology Implementation Consultant (NHS\/Healthcare) - Contract Role",
-        "company_name":"Project Blackbook",
+        "title":"Solutions Engineer (CS)",
+        "company_name":"Cirrus",
+        "location":"Edinburgh, Scotland",
+        "remote":false,
+        "job_types":[
+            "Full Time"
+        ],
+        "tags":[
+            "Mixed Signal Products (MSP)"
+        ]
+    },
+    {
+        "title":"Solutions Engineer",
+        "company_name":"Cirrus",
+        "location":"Edinburgh, Scotland",
+        "remote":false,
+        "job_types":[
+            "Full Time"
+        ],
+        "tags":[
+            "Mixed Signal Products (MSP)"
+        ]
+    },
+    {
+        "title":"Senior Marketing Manager",
+        "company_name":"Emburse",
         "location":"London",
         "remote":false,
         "job_types":[
-            "Fixed-term contract",
-            "contract",
-            "professional \/ experienced"
+            "Full-Time"
         ],
         "tags":[
-            "Business Consulting"
+            "Marketing"
         ]
     },
     {
-        "title":"FPGA Firmware Engineer",
-        "company_name":"Singular Photonics",
+        "title":"Senior Strategy Manager",
+        "company_name":"Octopus Energy Group",
+        "location":"London (GB)",
+        "remote":false,
+        "job_types":[
+            "Full-time"
+        ],
+        "tags":[
+            "Strategy"
+        ]
+    },
+    {
+        "title":"Director of Platform Engineering [gn] Data Intelligence Platform",
+        "company_name":"Actian",
+        "location":"UK - Remote",
+        "remote":false,
+        "job_types":[
+            "Full-Time"
+        ],
+        "tags":[
+            "Engineering"
+        ]
+    },
+    {
+        "title":"Staff \/ Senior Staff Security Engineer, Vinted Pay",
+        "company_name":"Vinteden",
+        "location":"London",
+        "remote":false,
+        "job_types":[
+
+        ],
+        "tags":[
+            "Engineering"
+        ]
+    },
+    {
+        "title":"Software Engineer, Agentic AI",
+        "company_name":"Roku",
+        "location":"Cambridge",
+        "remote":false,
+        "job_types":[
+
+        ],
+        "tags":[
+            "260 - Roku TV NPI Americas"
+        ]
+    },
+    {
+        "title":"Senior Software Engineer, Infrastructure \/ Efficiency \/ Productivity",
+        "company_name":"Roku",
+        "location":"Cambridge",
+        "remote":false,
+        "job_types":[
+
+        ],
+        "tags":[
+            "278 - Roku TV NPI EUR"
+        ]
+    },
+    {
+        "title":"Senior Software Engineer, Infrastructure and Efficiency",
+        "company_name":"Roku",
+        "location":"Manchester",
+        "remote":false,
+        "job_types":[
+
+        ],
+        "tags":[
+            "278 - Roku TV NPI EUR"
+        ]
+    },
+    {
+        "title":"Software Engineering Intern - Summer 2027",
+        "company_name":"Addepar1",
         "location":"Edinburgh",
         "remote":false,
         "job_types":[
-            "Permanent employment contract (open-ended contract)",
-            "professional \/ experienced"
+
         ],
         "tags":[
-            "Embedded Systems",
-            "Firmware Development"
+            "Interns"
         ]
     },
     {
-        "title":"Senior Influence Executive",
-        "company_name":"Ogilvy UK",
+        "title":"Portfolio Data Operations Analyst (EDI)",
+        "company_name":"Addepar1",
+        "location":"Edinburgh",
+        "remote":false,
+        "job_types":[
+
+        ],
+        "tags":[
+            "Data Operations"
+        ]
+    },
+    {
+        "title":"Portfolio Data Analyst Intern - Summer 2027",
+        "company_name":"Addepar1",
+        "location":"Edinburgh",
+        "remote":false,
+        "job_types":[
+
+        ],
+        "tags":[
+            "Interns"
+        ]
+    },
+    {
+        "title":"Data Projects Intern - Summer 2027",
+        "company_name":"Addepar1",
+        "location":"Edinburgh",
+        "remote":false,
+        "job_types":[
+
+        ],
+        "tags":[
+            "Interns"
+        ]
+    },
+    {
+        "title":"AI Research Engineer, Pre-Training",
+        "company_name":"Wehrtyou",
         "location":"London",
         "remote":false,
         "job_types":[
 
         ],
         "tags":[
-            "Public Relations"
+            "Algo"
         ]
     },
     {
-        "title":"Senior Product Manager",
-        "company_name":"Reachdesk",
-        "location":"Birmingham",
+        "title":"AI Research Engineer, Inference",
+        "company_name":"Wehrtyou",
+        "location":"London",
         "remote":false,
         "job_types":[
 
         ],
         "tags":[
-            "Product & Technology"
+            "Algo"
         ]
     },
     {
-        "title":"Account Executive, Influencer Marketing",
-        "company_name":"Accelerationpartners",
-        "location":"London; Manchester; Newcastle upon Tyne",
-        "remote":false,
-        "job_types":[
-
-        ],
-        "tags":[
-            "EMEA Client Services Early Career"
-        ]
-    },
-    {
-        "title":"Account Executive, Influencer Marketing",
-        "company_name":"Accelerationpartners",
+        "title":"DevOps Engineer | Luma",
+        "company_name":"Dotmatics",
         "location":"",
         "remote":false,
         "job_types":[
 
         ],
         "tags":[
-            "EMEA Client Services Early Career"
+            "Engineering"
         ]
     },
     {
-        "title":"Head of Product Design",
-        "company_name":"thoughtworks",
-        "location":"London",
+        "title":"Senior Software Engineer - Behavioral Security Products",
+        "company_name":"Abnormalsecurity",
+        "location":"",
         "remote":false,
         "job_types":[
 
         ],
         "tags":[
-            "30_TWRKS Marketing & Communications"
+            "Behavioral Security Products"
         ]
     },
     {
-        "title":"Senior Systems Engineer - Commissioning and Characterisation",
-        "company_name":"Graphcore",
-        "location":"Bristol; London",
-        "remote":false,
-        "job_types":[
-
-        ],
-        "tags":[
-            "System QA"
-        ]
-    },
-    {
-        "title":"Senior Director, System Software",
-        "company_name":"Graphcore",
-        "location":"Bristol",
-        "remote":false,
-        "job_types":[
-
-        ],
-        "tags":[
-            "SW Device"
-        ]
-    },
-    {
-        "title":"Principal Infrastructure Engineer",
-        "company_name":"Flohealth",
-        "location":"London",
+        "title":"Staff Backend Engineer",
+        "company_name":"Monzo",
+        "location":"Cardiff",
         "remote":false,
         "job_types":[
 
@@ -1624,9 +1855,69 @@
         ]
     },
     {
-        "title":"UX Researcher",
-        "company_name":"Kaluza",
-        "location":"Bristol; London",
+        "title":"Senior Staff Backend Engineer",
+        "company_name":"Monzo",
+        "location":"Cardiff",
+        "remote":false,
+        "job_types":[
+
+        ],
+        "tags":[
+            "Engineering"
+        ]
+    },
+    {
+        "title":"Senior Manager, Supplier Performance, FinCrime, Fraud & Disputes",
+        "company_name":"Monzo",
+        "location":"Cardiff",
+        "remote":false,
+        "job_types":[
+
+        ],
+        "tags":[
+            "Customer Operations"
+        ]
+    },
+    {
+        "title":"Senior Manager, Supplier Performance, Customer Ops & Specialist Services",
+        "company_name":"Monzo",
+        "location":"Cardiff",
+        "remote":false,
+        "job_types":[
+
+        ],
+        "tags":[
+            "Customer Operations"
+        ]
+    },
+    {
+        "title":"Senior Credit Risk Manager, Credit Platform",
+        "company_name":"Monzo",
+        "location":"",
+        "remote":false,
+        "job_types":[
+
+        ],
+        "tags":[
+            "Borrowing"
+        ]
+    },
+    {
+        "title":"Senior Backend Engineer",
+        "company_name":"Monzo",
+        "location":"Cardiff",
+        "remote":false,
+        "job_types":[
+
+        ],
+        "tags":[
+            "Engineering"
+        ]
+    },
+    {
+        "title":"Lead Product Manager",
+        "company_name":"Monzo",
+        "location":"Cardiff",
         "remote":false,
         "job_types":[
 
@@ -1636,165 +1927,120 @@
         ]
     },
     {
-        "title":"Software Engineer III - Data - FMX",
-        "company_name":"Fanaticsfbg",
+        "title":"Backend Engineer III",
+        "company_name":"Monzo",
+        "location":"Cardiff",
+        "remote":false,
+        "job_types":[
+
+        ],
+        "tags":[
+            "Engineering"
+        ]
+    },
+    {
+        "title":"Senior Product Manager",
+        "company_name":"Motorway",
         "location":"London",
-        "remote":false,
-        "job_types":[
-
-        ],
-        "tags":[
-            "Gaming - Core Data"
-        ]
-    },
-    {
-        "title":"Global Account Executive at CFO Insights",
-        "company_name":"Cfoinsights",
-        "location":"London",
-        "remote":false,
-        "job_types":[
-
-        ],
-        "tags":[
-            "Sales"
-        ]
-    },
-    {
-        "title":"Senior Infrastructure Manager",
-        "company_name":"Partnerize",
-        "location":"Ashington, England, United Kingdom",
-        "remote":false,
-        "job_types":[
-
-        ],
-        "tags":[
-
-        ]
-    },
-    {
-        "title":"Senior Infrastructure Manager",
-        "company_name":"Partnerize",
-        "location":"Hexham, England, United Kingdom",
-        "remote":false,
-        "job_types":[
-
-        ],
-        "tags":[
-
-        ]
-    },
-    {
-        "title":"Senior Infrastructure Manager",
-        "company_name":"Partnerize",
-        "location":"Morpeth, England, United Kingdom",
-        "remote":false,
-        "job_types":[
-
-        ],
-        "tags":[
-
-        ]
-    },
-    {
-        "title":"Senior Infrastructure Manager",
-        "company_name":"Partnerize",
-        "location":"Darlington, England, United Kingdom",
-        "remote":false,
-        "job_types":[
-
-        ],
-        "tags":[
-
-        ]
-    },
-    {
-        "title":"Senior Infrastructure Manager",
-        "company_name":"Partnerize",
-        "location":"Sunderland, England, United Kingdom",
-        "remote":false,
-        "job_types":[
-
-        ],
-        "tags":[
-
-        ]
-    },
-    {
-        "title":"Senior Infrastructure Manager",
-        "company_name":"Partnerize",
-        "location":"Durham, England, United Kingdom",
-        "remote":false,
-        "job_types":[
-
-        ],
-        "tags":[
-
-        ]
-    },
-    {
-        "title":"Principal Technical Consultant",
-        "company_name":"Ping Identity",
-        "location":"United Kingdom",
-        "remote":false,
-        "job_types":[
-
-        ],
-        "tags":[
-
-        ]
-    },
-    {
-        "title":"Product Manager, Pricing",
-        "company_name":"Deliveroo",
-        "location":"London, England, United Kingdom",
-        "remote":false,
-        "job_types":[
-
-        ],
-        "tags":[
-
-        ]
-    },
-    {
-        "title":"Senior Talent Partner - Merch + Product",
-        "company_name":"The Rec Hub",
-        "location":"London - Hybrid",
-        "remote":false,
-        "job_types":[
-            "Contract"
-        ],
-        "tags":[
-            "Partnerships & Delivery"
-        ]
-    },
-    {
-        "title":"Senior Product Engineer",
-        "company_name":"hyperexponential",
-        "location":"London (hybrid)",
         "remote":false,
         "job_types":[
             "Full Time"
         ],
         "tags":[
-            "Technology"
+            "Product"
         ]
     },
     {
-        "title":"Contact Centre Agent - Remote",
-        "company_name":"Goodlord",
-        "location":"England",
+        "title":"Director, Maternal & Reproductive Health",
+        "company_name":"Resolvetosavelives",
+        "location":"United States, United Kingdom, Nigeria, Rwanda, Ethiopia, DRC, India",
+        "remote":false,
+        "job_types":[
+
+        ],
+        "tags":[
+            "Primary Healthcare"
+        ]
+    },
+    {
+        "title":"Responsable d'agence F\/H",
+        "company_name":"Groupe Fondasol",
+        "location":"Rennes, Bretagne, France",
+        "remote":false,
+        "job_types":[
+            "Experienced",
+            "fulltime permanent"
+        ],
+        "tags":[
+            "Géotechnique"
+        ]
+    },
+    {
+        "title":"Chef de produit digital F\/H",
+        "company_name":"Groupe Fondasol",
+        "location":"Montfavet, Provence-Alpes-Côte d'Azur, France",
+        "remote":false,
+        "job_types":[
+            "Experienced",
+            "fulltime permanent"
+        ],
+        "tags":[
+            "Informatique"
+        ]
+    },
+    {
+        "title":"Responsable d'activité Sites et Sols Pollués F\/H",
+        "company_name":"Groupe Fondasol",
+        "location":"Marseille, Provence-Alpes-Côte d'Azur, France",
+        "remote":false,
+        "job_types":[
+            "Experienced",
+            "fulltime permanent"
+        ],
+        "tags":[
+            "Sites et Sols Pollués"
+        ]
+    },
+    {
+        "title":"Senior SecOps Team Lead",
+        "company_name":"Equativ",
+        "location":"Paris",
+        "remote":false,
+        "job_types":[
+            "Permanent"
+        ],
+        "tags":[
+            "Engineering"
+        ]
+    },
+    {
+        "title":"Sr. Channel Account Executive",
+        "company_name":"Sentinellabs",
+        "location":"",
+        "remote":false,
+        "job_types":[
+
+        ],
+        "tags":[
+            "42300 Channel Sales - EMEA"
+        ]
+    },
+    {
+        "title":"SecOps Engineer",
+        "company_name":"Signal Processing Engineer (RF Processing & Analytics)",
+        "location":"Paris",
         "remote":false,
         "job_types":[
             "Full Time"
         ],
         "tags":[
-            "Referencing"
+            "Operations"
         ]
     },
     {
-        "title":"Default Job Posting",
-        "company_name":"Snyk",
-        "location":"United Kingdom - London Local",
+        "title":"DevOps, Core Platform",
+        "company_name":"Signal Processing Engineer (RF Processing & Analytics)",
+        "location":"Paris",
         "remote":false,
         "job_types":[
             "Full Time"
@@ -1804,208 +2050,203 @@
         ]
     },
     {
-        "title":"Recruiting Operations Specialist | Contract",
-        "company_name":"Lovable",
-        "location":"London",
-        "remote":false,
-        "job_types":[
-            "Temporary"
-        ],
-        "tags":[
-            "FDN"
-        ]
-    },
-    {
-        "title":"Forward Deployed Engineering Lead",
-        "company_name":"Lovable",
-        "location":"London",
+        "title":"AI Automation Engineer",
+        "company_name":"Signal Processing Engineer (RF Processing & Analytics)",
+        "location":"Paris",
         "remote":false,
         "job_types":[
             "Full Time"
         ],
         "tags":[
-            "EPD"
+            "R&D"
         ]
     },
     {
-        "title":"Software Functional Consultant (SAP WM)",
-        "company_name":"The Config Team",
-        "location":"Remote job",
-        "remote":true,
-        "job_types":[
-            "Experienced",
-            "fulltime permanent"
-        ],
-        "tags":[
-            "Software (Project Delivery)",
-            "Remote"
-        ]
-    },
-    {
-        "title":"Quantitative Schedule Risk Analysis (QSRA) consultant - Data Centre Construction",
-        "company_name":"Project Blackbook",
-        "location":"London",
-        "remote":true,
-        "job_types":[
-            "Freelancer \/ indepedent contractor",
-            "freelance",
-            "professional \/ experienced"
-        ],
-        "tags":[
-            "Remote",
-            "Business Consulting"
-        ]
-    },
-    {
-        "title":"Server & Infrastructure Engineer - Unannounced Project",
-        "company_name":"Zyngacareers",
-        "location":"London",
-        "remote":false,
-        "job_types":[
-
-        ],
-        "tags":[
-            "NaturalMotion"
-        ]
-    },
-    {
-        "title":"Software Engineer - Core Video & Data",
-        "company_name":"Hudl",
-        "location":"London",
-        "remote":false,
-        "job_types":[
-
-        ],
-        "tags":[
-            "Core Video & Data"
-        ]
-    },
-    {
-        "title":"Solutions Engineer - Warehouse Automation",
-        "company_name":"Thgingenuity",
-        "location":"Manchester",
-        "remote":false,
-        "job_types":[
-
-        ],
-        "tags":[
-            "Ingenuity Fulfilment"
-        ]
-    },
-    {
-        "title":"Senior Social Commerce Manager",
-        "company_name":"Thgingenuity",
-        "location":"Manchester",
-        "remote":false,
-        "job_types":[
-
-        ],
-        "tags":[
-            "Ingenuity Commerce"
-        ]
-    },
-    {
-        "title":"Associate Solutions Architect",
-        "company_name":"Logicmonitor",
-        "location":"London",
-        "remote":false,
-        "job_types":[
-
-        ],
-        "tags":[
-            "Professional Services"
-        ]
-    },
-    {
-        "title":"Senior Product Manager (f\/m\/d)",
-        "company_name":"Zeal Network",
-        "location":"Norwich, United Kingdom",
+        "title":"Navigation Engineer (Precise Navigation)",
+        "company_name":"Signal Processing Engineer (RF Processing & Analytics)",
+        "location":"Paris",
         "remote":false,
         "job_types":[
             "Full Time"
         ],
         "tags":[
-            "Product & UX"
+            "R&D"
         ]
     },
     {
-        "title":"Stagiaire Club \"restaurant\" - Soho House Paris H\/F",
-        "company_name":"Sohohouseco",
+        "title":"Growth Strategy & Ad Monetization Manager",
+        "company_name":"Voodoo",
+        "location":"Paris",
+        "remote":false,
+        "job_types":[
+            "Full Time"
+        ],
+        "tags":[
+            "Growth"
+        ]
+    },
+    {
+        "title":"Lead Software Engineer - Performance Marketing",
+        "company_name":"Voodoo",
+        "location":"Paris",
+        "remote":false,
+        "job_types":[
+            "Full Time"
+        ],
+        "tags":[
+            "Growth"
+        ]
+    },
+    {
+        "title":"Software Engineer - Performance Marketing",
+        "company_name":"Voodoo",
+        "location":"Paris",
+        "remote":false,
+        "job_types":[
+            "Full Time"
+        ],
+        "tags":[
+            "Growth"
+        ]
+    },
+    {
+        "title":"Développeur Python IA",
+        "company_name":"RGI S.p.A.",
+        "location":"Paris",
+        "remote":false,
+        "job_types":[
+            "professionnel \/ expérimenté"
+        ],
+        "tags":[
+            "Data Scientist"
+        ]
+    },
+    {
+        "title":"Technicien Infrastructures Réseaux (H\/F)",
+        "company_name":"AZURREO",
+        "location":"Paris",
+        "remote":false,
+        "job_types":[
+            "Cdi - contrat à durée indéterminée",
+            "débutant"
+        ],
+        "tags":[
+            "System and Network Administration"
+        ]
+    },
+    {
+        "title":"Stage - Chargé d’appui à la prévention des risques professionnels",
+        "company_name":"Hi",
+        "location":"Villeurbanne, France",
+        "remote":false,
+        "job_types":[
+            "internship"
+        ],
+        "tags":[
+
+        ]
+    },
+    {
+        "title":"Stage - Assistant(e) Shooting Samples PAP (H\/F)",
+        "company_name":"Sezane 3",
+        "location":"Paris, France",
+        "remote":false,
+        "job_types":[
+
+        ],
+        "tags":[
+            "Apparel & Fashion",
+            "Headquarters"
+        ]
+    },
+    {
+        "title":"Embedded Linux Engineer (Yocto Specialist)",
+        "company_name":"Genesis",
+        "location":"Paris",
+        "remote":false,
+        "job_types":[
+            "Full Time"
+        ],
+        "tags":[
+            "Engineering & Research"
+        ]
+    },
+    {
+        "title":"Quadrants: Compiler Lead",
+        "company_name":"Genesis",
+        "location":"Paris",
+        "remote":false,
+        "job_types":[
+            "Full Time"
+        ],
+        "tags":[
+            "Engineering & Research"
+        ]
+    },
+    {
+        "title":"Genesis-World: Core Physics Engineer",
+        "company_name":"Genesis",
+        "location":"Paris",
+        "remote":false,
+        "job_types":[
+            "Full Time"
+        ],
+        "tags":[
+            "Engineering & Research"
+        ]
+    },
+    {
+        "title":"Genesis-World: Core Simulation Engine Engineer",
+        "company_name":"Genesis",
+        "location":"Paris",
+        "remote":false,
+        "job_types":[
+            "Full Time"
+        ],
+        "tags":[
+            "Engineering & Research"
+        ]
+    },
+    {
+        "title":"Regional Sales Director - Public Sector",
+        "company_name":"Catonetworks",
         "location":"Paris, Paris",
         "remote":false,
         "job_types":[
 
         ],
         "tags":[
-            "Food & Beverage"
+            "Sales - Regional Sales Director"
         ]
     },
     {
-        "title":"Talent Acquisition Manager",
-        "company_name":"Parallel",
-        "location":"Paris",
+        "title":"Senior Customer Success Manager",
+        "company_name":"Kong",
+        "location":"France",
         "remote":false,
         "job_types":[
             "Full Time"
         ],
         "tags":[
-            "G&A"
+            "All Cost Center"
         ]
     },
     {
-        "title":"Deployment Strategist",
-        "company_name":"Parallel",
-        "location":"Paris",
-        "remote":false,
-        "job_types":[
-            "Full Time"
-        ],
-        "tags":[
-            "Operations & Account Management"
-        ]
-    },
-    {
-        "title":"Pentester confirmé - Red Team",
-        "company_name":"Ballpoint",
-        "location":"Paris",
-        "remote":false,
-        "job_types":[
-            "Cdi - contrat à durée indéterminée",
-            "professionnel \/ expérimenté"
-        ],
-        "tags":[
-            "IT Security"
-        ]
-    },
-    {
-        "title":"Ingénieur PS Zero Trust \/ SASE (Cloudflare One)",
-        "company_name":"Brixio",
-        "location":"Paris, France",
-        "remote":false,
-        "job_types":[
-            "Full time"
-        ],
-        "tags":[
-
-        ]
-    },
-    {
-        "title":"Consultant IT Strategy \/ CIO Office (H\/F)",
-        "company_name":"Tech Riders",
-        "location":"Paris",
-        "remote":false,
-        "job_types":[
-            "Cdi - contrat à durée indéterminée",
-            "professionnel \/ expérimenté"
-        ],
-        "tags":[
-            "Business Consulting"
-        ]
-    },
-    {
-        "title":"Senior Software Engineer - Distributed Systems",
+        "title":"Talent Engagement Marketing Manager",
         "company_name":"Datadog",
-        "location":"Bordeaux; Grenoble; Lyon; Montpellier; Nantes; Paris; Sophia Antipolis",
+        "location":"Paris",
+        "remote":false,
+        "job_types":[
+
+        ],
+        "tags":[
+            "Business Recruiting"
+        ]
+    },
+    {
+        "title":"Senior AI Research Engineer - LLM Training & Inference Infrastructure",
+        "company_name":"Datadog",
+        "location":"Paris",
         "remote":false,
         "job_types":[
 
@@ -2015,116 +2256,160 @@
         ]
     },
     {
-        "title":"Manager, Sales Engineering",
-        "company_name":"Blackduck",
-        "location":"",
+        "title":"Senior AI Research Engineer - GPU Systems & Kernels",
+        "company_name":"Datadog",
+        "location":"Paris",
         "remote":false,
         "job_types":[
 
         ],
         "tags":[
-            "2030 - Sales Engineers (GQP)"
+            "Dev Eng"
         ]
     },
     {
-        "title":"Lead Partner Sales Engineer - FAME region",
-        "company_name":"Blackduck",
-        "location":"",
-        "remote":false,
-        "job_types":[
-
-        ],
-        "tags":[
-            "2030 - Sales Engineers (GQP)"
-        ]
-    },
-    {
-        "title":"Lead Designer",
-        "company_name":"Kaluza",
-        "location":"Paris, Paris",
-        "remote":false,
-        "job_types":[
-
-        ],
-        "tags":[
-            "Product"
-        ]
-    },
-    {
-        "title":"Business Development Representative",
-        "company_name":"Dust",
+        "title":"General Counsel at amo",
+        "company_name":"Amo",
         "location":"Paris",
         "remote":false,
         "job_types":[
             "Full Time"
         ],
         "tags":[
-            "Sales"
+            "Ops"
         ]
     },
     {
-        "title":"Responsable Affaires réglementaires et qualité - Dispositifs médicaux H\/F",
-        "company_name":"RH Partners",
-        "location":"BELFORT, Bourgogne-Franche-Comté, France",
+        "title":"AMI Scientist - Geometry and 3D Vision",
+        "company_name":"Ami",
+        "location":"Paris",
         "remote":false,
         "job_types":[
-            "Mid",
-            "fulltime permanent"
+            "Full Time"
         ],
         "tags":[
-
+            "Technical Staff"
         ]
     },
     {
-        "title":"Head of Sales – France & International",
-        "company_name":"GALENIC COSMETICS LABORATORY",
-        "location":"Paris, Île-de-France, France",
-        "remote":false,
-        "job_types":[
-            "Experienced",
-            "fulltime permanent"
-        ],
-        "tags":[
-            "Sales"
-        ]
-    },
-    {
-        "title":"Alternance Assistant(e) Chef(fe) de Projet SEO - H\/F",
-        "company_name":"PIXALIONE",
-        "location":"Paris, Île-de-France, France",
+        "title":"Stage Supply Chain - Appro - Janvier 2027",
+        "company_name":"Le Fourgon",
+        "location":"Wambrechies, Hauts-de-France, France",
         "remote":false,
         "job_types":[
             "Entry",
-            "apprenticeship"
+            "internship"
         ],
         "tags":[
-            "SEO"
+            "Logistique"
         ]
     },
     {
-        "title":"CDI Consultant (e) Senior SEO H\/F-Toulouse",
-        "company_name":"PIXALIONE",
-        "location":"Toulouse, Occitanie, France",
+        "title":"Senior Quantum Optics Scientist - Spin-Based Quantum Systems",
+        "company_name":"Quandela",
+        "location":"Palaiseau, France",
         "remote":false,
         "job_types":[
-            "Experienced",
-            "fulltime permanent"
+            "Full time",
+            "mid-senior"
         ],
         "tags":[
-            "SEO"
+            "Research",
+            "Computer Hardware"
         ]
     },
     {
-        "title":"CDI -  Consultant(e) Senior SEO H\/F",
-        "company_name":"PIXALIONE",
-        "location":"Paris, Île-de-France, France",
+        "title":"Stage Achat - 2027",
+        "company_name":"Exotec",
+        "location":"Lille, France",
         "remote":false,
         "job_types":[
-            "Experienced",
-            "fulltime permanent"
+            "Contract",
+            "internship"
         ],
         "tags":[
-            "SEO"
+            "Logistics and Supply Chain"
+        ]
+    },
+    {
+        "title":"Talent Acquisition Intern (6 months)",
+        "company_name":"Qonto",
+        "location":"Paris, France",
+        "remote":false,
+        "job_types":[
+            "Intern"
+        ],
+        "tags":[
+            "Finance",
+            "Legal",
+            "Risk & Compliance",
+            "People & Strat"
+        ]
+    },
+    {
+        "title":"Senior AI Engineer",
+        "company_name":"Qonto",
+        "location":"Paris, France",
+        "remote":false,
+        "job_types":[
+            "Full Time"
+        ],
+        "tags":[
+            "Product"
+        ]
+    },
+    {
+        "title":"Strategic Project Manager - Strategic Planning & Insights",
+        "company_name":"Qonto",
+        "location":"Paris, France",
+        "remote":false,
+        "job_types":[
+            "Full Time"
+        ],
+        "tags":[
+            "Finance",
+            "Legal",
+            "Risk & Compliance",
+            "People & Strat"
+        ]
+    },
+    {
+        "title":"Learning and Development Manager",
+        "company_name":"Qonto",
+        "location":"Paris, France",
+        "remote":false,
+        "job_types":[
+            "Full Time"
+        ],
+        "tags":[
+            "Finance",
+            "Legal",
+            "Risk & Compliance",
+            "People & Strat"
+        ]
+    },
+    {
+        "title":"GPU Engineer",
+        "company_name":"Kog",
+        "location":"Paris, France",
+        "remote":false,
+        "job_types":[
+            "Full Time"
+        ],
+        "tags":[
+            "Engineering"
+        ]
+    },
+    {
+        "title":"Product Marketing Manager - Enterprise",
+        "company_name":"Hcompany",
+        "location":"Hybrid Paris",
+        "remote":false,
+        "job_types":[
+            "Full Time"
+        ],
+        "tags":[
+            "Marketing & Communication"
         ]
     },
     {
@@ -2141,209 +2426,85 @@
         ]
     },
     {
-        "title":"Responsable du groupe Support aux usagers - CDI",
-        "company_name":"Institut Mines-Télécom",
-        "location":"PALAISEAU, Île-de-France, France",
+        "title":"CFD Workflow Automation Intern",
+        "company_name":"Pangea Propulsion",
+        "location":"Toulouse",
         "remote":false,
         "job_types":[
-            "Mid",
-            "fulltime permanent"
+            "Internship",
+            "no experience required \/ student"
         ],
         "tags":[
-            "Informatique et Système d'information"
+            "Software Development"
         ]
     },
     {
-        "title":"Post-doctorat en Métrologie des Réseaux, Intelligence Artificielle et Modélisation Stochastique",
-        "company_name":"Institut Mines-Télécom",
-        "location":"Brest, Bretagne, France",
+        "title":"Stage - Chimie des matériaux et des surfaces pour la microfluidique",
+        "company_name":"Maison MGA",
+        "location":"Mably",
         "remote":false,
         "job_types":[
-            "Entry",
-            "fulltime fixed term"
-        ],
-        "tags":[
-            "Informatique"
-        ]
-    },
-    {
-        "title":"Stage - Assistant.e Media, Digital & Marketing H\/F",
-        "company_name":"AMI PARIS",
-        "location":"Paris, Île-de-France, France",
-        "remote":false,
-        "job_types":[
-            "Student college",
-            "internship"
-        ],
-        "tags":[
-            "Marketing"
-        ]
-    },
-    {
-        "title":"Consultant GRC - confirmé",
-        "company_name":"UNEAT",
-        "location":"Lyon",
-        "remote":false,
-        "job_types":[
-            "Cdi - contrat à durée indéterminée",
-            "professionnel \/ expérimenté"
-        ],
-        "tags":[
-            "IT Security"
-        ]
-    },
-    {
-        "title":"Stage Assistant(e) Attaché(e) de Presse Sport\/Outdoor",
-        "company_name":"187 COM",
-        "location":"Paris",
-        "remote":false,
-        "job_types":[
-            "Convention de stage",
-            "internship",
+            "Internship",
             "aucune expérience requise \/ Étudiant"
         ],
         "tags":[
-            "Public Relations",
-            "Corporate Communication"
+            "Engineering"
         ]
     },
     {
-        "title":"CRM & Retention Manager (Bilingue Français\/Anglais - 100% Remote) Réf RF",
-        "company_name":"EmailClub",
-        "location":"Paris",
-        "remote":true,
-        "job_types":[
-            "Auto-entrepreneur\/indépendant",
-            "freelance",
-            "professionnel \/ expérimenté"
-        ],
-        "tags":[
-            "Remote",
-            "CRM",
-            "Direct Marketing"
-        ]
-    },
-    {
-        "title":"Stage Assistant(e) Graphiste & Communication",
-        "company_name":"Cadoétik",
-        "location":"Sucé-sur-Erdre",
-        "remote":false,
-        "job_types":[
-            "Convention de stage",
-            "internship",
-            "aucune expérience requise \/ Étudiant"
-        ],
-        "tags":[
-            "Graphic Arts and Communication Design"
-        ]
-    },
-    {
-        "title":"Product owner",
-        "company_name":"Weezevent",
-        "location":"Clichy",
+        "title":"Marketing Specialist",
+        "company_name":"Goodweek",
+        "location":"Strasbourg",
         "remote":false,
         "job_types":[
             "Permanent contract (cdi - contrat à durée indéterminée)",
             "professional \/ experienced"
         ],
         "tags":[
-            "Product Management"
+            "Trade Marketing"
         ]
     },
     {
-        "title":"Shopfloor Operators",
-        "company_name":"Signal Processing Engineer (RF Processing & Analytics)",
-        "location":"Orly",
-        "remote":false,
-        "job_types":[
-            "Full Time"
-        ],
-        "tags":[
-            "Operations"
-        ]
-    },
-    {
-        "title":"RF Test & Validation Engineer",
-        "company_name":"Signal Processing Engineer (RF Processing & Analytics)",
+        "title":"Content Creator – Gastronomie & Hospitality (H\/F)",
+        "company_name":"CULINARY AGENCY",
         "location":"Paris",
         "remote":false,
         "job_types":[
-            "Full Time"
-        ],
-        "tags":[
-            "R&D"
-        ]
-    },
-    {
-        "title":"Apporteur d'affaires pour établissement de paiement français",
-        "company_name":"PROXIMÉDIAS",
-        "location":"Paris",
-        "remote":true,
-        "job_types":[
-            "Auto-entrepreneur\/indépendant",
-            "freelance",
+            "Cdi - contrat à durée indéterminée",
             "professionnel \/ expérimenté"
         ],
         "tags":[
-            "Remote",
-            "Business Development"
+            "Social Media Manager"
         ]
     },
     {
-        "title":"Tech Lead Python\/React",
-        "company_name":"Weezevent",
-        "location":"Rennes",
+        "title":"Responsable HSE Data Center (H\/F) – Multi-sites",
+        "company_name":"Is@talent",
+        "location":"Paris",
         "remote":false,
         "job_types":[
             "Cdi - contrat à durée indéterminée",
             "manager \/ superviseur"
         ],
         "tags":[
-            "Web Development"
+            "Engineering"
         ]
     },
     {
-        "title":"Head of Client Service & Customer Operations",
-        "company_name":"Weezevent",
-        "location":"Clichy",
+        "title":"Product Owner – Digital Assets (H\/F)",
+        "company_name":"Horizontradingsolutions",
+        "location":"Paris, Paris",
         "remote":false,
         "job_types":[
-            "Cdi - contrat à durée indéterminée",
-            "cadre supérieur \/ dirigeant"
+
         ],
         "tags":[
-            "Customer Service"
+            "Product Management"
         ]
     },
     {
-        "title":"Senior Customer Care Manager",
-        "company_name":"Lemonway",
-        "location":"Paris, Île-de-France, France",
-        "remote":false,
-        "job_types":[
-            "Mid",
-            "fulltime permanent"
-        ],
-        "tags":[
-            "Operations"
-        ]
-    },
-    {
-        "title":"Senior Data Engineer",
-        "company_name":"PUR",
-        "location":"Paris, Île-de-France, France",
-        "remote":false,
-        "job_types":[
-            "Manager",
-            "fulltime permanent"
-        ],
-        "tags":[
-            "Data"
-        ]
-    },
-    {
-        "title":"Stage Software Engineer - Paris - H\/F\/X",
-        "company_name":"Artefact",
+        "title":"Manager Architect Cloud - Paris",
+        "company_name":"Artefactlinkedin",
         "location":"9th arrondissement of Paris, 75009, Paris",
         "remote":false,
         "job_types":[
@@ -2354,20 +2515,32 @@
         ]
     },
     {
-        "title":"Stage Data Consultant - Paris - H\/F\/X",
-        "company_name":"Artefact",
+        "title":"CDI - Senior Platform Engineer - Paris",
+        "company_name":"Artefactlinkedin",
         "location":"9th arrondissement of Paris, 75009, Paris",
         "remote":false,
         "job_types":[
 
         ],
         "tags":[
-            "Data Consulting"
+            "Data Engineering"
         ]
     },
     {
-        "title":"Data Scientist Intern - Paris",
-        "company_name":"Artefact",
+        "title":"CDI - Senior Context & Analytics Engineer - Paris",
+        "company_name":"Artefactlinkedin",
+        "location":"9th arrondissement of Paris, 75009, Paris",
+        "remote":false,
+        "job_types":[
+
+        ],
+        "tags":[
+            "Data Analytics"
+        ]
+    },
+    {
+        "title":"CDI - Senior AI Engineer - Paris",
+        "company_name":"Artefactlinkedin",
         "location":"9th arrondissement of Paris, 75009, Paris",
         "remote":false,
         "job_types":[
@@ -2378,31 +2551,7 @@
         ]
     },
     {
-        "title":"CDI -  Senior Digital & Data Marketing Consultant – Paris",
-        "company_name":"Artefact",
-        "location":"9th arrondissement of Paris, 75009, Paris",
-        "remote":false,
-        "job_types":[
-
-        ],
-        "tags":[
-            "Media Consulting"
-        ]
-    },
-    {
-        "title":"Stage Software Engineer - Paris - H\/F\/X",
-        "company_name":"Artefactlinkedin",
-        "location":"9th arrondissement of Paris, 75009, Paris",
-        "remote":false,
-        "job_types":[
-
-        ],
-        "tags":[
-            "Data Engineering"
-        ]
-    },
-    {
-        "title":"Stage Data Consultant - Paris - H\/F\/X",
+        "title":"CDI - Senior AI Builder - Paris",
         "company_name":"Artefactlinkedin",
         "location":"9th arrondissement of Paris, 75009, Paris",
         "remote":false,
@@ -2414,7 +2563,7 @@
         ]
     },
     {
-        "title":"CDI -  Senior Digital & Data Marketing Consultant – Paris",
+        "title":"CDI - Manager Platform Engineer - Paris",
         "company_name":"Artefactlinkedin",
         "location":"9th arrondissement of Paris, 75009, Paris",
         "remote":false,
@@ -2422,281 +2571,39 @@
 
         ],
         "tags":[
-            "Media Consulting"
+            "Data Engineering"
         ]
     },
     {
-        "title":"Senior Client Partner",
-        "company_name":"Deliveroo",
-        "location":"Paris, France",
-        "remote":false,
-        "job_types":[
-
-        ],
-        "tags":[
-
-        ]
-    },
-    {
-        "title":"Founding AI Engineer @Plato (backed by Hexa)",
-        "company_name":"Hexa",
-        "location":"Paris",
-        "remote":false,
-        "job_types":[
-            "Full Time"
-        ],
-        "tags":[
-            "Plato"
-        ]
-    },
-    {
-        "title":"Développeur Nouveaux Projets (F\/H\/X)",
-        "company_name":"Novar Nederland BV",
-        "location":"Lyon, Auvergne-Rhône-Alpes, Frankrijk",
-        "remote":false,
-        "job_types":[
-            "Experienced",
-            "fulltime permanent"
-        ],
-        "tags":[
-            "France"
-        ]
-    },
-    {
-        "title":"Stage – Développement de projets de stockage d’energie par batteries (BESS) (F\/H\/X)",
-        "company_name":"Novar Nederland BV",
-        "location":"Avignon, Provence-Alpes-Côte-d'Azur, Frankrijk",
-        "remote":false,
-        "job_types":[
-            "Entry",
-            "internship"
-        ],
-        "tags":[
-            "France"
-        ]
-    },
-    {
-        "title":"Stage - Finance Operations Intern",
-        "company_name":"Matera",
-        "location":"Paris, Île-de-France, France",
-        "remote":false,
-        "job_types":[
-            "Student college",
-            "internship"
-        ],
-        "tags":[
-            "Finance"
-        ]
-    },
-    {
-        "title":"Stage - Account Executive: Gestion locative",
-        "company_name":"Matera",
-        "location":"Paris, Île-de-France, France",
-        "remote":false,
-        "job_types":[
-            "Entry",
-            "internship"
-        ],
-        "tags":[
-            "Sales & Business Development"
-        ]
-    },
-    {
-        "title":"Administrateur Systèmes, Réseaux & Cloud (F\/H)",
-        "company_name":"Valsoft Corp",
-        "location":"Nantes, France",
-        "remote":false,
-        "job_types":[
-            "Full time"
-        ],
-        "tags":[
-            "Information Technology",
-            "Computer Software",
-            "E-Finances"
-        ]
-    },
-    {
-        "title":"Fullstack Engineer",
-        "company_name":"Comand Ai",
-        "location":"Paris",
-        "remote":false,
-        "job_types":[
-            "Full Time"
-        ],
-        "tags":[
-            "Product Development"
-        ]
-    },
-    {
-        "title":"Procurement Manager -Thermal Protection",
-        "company_name":"The Exploration Company",
-        "location":"Bordeaux, France",
-        "remote":false,
-        "job_types":[
-            "Full Time"
-        ],
-        "tags":[
-            "Program"
-        ]
-    },
-    {
-        "title":"Corporate Paralegal",
-        "company_name":"Mistral.ai",
-        "location":"Paris",
-        "remote":false,
-        "job_types":[
-            "Full Time"
-        ],
-        "tags":[
-            "Legal"
-        ]
-    },
-    {
-        "title":"Solution Operations Manager, Value & Ops Excellence",
-        "company_name":"Mistral.ai",
-        "location":"Paris",
-        "remote":false,
-        "job_types":[
-            "Full Time"
-        ],
-        "tags":[
-            "Solutions"
-        ]
-    },
-    {
-        "title":"Workplace Operations Engineer (22182)",
-        "company_name":"IQ Plus AG",
-        "location":"Baden",
-        "remote":false,
-        "job_types":[
-            "Unbefristeter arbeitsvertrag"
-        ],
-        "tags":[
-            "Business Operations"
-        ]
-    },
-    {
-        "title":"BMC Helix ITSM Consultant (22180 \/ 60-80% Pensum)",
-        "company_name":"IQ Plus AG",
-        "location":"Zürich",
-        "remote":false,
-        "job_types":[
-            "Unbefristeter arbeitsvertrag"
-        ],
-        "tags":[
-            "Business Consulting"
-        ]
-    },
-    {
-        "title":"Senior Softwareentwickler Microsoft Dynamics 365 F&amp;O \/ X++ (m\/w\/d), 80–100% (16032)",
-        "company_name":"IQ Plus AG",
-        "location":"Wallisellen",
-        "remote":false,
-        "job_types":[
-            "Unbefristeter arbeitsvertrag"
-        ],
-        "tags":[
-            "Software Development"
-        ]
-    },
-    {
-        "title":"Embedded Software Architect (56372)",
-        "company_name":"IQ Plus AG",
-        "location":"Frauenfeld",
-        "remote":false,
-        "job_types":[
-            "Unbefristeter arbeitsvertrag"
-        ],
-        "tags":[
-            "Software Development"
-        ]
-    },
-    {
-        "title":"ERP Consultant Microsoft Dynamics 365 Finance and Operations (16031) – Festanstellung",
-        "company_name":"IQ Plus AG",
-        "location":"Winterthur",
-        "remote":true,
-        "job_types":[
-            "Unbefristeter arbeitsvertrag"
-        ],
-        "tags":[
-            "Remote",
-            "Business Operations"
-        ]
-    },
-    {
-        "title":"Software Architekt mit Microservice-Architektur (76040)",
-        "company_name":"IQ Plus AG",
-        "location":"Winterthur",
-        "remote":true,
-        "job_types":[
-            "Unbefristeter arbeitsvertrag"
-        ],
-        "tags":[
-            "Remote",
-            "Software Development"
-        ]
-    },
-    {
-        "title":"M365 Cloud Architekt:in – Enterprise Isolation & Security",
-        "company_name":"Coopers Group AG",
-        "location":"Zürich",
-        "remote":true,
-        "job_types":[
-            "Befristeter arbeitsvertrag",
-            "contract",
-            "berufserfahren"
-        ],
-        "tags":[
-            "Remote",
-            "IT"
-        ]
-    },
-    {
-        "title":"Senior AML\/CFT Compliance Officer",
-        "company_name":"RULEMATCH AG",
-        "location":"Zürich",
+        "title":"Communications Officer",
+        "company_name":"Botnar Institute of Immune Engineering - BIIE",
+        "location":"Allschwil",
         "remote":false,
         "job_types":[
             "Indefinite contract (unbefristeter arbeitsvertrag)",
             "professional \/ experienced"
         ],
         "tags":[
-            "Compliance",
-            "Security"
+            "Public Relations",
+            "Corporate Communication"
         ]
     },
     {
-        "title":"Staff Incubation Engineer-3",
-        "company_name":"Snyk",
-        "location":"Switzerland - Zurich Office",
+        "title":"Technical Pre Sales Engineer (w\/m\/d)",
+        "company_name":"Luware",
+        "location":"Zürich",
         "remote":false,
         "job_types":[
-            "Full Time"
+            "professional \/ experienced"
         ],
         "tags":[
-            "R&D"
+            "Sales Engineer"
         ]
     },
     {
-        "title":"Entra ID & Active Directory Engineer",
-        "company_name":"Coopers Group AG",
-        "location":"Zürich",
-        "remote":true,
-        "job_types":[
-            "Befristeter arbeitsvertrag",
-            "contract",
-            "berufserfahren"
-        ],
-        "tags":[
-            "Remote",
-            "IT Security"
-        ]
-    },
-    {
-        "title":"HR-Leitung 100% (m\/w\/d)",
-        "company_name":"NYDEGGER Personal\/Engineering AG",
-        "location":"Zofingen",
+        "title":"Operative Leitung mit Schwerpunkt Finanzen 80 - 100 %",
+        "company_name":"curadmin AG",
+        "location":"Rotkreuz",
         "remote":false,
         "job_types":[
             "Unbefristeter arbeitsvertrag",
@@ -2708,241 +2615,221 @@
         ]
     },
     {
-        "title":"Senior Sales Manager - Custom Solutions",
-        "company_name":"Netcetera",
-        "location":"Zürich, Switzerland",
-        "remote":false,
-        "job_types":[
-            "Full time",
-            "mid-senior"
-        ],
-        "tags":[
-            "Information Technology and Services"
-        ]
-    },
-    {
-        "title":"Grafikdesigner \/ Marketing Manager 60% (A) Retail",
-        "company_name":"Homberger Personalberatung für Kommunikation",
-        "location":"Zürich",
-        "remote":false,
-        "job_types":[
-            "Unbefristeter arbeitsvertrag",
-            "berufserfahren"
-        ],
-        "tags":[
-            "Marketing Manager"
-        ]
-    },
-    {
-        "title":"Safety Engineering \/ Safety Standards Expert",
-        "company_name":"Coopers Group AG",
-        "location":"Zürich",
-        "remote":false,
-        "job_types":[
-            "Befristeter arbeitsvertrag",
-            "contract",
-            "berufserfahren"
-        ],
-        "tags":[
-            "IT Security"
-        ]
-    },
-    {
-        "title":"IT Support Analyst – Application Operations",
-        "company_name":"Coopers Group AG",
-        "location":"Zürich",
-        "remote":true,
-        "job_types":[
-            "Befristeter arbeitsvertrag",
-            "contract",
-            "berufserfahren"
-        ],
-        "tags":[
-            "Remote",
-            "IT"
-        ]
-    },
-    {
-        "title":"Projektleiter:in IT Infrastruktur & Migration",
-        "company_name":"Coopers Group AG",
-        "location":"Bern",
-        "remote":false,
-        "job_types":[
-            "Unbefristeter arbeitsvertrag",
-            "berufserfahren"
-        ],
-        "tags":[
-            "Project Management"
-        ]
-    },
-    {
-        "title":"Mystery Shopper für spannende Projekte (m\/w\/d) gesucht",
-        "company_name":"Langl & Partner og",
-        "location":"Bern",
-        "remote":false,
-        "job_types":[
-            "Nebentätigkeit",
-            "side",
-            "hilfstätigkeit \/ student"
-        ],
-        "tags":[
-            "Market Research",
-            "Analysis"
-        ]
-    },
-    {
-        "title":"Teilprojektleiter:in",
-        "company_name":"Coopers Group AG",
-        "location":"Bern",
-        "remote":false,
-        "job_types":[
-            "Selbstständiger \/ freelancer",
-            "freelance",
-            "berufserfahren"
-        ],
-        "tags":[
-            "Project Management"
-        ]
-    },
-    {
-        "title":"Emploi flexible à temps partiel en tant que testeur-conseiller",
-        "company_name":"Langl & Partner og",
-        "location":"Crissier",
-        "remote":false,
-        "job_types":[
-            "Activité complémentaire",
-            "side",
-            "professionnel \/ expérimenté"
-        ],
-        "tags":[
-            "Business Consulting"
-        ]
-    },
-    {
-        "title":"Growth Marketer (m\/f\/d)",
-        "company_name":"Benetics AI",
-        "location":"Zürich",
+        "title":"Full-Stack Software Engineer for Web Platform .NET \/ 3D \/ ML",
+        "company_name":"Inspacion AG",
+        "location":"Schlieren",
         "remote":false,
         "job_types":[
             "Indefinite contract (unbefristeter arbeitsvertrag)",
             "professional \/ experienced"
         ],
         "tags":[
+            "Software Development"
+        ]
+    },
+    {
+        "title":"Marketplace & eCommerce Manager (m\/w\/d)",
+        "company_name":"Doetsch Grether",
+        "location":"Basel",
+        "remote":false,
+        "job_types":[
+            "Unbefristeter arbeitsvertrag",
+            "teamleitung"
+        ],
+        "tags":[
             "Online Marketing"
         ]
     },
     {
-        "title":"Business Developer:in & Account Manager:in (60 - 100%)",
-        "company_name":"Zeilenwerk",
+        "title":"MWP Technician",
+        "company_name":"H-Tech Supports",
+        "location":"Geneva",
+        "remote":false,
+        "job_types":[
+            "Freelancer \/ independent contractor (selbstständiger \/ freelancer)",
+            "freelance",
+            "professional \/ experienced"
+        ],
+        "tags":[
+            "Helpdesk"
+        ]
+    },
+    {
+        "title":"Technical Abacus Consultant, 80-100%",
+        "company_name":"Fidigit",
         "location":"Bern",
         "remote":false,
         "job_types":[
             "Unbefristeter arbeitsvertrag",
-            "berufserfahren"
+            "berufseinstieg"
         ],
         "tags":[
-            "Business Development"
+            "SAP\/ERP Consulting",
+            "Development"
         ]
     },
     {
-        "title":"Emploi flexible à temps partiel en tant que testeur-conseiller",
-        "company_name":"Langl & Partner og",
-        "location":"Blonay - Saint-Légier",
+        "title":"Data Science Internship - Wearables & Sensor Data (m\/w\/d) 80-100%",
+        "company_name":"greenteg AG",
+        "location":"Rümlang",
         "remote":false,
         "job_types":[
-            "Activité complémentaire",
-            "side",
-            "professionnel \/ expérimenté"
+            "Internship (praktikumsvertrag)",
+            "internship",
+            "no experience required \/ student"
         ],
         "tags":[
-            "Business Consulting"
+            "Data Scientist"
         ]
     },
     {
-        "title":"Customer Service & Scheduling – German & English",
-        "company_name":"gloor&lang AG",
-        "location":"Neuchâtel",
-        "remote":false,
-        "job_types":[
-            "Indefinite contract (unbefristeter arbeitsvertrag)"
-        ],
-        "tags":[
-            "Customer Service"
-        ]
-    },
-    {
-        "title":"Customer Support Specialist 100%",
-        "company_name":"Soobr AG",
-        "location":"Bern",
+        "title":"Compliance Backoffice Analyst",
+        "company_name":"Casino Davos AG",
+        "location":"Baden",
         "remote":false,
         "job_types":[
             "Unbefristeter arbeitsvertrag",
-            "berufserfahren"
+            "berufseinstieg"
         ],
         "tags":[
-            "Customer Service"
+            "Compliance",
+            "Security"
         ]
     },
     {
-        "title":"Werkstudent*in (m\/w\/d) Implementation & Customer Support",
-        "company_name":"Selise Group AG",
-        "location":"Zürich",
+        "title":"Junior Performance Marketing Manager:in (100 %)",
+        "company_name":"Maison Mollerus",
+        "location":"Erlenbach",
         "remote":false,
         "job_types":[
-            "Befristeter arbeitsvertrag",
-            "hilfstätigkeit \/ student"
+            "Unbefristeter arbeitsvertrag",
+            "berufseinstieg"
         ],
         "tags":[
-            "Customer Service"
+            "Online Marketing"
         ]
     },
     {
-        "title":"Elektrozeichner (m\/w\/d)",
-        "company_name":"TopTeam Engineering GmbH",
-        "location":"Leibstadt",
+        "title":"Projektleiter\/in Geflügel 80 - 100%",
+        "company_name":"two.jobs",
+        "location":"Ruswil",
         "remote":false,
         "job_types":[
-            "Unbefristeter arbeitsvertrag"
+            "Unbefristeter arbeitsvertrag",
+            "teamleitung"
         ],
         "tags":[
-            "Engineering"
+            "Project Management"
         ]
     },
     {
-        "title":"Associate Director, Patient Advocacy, Skeletal Dysplasia",
-        "company_name":"Bridgebio",
+        "title":"Medical Affairs Project Associate Specialist, Post Graduate Trainee",
+        "company_name":"Alnylampharmaceuticals",
         "location":"Zug",
         "remote":false,
         "job_types":[
 
         ],
         "tags":[
-            "Patient Advocacy"
+            "Medical Affairs - International TTR"
         ]
     },
     {
-        "title":"Group Fitness Instructor (m\/w\/d)",
-        "company_name":"PureGym AG",
-        "location":"Lenzburg, Aargau, Schweiz",
+        "title":"Sales Development Representative (all genders) - Switzerland",
+        "company_name":"Wemolo",
+        "location":"Zurich, Switzerland",
         "remote":false,
         "job_types":[
-            "Experienced",
-            "parttime permanent"
+            "Full Time"
         ],
         "tags":[
-            "Live Group Fitness"
+            "Commercial"
         ]
     },
     {
-        "title":"Senior Account Executive - Agency",
-        "company_name":"thetradedesk",
+        "title":"Senior Account Executive (all genders) - Switzerland",
+        "company_name":"Wemolo",
+        "location":"Zurich, Switzerland",
+        "remote":false,
+        "job_types":[
+            "Full Time"
+        ],
+        "tags":[
+            "Commercial"
+        ]
+    },
+    {
+        "title":"Senior Embedded Linux Software Engineer",
+        "company_name":"Auterion",
+        "location":"Zurich",
+        "remote":false,
+        "job_types":[
+
+        ],
+        "tags":[
+            "Engineering"
+        ]
+    },
+    {
+        "title":"Major Sales Director",
+        "company_name":"Catonetworks",
         "location":"",
         "remote":false,
         "job_types":[
 
         ],
         "tags":[
-            "Direct Sales"
+            "Sales - AI Security"
+        ]
+    },
+    {
+        "title":"Product Manager Digital Services (a) 80-100%",
+        "company_name":"Rychiger AG",
+        "location":"Steffisburg",
+        "remote":false,
+        "job_types":[
+            "Unbefristeter arbeitsvertrag",
+            "berufserfahren"
+        ],
+        "tags":[
+            "Product Management"
+        ]
+    },
+    {
+        "title":"Teilprojektleiter Elektrotechnik (a) 80%-100%",
+        "company_name":"Rychiger AG",
+        "location":"Frauenfeld",
+        "remote":false,
+        "job_types":[
+            "Unbefristeter arbeitsvertrag",
+            "berufserfahren"
+        ],
+        "tags":[
+            "Project Management"
+        ]
+    },
+    {
+        "title":"UI Designer - AI Neobank App",
+        "company_name":"Bjak",
+        "location":"Switzerland",
+        "remote":false,
+        "job_types":[
+            "Full Time"
+        ],
+        "tags":[
+            "Creative\/Marketing"
+        ]
+    },
+    {
+        "title":"Software Engineer, Knowledge Engine  – Data Infrastructure",
+        "company_name":"Exa",
+        "location":"Zurich",
+        "remote":false,
+        "job_types":[
+            "Full Time"
+        ],
+        "tags":[
+            "Engineering"
         ]
     },
     {
@@ -2969,6 +2856,32 @@
         ],
         "tags":[
             "Projectlead & Business Analyst"
+        ]
+    },
+    {
+        "title":"Senior IT & Cybersecurity Auditor",
+        "company_name":"SwissPeak Partners GmbH",
+        "location":"Basel, Basel-Stadt, Switzerland",
+        "remote":false,
+        "job_types":[
+            "Experienced",
+            "fulltime permanent"
+        ],
+        "tags":[
+            "Finance & Risk"
+        ]
+    },
+    {
+        "title":"Senior Platform Engineer",
+        "company_name":"SwissPeak Partners GmbH",
+        "location":"Basel, Basel-Stadt, Switzerland",
+        "remote":false,
+        "job_types":[
+            "Experienced",
+            "fulltime permanent"
+        ],
+        "tags":[
+
         ]
     },
     {
@@ -3011,45 +2924,128 @@
         ]
     },
     {
-        "title":"Senior Technical Architect & Developer – Marketing Automation",
-        "company_name":"Sonarsource",
-        "location":"Geneva",
+        "title":"Senior Data Engineer Datenplattform",
+        "company_name":"Callista Group AG",
+        "location":"Luzern, Luzern, Switzerland",
         "remote":false,
         "job_types":[
-            "Employee \/ Full-Time"
+            "Experienced",
+            "freelance"
         ],
         "tags":[
-            "Business Technology"
+            "Software Engineering"
         ]
     },
     {
-        "title":"Account Executive (Spanish and Italian speaker)",
-        "company_name":"Sonarsource",
-        "location":"Geneva",
+        "title":"Head of Customer Success",
+        "company_name":"Rivia",
+        "location":"Zurich",
         "remote":false,
         "job_types":[
-            "Full-time"
+            "Full Time"
         ],
         "tags":[
-            "Sales EMEA"
+            "GTM"
         ]
     },
     {
-        "title":"Account Executive - EMEA East",
-        "company_name":"Sonarsource",
-        "location":"Geneva",
+        "title":"Technischer Projektleiter IT (56380)",
+        "company_name":"IQ Plus AG",
+        "location":"Olten",
         "remote":false,
         "job_types":[
-            "Full-time"
+            "Unbefristeter arbeitsvertrag",
+            "berufserfahren"
         ],
         "tags":[
-            "Sales EMEA"
+            "Project Management"
         ]
     },
     {
-        "title":"IT System Engineer (w\/m\/d), 80–100 %",
-        "company_name":"Dukers",
-        "location":"St. Gallen",
+        "title":"IPhone Rollout\/in (56379)",
+        "company_name":"IQ Plus AG",
+        "location":"Basel",
+        "remote":false,
+        "job_types":[
+            "Unbefristeter arbeitsvertrag",
+            "berufseinstieg"
+        ],
+        "tags":[
+            "Helpdesk"
+        ]
+    },
+    {
+        "title":"ICT-Supporter 80–100% (m\/w\/d) (16033)",
+        "company_name":"IQ Plus AG",
+        "location":"Frauenfeld",
+        "remote":false,
+        "job_types":[
+            "Unbefristeter arbeitsvertrag",
+            "berufseinstieg"
+        ],
+        "tags":[
+            "Helpdesk"
+        ]
+    },
+    {
+        "title":"(Enterprise) Platform Architect (76081)",
+        "company_name":"IQ Plus AG",
+        "location":"Bern",
+        "remote":false,
+        "job_types":[
+            "Unbefristeter arbeitsvertrag",
+            "berufserfahren"
+        ],
+        "tags":[
+            "Consulting",
+            "Engineering"
+        ]
+    },
+    {
+        "title":"Senior Business Analyst \/ Requirements Engineer (76080)",
+        "company_name":"IQ Plus AG",
+        "location":"Winterthur",
+        "remote":true,
+        "job_types":[
+            "Unbefristeter arbeitsvertrag",
+            "berufserfahren"
+        ],
+        "tags":[
+            "Remote",
+            "Consulting",
+            "Engineering"
+        ]
+    },
+    {
+        "title":"ICT Supporter\/in (56378)",
+        "company_name":"IQ Plus AG",
+        "location":"Zürich",
+        "remote":false,
+        "job_types":[
+            "Unbefristeter arbeitsvertrag",
+            "berufserfahren"
+        ],
+        "tags":[
+            "Helpdesk"
+        ]
+    },
+    {
+        "title":"IT Supporter 1st Level (56374)",
+        "company_name":"IQ Plus AG",
+        "location":"Basel",
+        "remote":false,
+        "job_types":[
+            "Unbefristeter arbeitsvertrag",
+            "berufserfahren"
+        ],
+        "tags":[
+            "Helpdesk"
+        ]
+    },
+    {
+        "title":"IT-Spezialist\/in Systembetrieb und Cloud-Infrastruktur (56373)",
+        "company_name":"IQ Plus AG",
+        "location":"Basel",
         "remote":false,
         "job_types":[
             "Unbefristeter arbeitsvertrag",
@@ -3060,45 +3056,537 @@
         ]
     },
     {
-        "title":"Autonomy Engineer Intern, Reinforcement Learning, 2027 (Zurich)",
-        "company_name":"Skydio",
-        "location":"Zurich, Switzerland",
+        "title":"Netzwerk Techniker\/Rollouter für Sion (22175 \/ 60-70% Pensum)",
+        "company_name":"IQ Plus AG",
+        "location":"Sion",
         "remote":false,
         "job_types":[
-            "Intern"
+            "Unbefristeter arbeitsvertrag",
+            "berufserfahren"
         ],
         "tags":[
-            "R&D"
+            "System and Network Administration"
         ]
     },
     {
-        "title":"Autonomy Engineer Intern, Simulation & Robotics, 2027 (Zurich)",
-        "company_name":"Skydio",
-        "location":"Zurich, Switzerland",
+        "title":"Technicien réseau Field Force \/ Technicien ICT pour Sion (22173 \/ 60-70 %)",
+        "company_name":"IQ Plus AG",
+        "location":"Sion",
         "remote":false,
         "job_types":[
-            "Intern"
+            "Contrat à durée indéterminée (unbefristeter arbeitsvertrag)",
+            "professionnel \/ expérimenté"
         ],
         "tags":[
-            "R&D"
+            "System and Network Administration"
         ]
     },
     {
-        "title":"Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools, 2027 (Zurich)",
-        "company_name":"Skydio",
-        "location":"Zurich, Switzerland",
-        "remote":false,
+        "title":"PEGA Spezialist als Lead Business &amp; System Architect (76037)",
+        "company_name":"IQ Plus AG",
+        "location":"Winterthur",
+        "remote":true,
         "job_types":[
-            "Intern"
+            "Unbefristeter arbeitsvertrag",
+            "berufserfahren"
         ],
         "tags":[
-            "R&D"
+            "Remote",
+            "Consulting",
+            "Engineering"
         ]
     },
     {
-        "title":"Head of Operations (Zürich, 100%)",
-        "company_name":"Loki",
+        "title":"Controller:in",
+        "company_name":"Jarusel Consulting GmbH",
+        "location":"Bern",
+        "remote":false,
+        "job_types":[
+            "Unbefristeter arbeitsvertrag",
+            "berufserfahren"
+        ],
+        "tags":[
+            "Controlling"
+        ]
+    },
+    {
+        "title":"Junior Customer Success Manager mit Eigeninitiative & Teamspirit",
+        "company_name":"InnoTix AG",
+        "location":"Zug",
+        "remote":false,
+        "job_types":[
+            "Unbefristeter arbeitsvertrag",
+            "berufseinstieg"
+        ],
+        "tags":[
+            "Customer Service"
+        ]
+    },
+    {
+        "title":"Senior Customer Success Manager mit Eigeninitiative & Teamspirit",
+        "company_name":"InnoTix AG",
+        "location":"Zug",
+        "remote":false,
+        "job_types":[
+            "Unbefristeter arbeitsvertrag",
+            "teamleitung"
+        ],
+        "tags":[
+            "Customer Service"
+        ]
+    },
+    {
+        "title":"System Engineer (m\/w\/d) 80-100%",
+        "company_name":"hs informatica ag",
+        "location":"Chur",
+        "remote":false,
+        "job_types":[
+            "berufserfahren"
+        ],
+        "tags":[
+            "Software Development"
+        ]
+    },
+    {
+        "title":"Senior Data Engineer (Databricks)",
+        "company_name":"Artefactlinkedin",
+        "location":"Lausanne, Vaud",
+        "remote":false,
+        "job_types":[
+
+        ],
+        "tags":[
+            "Data Engineering"
+        ]
+    },
+    {
+        "title":"Senior Data Engineer (Databricks)",
+        "company_name":"Artefact",
+        "location":"Lausanne, Vaud",
+        "remote":false,
+        "job_types":[
+
+        ],
+        "tags":[
+            "Data Engineering"
+        ]
+    },
+    {
+        "title":"Backend Engineer - Integration Platform",
+        "company_name":"BLP Digital AG",
+        "location":"Zurich",
+        "remote":false,
+        "job_types":[
+            "Full Time"
+        ],
+        "tags":[
+            "Engineering"
+        ]
+    },
+    {
+        "title":"Senior Product Manager (Healthcare)",
+        "company_name":"Enzianlabs",
         "location":"Zürich",
+        "remote":false,
+        "job_types":[
+            "Full Time"
+        ],
+        "tags":[
+            "Enzian Labs"
+        ]
+    },
+    {
+        "title":"Head of AI",
+        "company_name":"Poesis",
+        "location":"Zurich",
+        "remote":false,
+        "job_types":[
+            "Full Time"
+        ],
+        "tags":[
+            "AI Research"
+        ]
+    },
+    {
+        "title":"Marketing\/Sales Data Analyst Fund Investments",
+        "company_name":"coni+partner AG",
+        "location":"Zürich",
+        "remote":false,
+        "job_types":[
+            "Indefinite contract (unbefristeter arbeitsvertrag)",
+            "professional \/ experienced"
+        ],
+        "tags":[
+            "Asset",
+            "Fonds Management"
+        ]
+    },
+    {
+        "title":"Director Revenue Management",
+        "company_name":"Sunweb Group",
+        "location":"Rotterdam, Zuid-Holland, Netherlands",
+        "remote":false,
+        "job_types":[
+            "Executive",
+            "fulltime permanent"
+        ],
+        "tags":[
+            "Revenue Management"
+        ]
+    },
+    {
+        "title":"Stage Social & Influencers Feb 2027",
+        "company_name":"Sunweb Group",
+        "location":"Rotterdam, Zuid-Holland, Netherlands",
+        "remote":false,
+        "job_types":[
+            "Student college",
+            "internship"
+        ],
+        "tags":[
+            "Internships"
+        ]
+    },
+    {
+        "title":"Senior Quality Assurance Officer",
+        "company_name":"Vitestro",
+        "location":"Utrecht, Utrecht, Netherlands",
+        "remote":false,
+        "job_types":[
+            "Mid",
+            "fulltime fixed term"
+        ],
+        "tags":[
+            "QA \/ RA"
+        ]
+    },
+    {
+        "title":"Talent Acquisition Intern",
+        "company_name":"Interrail B.V.",
+        "location":"Utrecht , Utrecht, Netherlands",
+        "remote":false,
+        "job_types":[
+            "Entry",
+            "internship"
+        ],
+        "tags":[
+            "People & Culture"
+        ]
+    },
+    {
+        "title":"Meeloopstage | IT Service Improvement & Klantbehoeften",
+        "company_name":"Centric",
+        "location":"Hoogeveen, Drenthe, Nederland",
+        "remote":false,
+        "job_types":[
+            "Student college",
+            "internship"
+        ],
+        "tags":[
+            "Stage"
+        ]
+    },
+    {
+        "title":"Meeloopstage | Software Developer",
+        "company_name":"Centric",
+        "location":"Gouda, Zuid-Holland, Nederland",
+        "remote":false,
+        "job_types":[
+            "Student college",
+            "internship"
+        ],
+        "tags":[
+            "Stage"
+        ]
+    },
+    {
+        "title":"Afstudeerstage | Marketing & Propositieontwikkeling",
+        "company_name":"Centric",
+        "location":"Gouda, Zuid-Holland, Nederland",
+        "remote":false,
+        "job_types":[
+            "Student college",
+            "internship"
+        ],
+        "tags":[
+            "Stage"
+        ]
+    },
+    {
+        "title":"[Interim] Strategy & Transformation Lead (CTO office)",
+        "company_name":"Riverflex",
+        "location":"Amsterdam, Noord-Holland, Netherlands",
+        "remote":false,
+        "job_types":[
+            "Mid",
+            "freelance"
+        ],
+        "tags":[
+
+        ]
+    },
+    {
+        "title":"Technical Integrations Manager",
+        "company_name":"Vio",
+        "location":"Remote",
+        "remote":true,
+        "job_types":[
+            "Full Time"
+        ],
+        "tags":[
+            "Engineering & Technology"
+        ]
+    },
+    {
+        "title":"Staff Data Scientist, Trust & Safety",
+        "company_name":"Vinteden",
+        "location":"Amsterdam",
+        "remote":false,
+        "job_types":[
+
+        ],
+        "tags":[
+            "Data Science & Analytics"
+        ]
+    },
+    {
+        "title":"Senior Site Reliability Engineer, Persistence",
+        "company_name":"Vinteden",
+        "location":"Amsterdam",
+        "remote":false,
+        "job_types":[
+
+        ],
+        "tags":[
+            "Engineering"
+        ]
+    },
+    {
+        "title":"Senior Product Designer, Security",
+        "company_name":"Vinteden",
+        "location":"Amsterdam",
+        "remote":false,
+        "job_types":[
+
+        ],
+        "tags":[
+            "Design"
+        ]
+    },
+    {
+        "title":"Senior Backend Engineer, Service Standards",
+        "company_name":"Vinteden",
+        "location":"Amsterdam",
+        "remote":false,
+        "job_types":[
+
+        ],
+        "tags":[
+            "Greenhouse Requisitions"
+        ]
+    },
+    {
+        "title":"Principal Project Manager",
+        "company_name":"Ncinoinc",
+        "location":"",
+        "remote":false,
+        "job_types":[
+
+        ],
+        "tags":[
+            "Customer Success"
+        ]
+    },
+    {
+        "title":"Deployed Engineering Manager, Northern Europe & DACH",
+        "company_name":"LangChain",
+        "location":"Amsterdam",
+        "remote":false,
+        "job_types":[
+            "Full Time"
+        ],
+        "tags":[
+            "Deployed Engineering"
+        ]
+    },
+    {
+        "title":"Senior Corporate Recruiter",
+        "company_name":"Testendouble",
+        "location":"Amsterdam",
+        "remote":false,
+        "job_types":[
+
+        ],
+        "tags":[
+            "Talent Acquisition"
+        ]
+    },
+    {
+        "title":"Forward Deployed Engineer",
+        "company_name":"Auterion",
+        "location":"Amsterdam",
+        "remote":false,
+        "job_types":[
+
+        ],
+        "tags":[
+            "Engineering"
+        ]
+    },
+    {
+        "title":"HR Medewerker Senior (m\/v\/x)",
+        "company_name":"Koninklijk Nederlands Lucht- en Ruimtevaartcentrum",
+        "location":"Marknesse, Flevoland, Nederland",
+        "remote":false,
+        "job_types":[
+            "Experienced",
+            "fulltime fixed term"
+        ],
+        "tags":[
+            "P&O"
+        ]
+    },
+    {
+        "title":"Marketing Communication Intern (Healthcare Analytics)",
+        "company_name":"LOGEX",
+        "location":"Amsterdam, Noord-Holland, Netherlands",
+        "remote":false,
+        "job_types":[
+            "Experienced",
+            "fulltime permanent"
+        ],
+        "tags":[
+
+        ]
+    },
+    {
+        "title":"Product Designer",
+        "company_name":"SkyCell AG",
+        "location":"Remote job",
+        "remote":true,
+        "job_types":[
+            "Senior manager",
+            "fulltime permanent"
+        ],
+        "tags":[
+            "Product",
+            "Remote"
+        ]
+    },
+    {
+        "title":"Senior Engineer I, Systems Engineering - Controls Engineer",
+        "company_name":"Asm",
+        "location":"",
+        "remote":false,
+        "job_types":[
+
+        ],
+        "tags":[
+            "SU3.Platform Simulation"
+        ]
+    },
+    {
+        "title":"Senior Engineer I, Mechanical Engineering",
+        "company_name":"Asm",
+        "location":"",
+        "remote":false,
+        "job_types":[
+
+        ],
+        "tags":[
+            "SU3.Metal Dep- VF KPU"
+        ]
+    },
+    {
+        "title":"Senior Engineer II, Mechanical Engineering",
+        "company_name":"Asm",
+        "location":"",
+        "remote":false,
+        "job_types":[
+
+        ],
+        "tags":[
+            "SU3.Metal Dep- VF KPU"
+        ]
+    },
+    {
+        "title":"Mobile UI Designer",
+        "company_name":"Bjak",
+        "location":"Netherlands",
+        "remote":false,
+        "job_types":[
+            "Full Time"
+        ],
+        "tags":[
+            "Creative\/Marketing"
+        ]
+    },
+    {
+        "title":"Product Designer (UI\/UX)",
+        "company_name":"Bjak",
+        "location":"Netherlands",
+        "remote":false,
+        "job_types":[
+            "Full Time"
+        ],
+        "tags":[
+            "Creative\/Marketing"
+        ]
+    },
+    {
+        "title":"Senior Integration Software Engineer",
+        "company_name":"Optics11",
+        "location":"Amsterdam, Noord-Holland, Netherlands",
+        "remote":false,
+        "job_types":[
+            "Mid",
+            "fulltime permanent"
+        ],
+        "tags":[
+            "R&D"
+        ]
+    },
+    {
+        "title":"Senior AI\/ML Engineer",
+        "company_name":"Optics11",
+        "location":"Amsterdam, Noord-Holland, Netherlands",
+        "remote":false,
+        "job_types":[
+            "Experienced",
+            "fulltime permanent"
+        ],
+        "tags":[
+            "R&D"
+        ]
+    },
+    {
+        "title":"Senior Customer Solutions Engineer",
+        "company_name":"Plume",
+        "location":"Netherlands",
+        "remote":false,
+        "job_types":[
+
+        ],
+        "tags":[
+
+        ]
+    },
+    {
+        "title":"HR Operations Specialist",
+        "company_name":"Robin Radar",
+        "location":"Delft",
+        "remote":false,
+        "job_types":[
+            "Full Time"
+        ],
+        "tags":[
+            "HR and Facilities"
+        ]
+    },
+    {
+        "title":"Process Improvement Project Manager",
+        "company_name":"Robin Radar",
+        "location":"Delft",
         "remote":false,
         "job_types":[
             "Full Time"
@@ -3108,643 +3596,7 @@
         ]
     },
     {
-        "title":"Account Manager - EMEA",
-        "company_name":"Benchling",
-        "location":"Zurich, Switzerland",
-        "remote":false,
-        "job_types":[
-            "Full Time"
-        ],
-        "tags":[
-            "Customer Experience"
-        ]
-    },
-    {
-        "title":"Senior Fullstack Engineer",
-        "company_name":"BLP Digital AG",
-        "location":"Zurich",
-        "remote":false,
-        "job_types":[
-            "Full Time"
-        ],
-        "tags":[
-            "Engineering"
-        ]
-    },
-    {
-        "title":"BLP Academy Facilitator",
-        "company_name":"BLP Digital AG",
-        "location":"Zurich",
-        "remote":false,
-        "job_types":[
-            "Full Time"
-        ],
-        "tags":[
-            "Customer Success"
-        ]
-    },
-    {
-        "title":"Software Engineer",
-        "company_name":"BLP Digital AG",
-        "location":"Zurich",
-        "remote":false,
-        "job_types":[
-            "Full Time"
-        ],
-        "tags":[
-            "Engineering"
-        ]
-    },
-    {
-        "title":"AI Workflows Engineer - Switzerland",
-        "company_name":"Neuralconcept",
-        "location":"Lausanne",
-        "remote":false,
-        "job_types":[
-            "Full Time"
-        ],
-        "tags":[
-            "Vertical Solutions"
-        ]
-    },
-    {
-        "title":"Consultant senior \/ Manager - Conseil en transformation, organisation et gestion de projet",
-        "company_name":"Ad Valoris",
-        "location":"Geneva",
-        "remote":false,
-        "job_types":[
-            "Contrat à durée indéterminée (unbefristeter arbeitsvertrag)",
-            "manager \/ superviseur"
-        ],
-        "tags":[
-            "Management",
-            "Team Leader"
-        ]
-    },
-    {
-        "title":"Critical Operations Technician - Switzerland",
-        "company_name":"Stack Infrastructure Emea",
-        "location":"Rafz, Switzerland",
-        "remote":false,
-        "job_types":[
-            "Full Time"
-        ],
-        "tags":[
-            "Client Services",
-            "Engineering & Operations"
-        ]
-    },
-    {
-        "title":"Jahrespraktikum Event Management (m\/w\/d) 60-80%",
-        "company_name":"Luya Foods AG",
-        "location":"Bern",
-        "remote":false,
-        "job_types":[
-            "Praktikumsvertrag",
-            "internship"
-        ],
-        "tags":[
-            "Marketing and Communication"
-        ]
-    },
-    {
-        "title":"Principal \/ Senior Consultant EU Transport & Mobility (Project Delivery & Excellence)",
-        "company_name":"Panteia B.V.",
-        "location":"Zoetermeer, Zuid-Holland, Netherlands",
-        "remote":false,
-        "job_types":[
-            "Experienced",
-            "fulltime fixed term"
-        ],
-        "tags":[
-            "Transport & Mobiliteit"
-        ]
-    },
-    {
-        "title":"Senior Adviseur Energie En Laadinfrastructuur Goederenvervoer",
-        "company_name":"Panteia B.V.",
-        "location":"Zoetermeer, Zuid-Holland, Nederland",
-        "remote":false,
-        "job_types":[
-            "Experienced",
-            "fulltime fixed term"
-        ],
-        "tags":[
-            "Transport & Mobiliteit"
-        ]
-    },
-    {
-        "title":"Stage",
-        "company_name":"Priva",
-        "location":"De Lier, Zuid-Holland, Netherlands",
-        "remote":false,
-        "job_types":[
-            "Student college",
-            "internship"
-        ],
-        "tags":[
-            "Open Application \/ Internship"
-        ]
-    },
-    {
-        "title":"HR Stagiaire",
-        "company_name":"Priva",
-        "location":"De Lier, Zuid-Holland, Netherlands",
-        "remote":false,
-        "job_types":[
-            "Student college",
-            "internship"
-        ],
-        "tags":[
-            "People",
-            "Culture and Organization"
-        ]
-    },
-    {
-        "title":"Embedded Staff Engineer",
-        "company_name":"Priva",
-        "location":"De Lier, Zuid-Holland, Netherlands",
-        "remote":false,
-        "job_types":[
-            "Experienced",
-            "fulltime fixed term"
-        ],
-        "tags":[
-            "Tech & Data"
-        ]
-    },
-    {
-        "title":"Production Tester",
-        "company_name":"Priva",
-        "location":"De Lier, Zuid-Holland, Netherlands",
-        "remote":false,
-        "job_types":[
-            "Mid",
-            "fulltime fixed term"
-        ],
-        "tags":[
-            "Production & Logistics"
-        ]
-    },
-    {
-        "title":"Stage Marketing & Communicatie Copywriting",
-        "company_name":"Priva",
-        "location":"De Lier, Zuid-Holland, Netherlands",
-        "remote":false,
-        "job_types":[
-            "Student college",
-            "internship"
-        ],
-        "tags":[
-            "Open Application \/ Internship"
-        ]
-    },
-    {
-        "title":"Talent Acquisition Partner \/ Corporate Recruiter",
-        "company_name":"Priva",
-        "location":"De Lier, Zuid-Holland, Netherlands",
-        "remote":false,
-        "job_types":[
-            "Mid",
-            "fulltime fixed term"
-        ],
-        "tags":[
-            "People",
-            "Culture and Organization"
-        ]
-    },
-    {
-        "title":"Embedded Staff Engineer",
-        "company_name":"Priva",
-        "location":"De Lier, Zuid-Holland, Netherlands",
-        "remote":false,
-        "job_types":[
-            "Manager",
-            "fulltime fixed term"
-        ],
-        "tags":[
-            "Tech & Data"
-        ]
-    },
-    {
-        "title":"Stage Eventmanagement",
-        "company_name":"Priva",
-        "location":"De Lier, Zuid-Holland, Netherlands",
-        "remote":false,
-        "job_types":[
-            "Student college",
-            "internship"
-        ],
-        "tags":[
-            "Open Application \/ Internship"
-        ]
-    },
-    {
-        "title":"Engineering Director - Building Automation",
-        "company_name":"Priva",
-        "location":"De Lier, Zuid-Holland, Netherlands",
-        "remote":false,
-        "job_types":[
-            "Manager",
-            "fulltime permanent"
-        ],
-        "tags":[
-            "Tech & Data"
-        ]
-    },
-    {
-        "title":"Staff Frontend Engineer",
-        "company_name":"Priva",
-        "location":"De Lier, Zuid-Holland, Netherlands",
-        "remote":false,
-        "job_types":[
-            "Experienced",
-            "fulltime permanent"
-        ],
-        "tags":[
-            "Tech & Data"
-        ]
-    },
-    {
-        "title":"Senior Backend Engineer – Energy Optimization & Platform",
-        "company_name":"Priva",
-        "location":"De Lier, Zuid-Holland, Netherlands",
-        "remote":false,
-        "job_types":[
-            "Experienced",
-            "fulltime fixed term"
-        ],
-        "tags":[
-            "Tech & Data"
-        ]
-    },
-    {
-        "title":"Senior HR advisor \/ Senior HR Adviseur",
-        "company_name":"Priva",
-        "location":"De Lier, Zuid-Holland, Netherlands",
-        "remote":false,
-        "job_types":[
-            "Mid",
-            "parttime permanent"
-        ],
-        "tags":[
-            "People",
-            "Culture and Organization"
-        ]
-    },
-    {
-        "title":"Werkstudent Fulfillment",
-        "company_name":"Priva",
-        "location":"De Lier, Zuid-Holland, Netherlands",
-        "remote":false,
-        "job_types":[
-            "Student college",
-            "parttime fixed term"
-        ],
-        "tags":[
-            "Production & Logistics"
-        ]
-    },
-    {
-        "title":"Security Architect",
-        "company_name":"Priva",
-        "location":"De Lier, Zuid-Holland, Netherlands",
-        "remote":false,
-        "job_types":[
-            "Experienced",
-            "fulltime fixed term"
-        ],
-        "tags":[
-            "Tech & Data"
-        ]
-    },
-    {
-        "title":"Legal AI Growth Manager",
-        "company_name":"Saga",
-        "location":"Amsterdam, Noord-Holland, Netherlands",
-        "remote":false,
-        "job_types":[
-            "Entry",
-            "fulltime permanent"
-        ],
-        "tags":[
-            "Marketing"
-        ]
-    },
-    {
-        "title":"Teamleider Logistiek",
-        "company_name":"GEODIS Benelux",
-        "location":"Venlo, Limburg, Nederland",
-        "remote":false,
-        "job_types":[
-            "Experienced",
-            "fulltime permanent"
-        ],
-        "tags":[
-            "Warehouse"
-        ]
-    },
-    {
-        "title":"Product Manager Digital Platforms",
-        "company_name":"Aquablu B.V",
-        "location":"Amsterdam, Noord-Holland, Netherlands",
-        "remote":false,
-        "job_types":[
-            "Mid",
-            "fulltime fixed term"
-        ],
-        "tags":[
-            "Product & Engineering"
-        ]
-    },
-    {
-        "title":"Vacature: Stagiair Illustrator \/ Designer",
-        "company_name":"Bigfish.nl",
-        "location":"Eindhoven",
-        "remote":false,
-        "job_types":[
-            "Stage",
-            "internship",
-            "professional \/ ervaren"
-        ],
-        "tags":[
-            "Graphic Arts and Communication Design"
-        ]
-    },
-    {
-        "title":"Power BI Developer",
-        "company_name":"Verzuimdata B.V.",
-        "location":"Ridderkerk",
-        "remote":false,
-        "job_types":[
-            "Vast contract",
-            "professional \/ ervaren"
-        ],
-        "tags":[
-            "Business Intelligence"
-        ]
-    },
-    {
-        "title":"Senior Specialist II, Talent Acquisition",
-        "company_name":"Asm",
-        "location":"",
-        "remote":false,
-        "job_types":[
-
-        ],
-        "tags":[
-            "SU5.People"
-        ]
-    },
-    {
-        "title":"Senior Lead, Trade Compliance",
-        "company_name":"Asm",
-        "location":"",
-        "remote":false,
-        "job_types":[
-
-        ],
-        "tags":[
-            "SU5.LGL Global Trade Compliance"
-        ]
-    },
-    {
-        "title":"Junior Public Sector Account Executive",
-        "company_name":"Elastic",
-        "location":"",
-        "remote":false,
-        "job_types":[
-
-        ],
-        "tags":[
-            "Sales - EMEA - North"
-        ]
-    },
-    {
-        "title":"Senior Regulatory Compliance Officer",
-        "company_name":"Mollie",
-        "location":"Amsterdam",
-        "remote":false,
-        "job_types":[
-            "Full Time"
-        ],
-        "tags":[
-            "Risk Management and Control"
-        ]
-    },
-    {
-        "title":"Werk Student Recruitment",
-        "company_name":"Eye Security",
-        "location":"The Hague - hybrid",
-        "remote":false,
-        "job_types":[
-            "Full Time"
-        ],
-        "tags":[
-            "Foundation"
-        ]
-    },
-    {
-        "title":"Strategic Account Executive, Energy",
-        "company_name":"databricks",
-        "location":"Amsterdam",
-        "remote":false,
-        "job_types":[
-
-        ],
-        "tags":[
-            "Enterprise Sales"
-        ]
-    },
-    {
-        "title":"Senior Software Engineer - Fullstack",
-        "company_name":"databricks",
-        "location":"Amsterdam",
-        "remote":false,
-        "job_types":[
-
-        ],
-        "tags":[
-            "Engineering - Pipeline"
-        ]
-    },
-    {
-        "title":"Let op: deze procedure bevindt zich al in een gevorderd stadium: Marketing director @ Snelstart",
-        "company_name":"Sound People BV",
-        "location":"Amersfoort, Utrecht, Nederland",
-        "remote":false,
-        "job_types":[
-            "Experienced",
-            "fulltime permanent"
-        ],
-        "tags":[
-
-        ]
-    },
-    {
-        "title":"Reliability Engineer",
-        "company_name":"Storiogroup",
-        "location":"Ypenburg, Nederlands",
-        "remote":false,
-        "job_types":[
-            "Permanent"
-        ],
-        "tags":[
-            "Industrial Engineering"
-        ]
-    },
-    {
-        "title":"Generative AI Analyst | Dutch (Netherlands)",
-        "company_name":"Welo Global",
-        "location":"Netherlands",
-        "remote":false,
-        "job_types":[
-            "Freelance-Remote"
-        ],
-        "tags":[
-            "Data Annotation"
-        ]
-    },
-    {
-        "title":"Product Owner Cloud",
-        "company_name":"Caseware",
-        "location":"Apeldoorn, Netherlands",
-        "remote":false,
-        "job_types":[
-            "Full Time - 12 Month Contract (NL)"
-        ],
-        "tags":[
-            "Cloud Platform"
-        ]
-    },
-    {
-        "title":"Account Executive, Portworx - Strategic Accounts - Telco (EMEA)",
-        "company_name":"purestorage",
-        "location":"Amsterdam",
-        "remote":false,
-        "job_types":[
-
-        ],
-        "tags":[
-            "Sales"
-        ]
-    },
-    {
-        "title":"Senior Technical Success Manager",
-        "company_name":"zscaler",
-        "location":"",
-        "remote":false,
-        "job_types":[
-
-        ],
-        "tags":[
-            "Customer Success"
-        ]
-    },
-    {
-        "title":"Senior Director of Engineering - Civil Government and Commercial",
-        "company_name":"planetlabs",
-        "location":"Haarlem",
-        "remote":false,
-        "job_types":[
-
-        ],
-        "tags":[
-            "Solutions (SWE)"
-        ]
-    },
-    {
-        "title":"Teamleider Werktuigbouwkundige Installaties",
-        "company_name":"VDK Groep B.V.",
-        "location":"Werken op afstand",
-        "remote":true,
-        "job_types":[
-            "Mid",
-            "fulltime fixed term"
-        ],
-        "tags":[
-            "Management & Staff",
-            "Remote"
-        ]
-    },
-    {
-        "title":"Stage CAD Tekenaar en Werkvoorbereider Installatietechniek | Regio Woerden",
-        "company_name":"VDK Groep B.V.",
-        "location":"Nieuwerbrug aan den Rijn, Zuid-Holland, Nederland",
-        "remote":false,
-        "job_types":[
-            "Mid",
-            "fulltime permanent"
-        ],
-        "tags":[
-            "Engineering & Ontwerp"
-        ]
-    },
-    {
-        "title":"Chief Information Security Officer",
-        "company_name":"Ockto",
-        "location":"Naarden, Noord-Holland, Netherlands",
-        "remote":false,
-        "job_types":[
-            "Mid",
-            "fulltime fixed term"
-        ],
-        "tags":[
-            "Staff"
-        ]
-    },
-    {
-        "title":"Afstudeerstage Marketing",
-        "company_name":"12Build",
-        "location":"Nijverdal, Overijssel, Nederland",
-        "remote":false,
-        "job_types":[
-            "Student college",
-            "internship"
-        ],
-        "tags":[
-            "Marketing"
-        ]
-    },
-    {
-        "title":"Afstuderen: Integratie van machine data voor resourceplanning",
-        "company_name":"Voortman Steel Machinery",
-        "location":"Rijssen, Overijssel, Nederland",
-        "remote":false,
-        "job_types":[
-            "Student college",
-            "internship"
-        ],
-        "tags":[
-            "Stage & Afstuderen"
-        ]
-    },
-    {
-        "title":"Senior Front-End Engineer (React) - Personalization",
-        "company_name":"Teampicnic",
-        "location":"Amsterdam",
-        "remote":false,
-        "job_types":[
-
-        ],
-        "tags":[
-            "Engineering"
-        ]
-    },
-    {
-        "title":"Commercial Legal Counsel, EMEA",
-        "company_name":"Airwallex",
-        "location":"NL - Amsterdam",
-        "remote":false,
-        "job_types":[
-            "Full Time"
-        ],
-        "tags":[
-            "Legal"
-        ]
-    },
-    {
-        "title":"3D Packaging Engineer",
+        "title":"Junior Quantum Design Engineer",
         "company_name":"Quantware",
         "location":"Delft",
         "remote":false,
@@ -3756,19 +3608,55 @@
         ]
     },
     {
-        "title":"R&D - Software Engineer",
-        "company_name":"Quantware",
-        "location":"Delft",
+        "title":"Mid-level Backend Engineer, IAM",
+        "company_name":"Datasnipper",
+        "location":"Amsterdam",
         "remote":false,
         "job_types":[
             "Full Time"
         ],
         "tags":[
-            "Research & Development"
+            "Engineering"
         ]
     },
     {
-        "title":"Interim QA Specialist",
+        "title":"People Operations Intern",
+        "company_name":"Datasnipper",
+        "location":"Amsterdam",
+        "remote":false,
+        "job_types":[
+            "Full Time"
+        ],
+        "tags":[
+            "People"
+        ]
+    },
+    {
+        "title":"Staff Backend Engineer",
+        "company_name":"Manychat",
+        "location":"Amsterdam, Netherlands",
+        "remote":false,
+        "job_types":[
+            "Full Time"
+        ],
+        "tags":[
+            "Engineering"
+        ]
+    },
+    {
+        "title":"IT Helpdesk Specialist",
+        "company_name":"Manychat",
+        "location":"Amsterdam, Netherlands",
+        "remote":false,
+        "job_types":[
+            "Full Time"
+        ],
+        "tags":[
+            "Technology"
+        ]
+    },
+    {
+        "title":"Implementation Specialist (German-speaking)",
         "company_name":"Rentman",
         "location":"Utrecht",
         "remote":false,
@@ -3776,69 +3664,182 @@
             "Full Time"
         ],
         "tags":[
-            "R&D"
+            "CX"
         ]
     },
     {
-        "title":"Senior Manager - Product and GTM Enablement",
-        "company_name":"Datasnipper",
-        "location":"Amsterdam",
-        "remote":false,
-        "job_types":[
-            "Full Time"
-        ],
-        "tags":[
-            "Business Operations"
-        ]
-    },
-    {
-        "title":"Technical & Industry Enablement Manager",
-        "company_name":"Datasnipper",
-        "location":"Amsterdam",
-        "remote":false,
-        "job_types":[
-            "Full Time"
-        ],
-        "tags":[
-            "Business Operations"
-        ]
-    },
-    {
-        "title":"Senior Site Reliability Engineer",
-        "company_name":"Datasnipper",
-        "location":"Amsterdam",
-        "remote":false,
-        "job_types":[
-            "Full Time"
-        ],
-        "tags":[
-            "Engineering"
-        ]
-    },
-    {
-        "title":"Lead Supply Chain Coördinator",
-        "company_name":"Crisp",
-        "location":"Amsterdam",
-        "remote":false,
-        "job_types":[
-            "Full Time"
-        ],
-        "tags":[
-            "Assortiment"
-        ]
-    },
-    {
-        "title":"Junior Business Controller",
-        "company_name":"Robin Radar",
-        "location":"Delft",
+        "title":"Anti-Financial Crime Analyst - Dutch & German Speaker",
+        "company_name":"Qonto",
+        "location":"Amsterdam, Netherlands",
         "remote":false,
         "job_types":[
             "Full Time"
         ],
         "tags":[
             "Finance",
-            "IT",
-            "Legal and Compliance"
+            "Legal",
+            "Risk & Compliance",
+            "People & Strat"
+        ]
+    },
+    {
+        "title":"AI Builder",
+        "company_name":"Contentoo",
+        "location":"Amsterdam",
+        "remote":false,
+        "job_types":[
+            "Full Time"
+        ],
+        "tags":[
+            "Product"
+        ]
+    },
+    {
+        "title":"Marketing Intern",
+        "company_name":"Contentoo",
+        "location":"Amsterdam",
+        "remote":false,
+        "job_types":[
+            "Intern"
+        ],
+        "tags":[
+            "Marketing"
+        ]
+    },
+    {
+        "title":"Product Marketer",
+        "company_name":"Contentoo",
+        "location":"Amsterdam",
+        "remote":false,
+        "job_types":[
+            "Full Time"
+        ],
+        "tags":[
+            "Marketing"
+        ]
+    },
+    {
+        "title":"Software Engineer Intern - Fullstack (x\/f\/m) - Amsterdam",
+        "company_name":"Doctolib",
+        "location":"Amsterdam",
+        "remote":false,
+        "job_types":[
+            "Intern"
+        ],
+        "tags":[
+            "Engineering"
+        ]
+    },
+    {
+        "title":"Supply Chain Lead",
+        "company_name":"Rnrs.solutions",
+        "location":"Netherlands",
+        "remote":false,
+        "job_types":[
+            "Full Time"
+        ],
+        "tags":[
+            "External"
+        ]
+    },
+    {
+        "title":"Hardware Electronics Engineer (UAV)",
+        "company_name":"Rnrs.solutions",
+        "location":"Leerdam, NL",
+        "remote":false,
+        "job_types":[
+            "Full Time"
+        ],
+        "tags":[
+            "External"
+        ]
+    },
+    {
+        "title":"Senior Product Engineer - Booking Management",
+        "company_name":"Wetravel",
+        "location":"Amsterdam",
+        "remote":false,
+        "job_types":[
+            "Full Time"
+        ],
+        "tags":[
+            "Engineering & Product"
+        ]
+    },
+    {
+        "title":"Senior Solutions Engineer",
+        "company_name":"Wetravel",
+        "location":"Amsterdam",
+        "remote":false,
+        "job_types":[
+            "Full Time"
+        ],
+        "tags":[
+            "Engineering & Product"
+        ]
+    },
+    {
+        "title":"Manager Service Operations & AI",
+        "company_name":"Staffplanning B.V.",
+        "location":"Amstelveen",
+        "remote":false,
+        "job_types":[
+            "Vast contract",
+            "manager \/ supervisor"
+        ],
+        "tags":[
+            "Business Operations"
+        ]
+    },
+    {
+        "title":"Support Engineer",
+        "company_name":"Staffplanning B.V.",
+        "location":"Amstelveen",
+        "remote":false,
+        "job_types":[
+            "Vast contract",
+            "professional \/ ervaren"
+        ],
+        "tags":[
+            "Helpdesk"
+        ]
+    },
+    {
+        "title":"Medior\/Senior Full Stack Developer",
+        "company_name":"Momo Medical",
+        "location":"Delft, Zuid-Holland, Netherlands",
+        "remote":false,
+        "job_types":[
+            "Mid",
+            "fulltime permanent"
+        ],
+        "tags":[
+            "Development - Customer Champions"
+        ]
+    },
+    {
+        "title":"Senior China Research Analyst",
+        "company_name":"Datenna BV",
+        "location":"Eindhoven, Noord-Brabant, Netherlands",
+        "remote":false,
+        "job_types":[
+            "Experienced",
+            "fulltime fixed term"
+        ],
+        "tags":[
+            "Research"
+        ]
+    },
+    {
+        "title":"Senior Director, Head of Quality & Responsible Person, International",
+        "company_name":"Bridgebio",
+        "location":"",
+        "remote":false,
+        "job_types":[
+
+        ],
+        "tags":[
+            "GMP QA"
         ]
     }
 ]

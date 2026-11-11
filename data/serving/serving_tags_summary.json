@@ -1,174 +1,142 @@
 [
     {
-        "tag":"Remote",
-        "count":21
-    },
-    {
         "tag":"Engineering",
-        "count":13
-    },
-    {
-        "tag":"Software Development",
-        "count":11
-    },
-    {
-        "tag":"Management",
-        "count":10
-    },
-    {
-        "tag":"Team Leader",
-        "count":10
-    },
-    {
-        "tag":"Customer Service",
-        "count":10
-    },
-    {
-        "tag":"Sales",
-        "count":9
-    },
-    {
-        "tag":"Business Consulting",
-        "count":8
-    },
-    {
-        "tag":"Finance",
-        "count":7
-    },
-    {
-        "tag":"R&D",
-        "count":7
-    },
-    {
-        "tag":"Operations",
-        "count":6
+        "count":32
     },
     {
         "tag":"System and Network Administration",
-        "count":6
+        "count":11
     },
     {
-        "tag":"Business Operations",
-        "count":6
+        "tag":"Data Scientist",
+        "count":11
     },
     {
-        "tag":"IT Security",
-        "count":6
-    },
-    {
-        "tag":"Tech & Data",
-        "count":6
-    },
-    {
-        "tag":"Marketing",
-        "count":5
-    },
-    {
-        "tag":"Online Marketing",
-        "count":5
-    },
-    {
-        "tag":"Business Development",
-        "count":5
-    },
-    {
-        "tag":"Marketing and Communication",
-        "count":4
-    },
-    {
-        "tag":"Marketing Manager",
-        "count":4
-    },
-    {
-        "tag":"EMEA Client Services Early Career",
-        "count":4
+        "tag":"Remote",
+        "count":10
     },
     {
         "tag":"Project Management",
-        "count":4
+        "count":9
     },
     {
-        "tag":"IT",
+        "tag":"Marketing",
+        "count":9
+    },
+    {
+        "tag":"Management",
+        "count":9
+    },
+    {
+        "tag":"Team Leader",
+        "count":9
+    },
+    {
+        "tag":"Consulting",
+        "count":8
+    },
+    {
+        "tag":"Development",
+        "count":7
+    },
+    {
+        "tag":"Helpdesk",
+        "count":7
+    },
+    {
+        "tag":"Product",
+        "count":7
+    },
+    {
+        "tag":"Data Engineering",
+        "count":6
+    },
+    {
+        "tag":"Social Media Manager",
+        "count":5
+    },
+    {
+        "tag":"Quality Management",
+        "count":5
+    },
+    {
+        "tag":"Finance",
+        "count":5
+    },
+    {
+        "tag":"R&D",
+        "count":5
+    },
+    {
+        "tag":"SAP\/ERP Consulting",
         "count":4
     },
     {
         "tag":"Product Management",
-        "count":3
+        "count":4
+    },
+    {
+        "tag":"Growth",
+        "count":4
+    },
+    {
+        "tag":"Software Development",
+        "count":4
     },
     {
         "tag":"Market Research",
-        "count":3
+        "count":4
     },
     {
         "tag":"Analysis",
+        "count":4
+    },
+    {
+        "tag":"Engineering & Research",
+        "count":4
+    },
+    {
+        "tag":"Legal",
+        "count":4
+    },
+    {
+        "tag":"Risk & Compliance",
+        "count":4
+    },
+    {
+        "tag":"People & Strat",
+        "count":4
+    },
+    {
+        "tag":"Operations",
         "count":3
     },
     {
-        "tag":"Building",
+        "tag":"Online Marketing",
         "count":3
     },
     {
-        "tag":"Supply",
+        "tag":"Sales Engineer",
         "count":3
     },
     {
-        "tag":"Safety Services Engineering",
+        "tag":"Customer Service",
         "count":3
     },
     {
-        "tag":"SEO",
+        "tag":"Interns",
         "count":3
     },
     {
-        "tag":"Open Application \/ Internship",
+        "tag":"Creative\/Marketing",
         "count":3
     },
     {
-        "tag":"People",
+        "tag":"Stage",
         "count":3
     },
     {
-        "tag":"Culture and Organization",
-        "count":3
-    },
-    {
-        "tag":"Solutions",
-        "count":2
-    },
-    {
-        "tag":"S&M",
-        "count":2
-    },
-    {
-        "tag":"Technology",
-        "count":2
-    },
-    {
-        "tag":"EPD",
-        "count":2
-    },
-    {
-        "tag":"Social Media Manager",
-        "count":2
-    },
-    {
-        "tag":"Automation Engineering",
-        "count":2
-    },
-    {
-        "tag":"Personnel Specialist",
-        "count":2
-    },
-    {
-        "tag":"Beauty",
-        "count":2
-    },
-    {
-        "tag":"Wellness",
-        "count":2
-    },
-    {
-        "tag":"Web Development",
+        "tag":"IT Security",
         "count":2
     },
     {
@@ -176,35 +144,87 @@
         "count":2
     },
     {
-        "tag":"Product",
+        "tag":"Corporate Communication",
         "count":2
     },
     {
-        "tag":"2030 - Sales Engineers (GQP)",
+        "tag":"Compliance",
         "count":2
     },
     {
-        "tag":"Graphic Arts and Communication Design",
+        "tag":"Security",
         "count":2
     },
     {
-        "tag":"Data Engineering",
+        "tag":"Business Operations",
         "count":2
     },
     {
-        "tag":"Data Consulting",
+        "tag":"IT Corporate EMEA",
         "count":2
     },
     {
-        "tag":"Media Consulting",
+        "tag":"Shop\/ E-Commerce",
         "count":2
     },
     {
-        "tag":"France",
+        "tag":"high school or equivalent",
         "count":2
     },
     {
-        "tag":"Legal",
+        "tag":"Directors",
+        "count":2
+    },
+    {
+        "tag":"Chief Executives",
+        "count":2
+    },
+    {
+        "tag":"Design",
+        "count":2
+    },
+    {
+        "tag":"Engineering & Technology",
+        "count":2
+    },
+    {
+        "tag":"Primary Healthcare",
+        "count":2
+    },
+    {
+        "tag":"Growth & Analytics",
+        "count":2
+    },
+    {
+        "tag":"Technology",
+        "count":2
+    },
+    {
+        "tag":"Mixed Signal Products (MSP)",
+        "count":2
+    },
+    {
+        "tag":"278 - Roku TV NPI EUR",
+        "count":2
+    },
+    {
+        "tag":"Algo",
+        "count":2
+    },
+    {
+        "tag":"Customer Operations",
+        "count":2
+    },
+    {
+        "tag":"Dev Eng",
+        "count":2
+    },
+    {
+        "tag":"Research",
+        "count":2
+    },
+    {
+        "tag":"Commercial",
         "count":2
     },
     {
@@ -212,191 +232,19 @@
         "count":2
     },
     {
-        "tag":"Sales EMEA",
+        "tag":"SU3.Metal Dep- VF KPU",
         "count":2
     },
     {
-        "tag":"Customer Success",
+        "tag":"External",
         "count":2
     },
     {
-        "tag":"Transport & Mobiliteit",
+        "tag":"Engineering & Product",
         "count":2
     },
     {
-        "tag":"Production & Logistics",
-        "count":2
-    },
-    {
-        "tag":"Research & Development",
-        "count":2
-    },
-    {
-        "tag":"1559 GSS International PSO",
-        "count":1
-    },
-    {
-        "tag":"Business",
-        "count":1
-    },
-    {
-        "tag":"Energy",
-        "count":1
-    },
-    {
-        "tag":"certification",
-        "count":1
-    },
-    {
-        "tag":"Internet and software",
-        "count":1
-    },
-    {
-        "tag":"high school coursework",
-        "count":1
-    },
-    {
-        "tag":"General & Administrative",
-        "count":1
-    },
-    {
-        "tag":"CUR - Transformation Office",
-        "count":1
-    },
-    {
-        "tag":"Mergers & Acquisitions",
-        "count":1
-    },
-    {
-        "tag":"Power Engineering and Environmental Engineering",
-        "count":1
-    },
-    {
-        "tag":"Trade Marketing",
-        "count":1
-    },
-    {
-        "tag":"Information Systems",
-        "count":1
-    },
-    {
-        "tag":"Controlling",
-        "count":1
-    },
-    {
-        "tag":"Brunswick Group",
-        "count":1
-    },
-    {
-        "tag":"Digital & IT",
-        "count":1
-    },
-    {
-        "tag":"Checkout",
-        "count":1
-    },
-    {
-        "tag":"Revenue",
-        "count":1
-    },
-    {
-        "tag":"Embedded Systems",
-        "count":1
-    },
-    {
-        "tag":"Firmware Development",
-        "count":1
-    },
-    {
-        "tag":"Product & Technology",
-        "count":1
-    },
-    {
-        "tag":"30_TWRKS Marketing & Communications",
-        "count":1
-    },
-    {
-        "tag":"System QA",
-        "count":1
-    },
-    {
-        "tag":"SW Device",
-        "count":1
-    },
-    {
-        "tag":"Gaming - Core Data",
-        "count":1
-    },
-    {
-        "tag":"Partnerships & Delivery",
-        "count":1
-    },
-    {
-        "tag":"Referencing",
-        "count":1
-    },
-    {
-        "tag":"FDN",
-        "count":1
-    },
-    {
-        "tag":"Software (Project Delivery)",
-        "count":1
-    },
-    {
-        "tag":"NaturalMotion",
-        "count":1
-    },
-    {
-        "tag":"Core Video & Data",
-        "count":1
-    },
-    {
-        "tag":"Ingenuity Fulfilment",
-        "count":1
-    },
-    {
-        "tag":"Ingenuity Commerce",
-        "count":1
-    },
-    {
-        "tag":"Professional Services",
-        "count":1
-    },
-    {
-        "tag":"Product & UX",
-        "count":1
-    },
-    {
-        "tag":"Food & Beverage",
-        "count":1
-    },
-    {
-        "tag":"G&A",
-        "count":1
-    },
-    {
-        "tag":"Operations & Account Management",
-        "count":1
-    },
-    {
-        "tag":"Dev Eng",
-        "count":1
-    },
-    {
-        "tag":"SALES",
-        "count":1
-    },
-    {
-        "tag":"Informatique et Système d'information",
-        "count":1
-    },
-    {
-        "tag":"Informatique",
-        "count":1
-    },
-    {
-        "tag":"Corporate Communication",
+        "tag":"Auditor",
         "count":1
     },
     {
@@ -408,7 +256,215 @@
         "count":1
     },
     {
-        "tag":"Data",
+        "tag":"Media",
+        "count":1
+    },
+    {
+        "tag":"Screen and Web Design",
+        "count":1
+    },
+    {
+        "tag":"Business Development",
+        "count":1
+    },
+    {
+        "tag":"Werraenergie GmbH",
+        "count":1
+    },
+    {
+        "tag":"WerraEnergiedienste GmbH",
+        "count":1
+    },
+    {
+        "tag":"Portfolio Company",
+        "count":1
+    },
+    {
+        "tag":"People & Finance",
+        "count":1
+    },
+    {
+        "tag":"Quality",
+        "count":1
+    },
+    {
+        "tag":"Magenta",
+        "count":1
+    },
+    {
+        "tag":"General Management & Strategy",
+        "count":1
+    },
+    {
+        "tag":"Supply Chain",
+        "count":1
+    },
+    {
+        "tag":"Kundenbetreuung",
+        "count":1
+    },
+    {
+        "tag":"Credit Analysis",
+        "count":1
+    },
+    {
+        "tag":"Insurance",
+        "count":1
+    },
+    {
+        "tag":"Governance & Legal",
+        "count":1
+    },
+    {
+        "tag":"Other",
+        "count":1
+    },
+    {
+        "tag":"high school coursework",
+        "count":1
+    },
+    {
+        "tag":"Recruitment and Selection",
+        "count":1
+    },
+    {
+        "tag":"Information technology",
+        "count":1
+    },
+    {
+        "tag":"bachelor's degree",
+        "count":1
+    },
+    {
+        "tag":"Technical",
+        "count":1
+    },
+    {
+        "tag":"Program Management",
+        "count":1
+    },
+    {
+        "tag":"Client Services",
+        "count":1
+    },
+    {
+        "tag":"Dex",
+        "count":1
+    },
+    {
+        "tag":"Client Roles",
+        "count":1
+    },
+    {
+        "tag":"Lending & Operations",
+        "count":1
+    },
+    {
+        "tag":"Distribution",
+        "count":1
+    },
+    {
+        "tag":"Security and Privacy",
+        "count":1
+    },
+    {
+        "tag":"Design & Strategy",
+        "count":1
+    },
+    {
+        "tag":"Research Science",
+        "count":1
+    },
+    {
+        "tag":"Strategy",
+        "count":1
+    },
+    {
+        "tag":"260 - Roku TV NPI Americas",
+        "count":1
+    },
+    {
+        "tag":"Data Operations",
+        "count":1
+    },
+    {
+        "tag":"Behavioral Security Products",
+        "count":1
+    },
+    {
+        "tag":"Borrowing",
+        "count":1
+    },
+    {
+        "tag":"Géotechnique",
+        "count":1
+    },
+    {
+        "tag":"Informatique",
+        "count":1
+    },
+    {
+        "tag":"Sites et Sols Pollués",
+        "count":1
+    },
+    {
+        "tag":"42300 Channel Sales - EMEA",
+        "count":1
+    },
+    {
+        "tag":"Apparel & Fashion",
+        "count":1
+    },
+    {
+        "tag":"Headquarters",
+        "count":1
+    },
+    {
+        "tag":"Sales - Regional Sales Director",
+        "count":1
+    },
+    {
+        "tag":"All Cost Center",
+        "count":1
+    },
+    {
+        "tag":"Business Recruiting",
+        "count":1
+    },
+    {
+        "tag":"Ops",
+        "count":1
+    },
+    {
+        "tag":"Technical Staff",
+        "count":1
+    },
+    {
+        "tag":"Logistique",
+        "count":1
+    },
+    {
+        "tag":"Computer Hardware",
+        "count":1
+    },
+    {
+        "tag":"Logistics and Supply Chain",
+        "count":1
+    },
+    {
+        "tag":"Marketing & Communication",
+        "count":1
+    },
+    {
+        "tag":"SALES",
+        "count":1
+    },
+    {
+        "tag":"Trade Marketing",
+        "count":1
+    },
+    {
+        "tag":"Data Analytics",
         "count":1
     },
     {
@@ -416,55 +472,15 @@
         "count":1
     },
     {
-        "tag":"Plato",
+        "tag":"Data Consulting",
         "count":1
     },
     {
-        "tag":"Sales & Business Development",
+        "tag":"Medical Affairs - International TTR",
         "count":1
     },
     {
-        "tag":"Information Technology",
-        "count":1
-    },
-    {
-        "tag":"Computer Software",
-        "count":1
-    },
-    {
-        "tag":"E-Finances",
-        "count":1
-    },
-    {
-        "tag":"Product Development",
-        "count":1
-    },
-    {
-        "tag":"Program",
-        "count":1
-    },
-    {
-        "tag":"Compliance",
-        "count":1
-    },
-    {
-        "tag":"Security",
-        "count":1
-    },
-    {
-        "tag":"Information Technology and Services",
-        "count":1
-    },
-    {
-        "tag":"Patient Advocacy",
-        "count":1
-    },
-    {
-        "tag":"Live Group Fitness",
-        "count":1
-    },
-    {
-        "tag":"Direct Sales",
+        "tag":"Sales - AI Security",
         "count":1
     },
     {
@@ -476,107 +492,107 @@
         "count":1
     },
     {
+        "tag":"Finance & Risk",
+        "count":1
+    },
+    {
         "tag":"Transver",
         "count":1
     },
     {
-        "tag":"Business Technology",
+        "tag":"Software Engineering",
         "count":1
     },
     {
-        "tag":"Customer Experience",
+        "tag":"GTM",
         "count":1
     },
     {
-        "tag":"Vertical Solutions",
+        "tag":"Controlling",
         "count":1
     },
     {
-        "tag":"Client Services",
+        "tag":"Enzian Labs",
         "count":1
     },
     {
-        "tag":"Engineering & Operations",
+        "tag":"AI Research",
         "count":1
     },
     {
-        "tag":"Warehouse",
+        "tag":"Asset",
         "count":1
     },
     {
-        "tag":"Product & Engineering",
+        "tag":"Fonds Management",
         "count":1
     },
     {
-        "tag":"Business Intelligence",
+        "tag":"Revenue Management",
         "count":1
     },
     {
-        "tag":"SU5.People",
+        "tag":"Internships",
         "count":1
     },
     {
-        "tag":"SU5.LGL Global Trade Compliance",
+        "tag":"QA \/ RA",
         "count":1
     },
     {
-        "tag":"Sales - EMEA - North",
+        "tag":"People & Culture",
         "count":1
     },
     {
-        "tag":"Risk Management and Control",
+        "tag":"Data Science & Analytics",
         "count":1
     },
     {
-        "tag":"Foundation",
+        "tag":"Greenhouse Requisitions",
         "count":1
     },
     {
-        "tag":"Enterprise Sales",
+        "tag":"Customer Success",
         "count":1
     },
     {
-        "tag":"Engineering - Pipeline",
+        "tag":"Deployed Engineering",
         "count":1
     },
     {
-        "tag":"Industrial Engineering",
+        "tag":"Talent Acquisition",
         "count":1
     },
     {
-        "tag":"Data Annotation",
+        "tag":"P&O",
         "count":1
     },
     {
-        "tag":"Cloud Platform",
+        "tag":"SU3.Platform Simulation",
         "count":1
     },
     {
-        "tag":"Solutions (SWE)",
+        "tag":"HR and Facilities",
         "count":1
     },
     {
-        "tag":"Management & Staff",
+        "tag":"Research & Development",
         "count":1
     },
     {
-        "tag":"Engineering & Ontwerp",
+        "tag":"People",
         "count":1
     },
     {
-        "tag":"Staff",
+        "tag":"CX",
         "count":1
     },
     {
-        "tag":"Stage & Afstuderen",
+        "tag":"Development - Customer Champions",
         "count":1
     },
     {
-        "tag":"Assortiment",
-        "count":1
-    },
-    {
-        "tag":"Legal and Compliance",
+        "tag":"GMP QA",
         "count":1
     }
 ]

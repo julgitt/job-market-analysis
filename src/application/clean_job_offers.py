@@ -24,12 +24,12 @@ def clean_text(value: str) -> str:
     return value.strip()
 
 
-def get_latest_raw_file(raw_data_dir: Path):
+def get_latest_raw_file(raw_data_dir):
     raw_files = sorted(raw_data_dir.glob("job_offers_*.json"))
     return raw_files[-1] if raw_files else None
 
 
-def load_json_payload(file_path: Path):
+def load_json_payload(file_path):
     with file_path.open("r", encoding="utf-8") as file:
         payload = json.load(file)
     if not isinstance(payload, dict) or not isinstance(payload.get("data"), list):
